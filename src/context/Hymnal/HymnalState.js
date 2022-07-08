@@ -27,7 +27,7 @@ const HymnalState = (props) => {
     //const res = await axios.get('https://reqres.in/api/users/'+id);
     dispatch({
       type: 'GET_ANTHEM',
-      payload: hymnal[id]
+      payload: hymnal[id-1]
     })
   }
 

@@ -6,6 +6,7 @@ import HymnalList from './components/HymnalList'
 import HymnalState from './context/Hymnal/HymnalState'
 //BOOTSTRAPP
 import 'bootstrap/dist/css/bootstrap.min.css'
+import 'bootstrap/dist/js/bootstrap.min.js'
 
 
 function App() {
