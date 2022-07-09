@@ -1,6 +1,7 @@
 import React, {useEffect, useContext, useState} from 'react'
 import HymnalContext from '../context/Hymnal/HymnalContext'
 import {categ, hymnal} from "../resources/himn";
+import Profile from './Profile'
 
 const HymnalList = () => {
 
@@ -27,6 +28,7 @@ const HymnalList = () => {
   },[])
 
   const fill = (arr) => {   
+    setsearch('')
     setHimnal(hymnal.filter(
       (coin) =>    
       arr.some(x => x === coin.id)
@@ -58,6 +60,7 @@ const HymnalList = () => {
                 <input type="range" className="form-range" min="14" max="28" onChange={e => setTextSize(+e.target.value)} id="customRange2" value={textSize} />
                   <a 
                       className='list-group-item list-group-item-action text-center' 
+                      data-bs-toggle="modal" data-bs-target="#staticBackdrop"
                       href="#!" 
                       onClick={() => getAnthem(hymnal.id)}
                       >             
@@ -82,34 +85,186 @@ const HymnalList = () => {
       <div className="offcanvas-body">        
         <ul className="list-group">
         <li className="list-group-item d-flex justify-content-between align-items-center" onClick={() => setHimnal(hymnal)}>
-            Todos
+            TODOS
             <span className="badge bg-primary rounded-pill">{hymnal.length}</span>
           </li>
-          <li className="list-group-item d-flex justify-content-between align-items-center" onClick={() => fill(categ.sat)}>
-            Sábado
-            <span className="badge bg-primary rounded-pill">{categ.sat.length}</span>
+          <li className="list-group-item d-flex justify-content-between align-items-center" onClick={() => fill(categ.AVIVAMIENTO)}>
+            AVIVAMIENTO
+            <span className="badge bg-primary rounded-pill">{categ.AVIVAMIENTO.length}</span>
           </li>
-          <li className="list-group-item d-flex justify-content-between align-items-center" onClick={() => fill(categ.bau)}>
-            Miembros
-            <span className="badge bg-primary rounded-pill">{categ.bau.length}</span>
-          </li>          
+          <li className="list-group-item d-flex justify-content-between align-items-center" onClick={() => fill(categ.ALABANZAS)}>
+            ALABANZAS
+            <span className="badge bg-primary rounded-pill">{categ.ALABANZAS.length}</span>
+          </li> 
+          <li className="list-group-item d-flex justify-content-between align-items-center" onClick={() => fill(categ.AMONESTACION)}>
+          AMONESTACION
+            <span className="badge bg-primary rounded-pill">{categ.AMONESTACION.length}</span>
+          </li>  
+          <li className="list-group-item d-flex justify-content-between align-items-center" onClick={() => fill(categ.BAUTISMO)}>
+          BAUTISMO
+            <span className="badge bg-primary rounded-pill">{categ.BAUTISMO.length}</span>
+          </li>  
+          <li className="list-group-item d-flex justify-content-between align-items-center" onClick={() => fill(categ.BODAS)}>
+          BODAS
+            <span className="badge bg-primary rounded-pill">{categ.BODAS.length}</span>
+          </li>  
+          <li className="list-group-item d-flex justify-content-between align-items-center" onClick={() => fill(categ.CONSAGRACION)}>
+          CONSAGRACION
+            <span className="badge bg-primary rounded-pill">{categ.CONSAGRACION.length}</span>
+          </li>  
+          <li className="list-group-item d-flex justify-content-between align-items-center" onClick={() => fill(categ.CULTOS_DE_ESPERA)}>
+          CULTOS DE ESPERA
+            <span className="badge bg-primary rounded-pill">{categ.CULTOS_DE_ESPERA.length}</span>
+          </li>  
+          <li className="list-group-item d-flex justify-content-between align-items-center" onClick={() => fill(categ.CONSUELO)}>
+          CONSUELO
+            <span className="badge bg-primary rounded-pill">{categ.CONSUELO.length}</span>
+          </li>  
+          <li className="list-group-item d-flex justify-content-between align-items-center" onClick={() => fill(categ.COROS)}>
+          COROS
+            <span className="badge bg-primary rounded-pill">{categ.COROS.length}</span>
+          </li>  
+          <li className="list-group-item d-flex justify-content-between align-items-center" onClick={() => fill(categ.DIA_DE_LAS_MADRES)}>
+          DIA_DE_LAS_MADRES
+            <span className="badge bg-primary rounded-pill">{categ.DIA_DE_LAS_MADRES.length}</span>
+          </li>  
+          <li className="list-group-item d-flex justify-content-between align-items-center" onClick={() => fill(categ.DIA_DE_LA_BIBLIA)}>
+          DIA_DE_LA_BIBLIA
+            <span className="badge bg-primary rounded-pill">{categ.DIA_DE_LA_BIBLIA.length}</span>
+          </li>  
+          <li className="list-group-item d-flex justify-content-between align-items-center" onClick={() => fill(categ.DIA_DE_GRACIAS)}>
+          DIA_DE_GRACIAS
+            <span className="badge bg-primary rounded-pill">{categ.DIA_DE_GRACIAS.length}</span>
+          </li>  
+          <li className="list-group-item d-flex justify-content-between align-items-center" onClick={() => fill(categ.DECISION)}>
+          DECISION
+            <span className="badge bg-primary rounded-pill">{categ.DECISION.length}</span>
+          </li>  
+          <li className="list-group-item d-flex justify-content-between align-items-center" onClick={() => fill(categ.DIEZMOS)}>
+          DIEZMOS
+            <span className="badge bg-primary rounded-pill">{categ.DIEZMOS.length}</span>
+          </li>  
+          <li className="list-group-item d-flex justify-content-between align-items-center" onClick={() => fill(categ.EVANGELISTICO)}>
+          EVANGELISTICO
+            <span className="badge bg-primary rounded-pill">{categ.EVANGELISTICO.length}</span>
+          </li>  
+          <li className="list-group-item d-flex justify-content-between align-items-center" onClick={() => fill(categ.ENVIO_DE_OBREROS)}>
+          ENVIO_DE_OBREROS
+            <span className="badge bg-primary rounded-pill">{categ.ENVIO_DE_OBREROS.length}</span>
+          </li>  
+          <li className="list-group-item d-flex justify-content-between align-items-center" onClick={() => fill(categ.ESFUERZO)}>
+          ESFUERZO
+            <span className="badge bg-primary rounded-pill">{categ.ESFUERZO.length}</span>
+          </li>  
+          <li className="list-group-item d-flex justify-content-between align-items-center" onClick={() => fill(categ.EXTENSION_DE_LA_OBRA)}>
+          EXTENSION_DE_LA_OBRA
+            <span className="badge bg-primary rounded-pill">{categ.EXTENSION_DE_LA_OBRA.length}</span>
+          </li>  
+          <li className="list-group-item d-flex justify-content-between align-items-center" onClick={() => fill(categ.ESPECIALES)}>
+          ESPECIALES
+            <span className="badge bg-primary rounded-pill">{categ.ESPECIALES.length}</span>
+          </li>  
+          <li className="list-group-item d-flex justify-content-between align-items-center" onClick={() => fill(categ.FUNERAL)}>
+          FUNERAL
+            <span className="badge bg-primary rounded-pill">{categ.FUNERAL.length}</span>
+          </li>  
+          <li className="list-group-item d-flex justify-content-between align-items-center" onClick={() => fill(categ.GRATITUD)}>
+          GRATITUD
+            <span className="badge bg-primary rounded-pill">{categ.GRATITUD.length}</span>
+          </li>  
+          <li className="list-group-item d-flex justify-content-between align-items-center" onClick={() => fill(categ.HIMNO_POR_LA_NACION)}>
+          HIMNO_POR_LA_NACION
+            <span className="badge bg-primary rounded-pill">{categ.HIMNO_POR_LA_NACION.length}</span>
+          </li>  
+          <li className="list-group-item d-flex justify-content-between align-items-center" onClick={() => fill(categ.JUVENTUD)}>
+          JUVENTUD
+            <span className="badge bg-primary rounded-pill">{categ.JUVENTUD.length}</span>
+          </li>  
+          <li className="list-group-item d-flex justify-content-between align-items-center" onClick={() => fill(categ.LLAMAMIENTO)}>
+          LLAMAMIENTO
+            <span className="badge bg-primary rounded-pill">{categ.LLAMAMIENTO.length}</span>
+          </li>  
+          <li className="list-group-item d-flex justify-content-between align-items-center" onClick={() => fill(categ.MENSAJERO)}>
+          MENSAJERO
+            <span className="badge bg-primary rounded-pill">{categ.MENSAJERO.length}</span>
+          </li>  
+          <li className="list-group-item d-flex justify-content-between align-items-center" onClick={() => fill(categ.MISIONERO)}>
+          MISIONERO
+            <span className="badge bg-primary rounded-pill">{categ.MISIONERO.length}</span>
+          </li>  
+          <li className="list-group-item d-flex justify-content-between align-items-center" onClick={() => fill(categ.NINOS)}>
+          NINOS
+            <span className="badge bg-primary rounded-pill">{categ.NINOS.length}</span>
+          </li>  
+          <li className="list-group-item d-flex justify-content-between align-items-center" onClick={() => fill(categ.NAVIDAD)}>
+          NAVIDAD
+            <span className="badge bg-primary rounded-pill">{categ.NAVIDAD.length}</span>
+          </li>  
+          <li className="list-group-item d-flex justify-content-between align-items-center" onClick={() => fill(categ.ORACION)}>
+          ORACION
+            <span className="badge bg-primary rounded-pill">{categ.ORACION.length}</span>
+          </li>  
+          <li className="list-group-item d-flex justify-content-between align-items-center" onClick={() => fill(categ.PASION_Y_MUERTE)}>
+          PASION_Y_MUERTE
+            <span className="badge bg-primary rounded-pill">{categ.PASION_Y_MUERTE.length}</span>
+          </li>  
+          <li className="list-group-item d-flex justify-content-between align-items-center" onClick={() => fill(categ.PRUEBAS)}>
+          PRUEBAS
+            <span className="badge bg-primary rounded-pill">{categ.PRUEBAS.length}</span>
+          </li>  
+          <li className="list-group-item d-flex justify-content-between align-items-center" onClick={() => fill(categ.RESURRECCION)}>
+          RESURRECCION
+            <span className="badge bg-primary rounded-pill">{categ.RESURRECCION.length}</span>
+          </li>  
+          <li className="list-group-item d-flex justify-content-between align-items-center" onClick={() => fill(categ.RECONCILIACION)}>
+          RECONCILIACION
+            <span className="badge bg-primary rounded-pill">{categ.RECONCILIACION.length}</span>
+          </li>  
+          <li className="list-group-item d-flex justify-content-between align-items-center" onClick={() => fill(categ.SANIDAD_DIVINA)}>
+          SANIDAD_DIVINA
+            <span className="badge bg-primary rounded-pill">{categ.SANIDAD_DIVINA.length}</span>
+          </li>  
+          <li className="list-group-item d-flex justify-content-between align-items-center" onClick={() => fill(categ.SABADO)}>
+          SABADO
+            <span className="badge bg-primary rounded-pill">{categ.SABADO.length}</span>
+          </li>  
+          <li className="list-group-item d-flex justify-content-between align-items-center" onClick={() => fill(categ.SANTA_CENA)}>
+          SANTA_CENA
+            <span className="badge bg-primary rounded-pill">{categ.SANTA_CENA.length}</span>
+          </li>  
+          <li className="list-group-item d-flex justify-content-between align-items-center" onClick={() => fill(categ.SOLDADOS_Y_DISCIPULOS)}>
+          SOLDADOS_Y_DISCIPULOS
+            <span className="badge bg-primary rounded-pill">{categ.SOLDADOS_Y_DISCIPULOS.length}</span>
+          </li>  
+          <li className="list-group-item d-flex justify-content-between align-items-center" onClick={() => fill(categ.SOLOS)}>
+          SOLOS
+            <span className="badge bg-primary rounded-pill">{categ.SOLOS.length}</span>
+          </li>  
+          <li className="list-group-item d-flex justify-content-between align-items-center" onClick={() => fill(categ.TESTIMONIOS)}>
+          TESTIMONIOS
+            <span className="badge bg-primary rounded-pill">{categ.TESTIMONIOS.length}</span>
+          </li>  
+          <li className="list-group-item d-flex justify-content-between align-items-center" onClick={() => fill(categ.UNIDAD)}>
+          UNIDAD
+            <span className="badge bg-primary rounded-pill">{categ.UNIDAD.length}</span>
+          </li>  
+          <li className="list-group-item d-flex justify-content-between align-items-center" onClick={() => fill(categ.VOTOS)}>
+          VOTOS
+            <span className="badge bg-primary rounded-pill">{categ.VOTOS.length}</span>
+          </li>                     
         </ul>
       </div>
     </div>
-
-    <button type="button" className="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModalFullscreenXxl">
-      Launch static backdrop modal
-    </button>
-    <div className="modal fade show" id="exampleModalFullscreenXxl" tabIndex="-1" aria-labelledby="exampleModalFullscreenXxlLabel" aria-modal="true" role="dialog">
+        
+    <div className="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabIndex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
       <div className="modal-dialog modal-fullscreen-xxl-down">
-        <div className="modal-content">
-          <div className="modal-header">
-            <h5 className="modal-title h4" id="exampleModalFullscreenXxlLabel">Full screen below xxl</h5>
-            <button type="button" className="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-          </div>
+        <div className="modal-content">          
           <div className="modal-body">
-           
-          </div>          
+          <Profile/> 
+          </div>
+          <div className="modal-footer">
+            <button type="button" className="btn btn-secondary" data-bs-dismiss="modal">Close</button>            
+          </div>
         </div>
       </div>
     </div>
