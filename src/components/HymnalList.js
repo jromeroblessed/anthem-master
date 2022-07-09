@@ -70,7 +70,7 @@ const HymnalList = () => {
                 </div>
               </div>
             </div>
-          </div>          
+          </div>
         ))
       }
     </div>
@@ -94,6 +94,23 @@ const HymnalList = () => {
             <span className="badge bg-primary rounded-pill">{categ.bau.length}</span>
           </li>          
         </ul>
+      </div>
+    </div>
+
+    <button type="button" className="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModalFullscreenXxl">
+      Launch static backdrop modal
+    </button>
+    <div className="modal fade show" id="exampleModalFullscreenXxl" tabIndex="-1" aria-labelledby="exampleModalFullscreenXxlLabel" aria-modal="true" role="dialog">
+      <div className="modal-dialog modal-fullscreen-xxl-down">
+        <div className="modal-content">
+          <div className="modal-header">
+            <h5 className="modal-title h4" id="exampleModalFullscreenXxlLabel">Full screen below xxl</h5>
+            <button type="button" className="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div className="modal-body">
+           
+          </div>          
+        </div>
       </div>
     </div>
     </>

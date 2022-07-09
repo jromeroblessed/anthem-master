@@ -299,3 +299,47 @@ export const categ = {sat:[1,7,15],bau:[10,18,16]};
 /*https://drive.google.com/uc?alt=media&id=1RpIKNtiXF5rPSPKUcIMMD3Ivnnsijdep
 https://drive.google.com/uc?export=download&id=1RpIKNtiXF5rPSPKUcIMMD3Ivnnsijdep
 https://drive.google.com/uc?export=play&id=1RpIKNtiXF5rPSPKUcIMMD3Ivnnsijdep*/
+
+/*
+
+<button type="button" className="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+  Launch static backdrop modal
+</button>
+
+
+<div className="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabIndex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+  <div className="modal-dialog">
+    <div className="modal-content">
+      <div className="modal-header">
+        <h5 className="modal-title" id="staticBackdropLabel">Modal title</h5>
+        <button type="button" className="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div className="modal-body">
+        ...
+      </div>
+      <div className="modal-footer">
+        <button type="button" className="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        <button type="button" className="btn btn-primary">Understood</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div className="modal fade show" id="exampleModalFullscreenXxl" tabIndex="-1" aria-labelledby="exampleModalFullscreenXxlLabel" aria-modal="true" role="dialog">
+      <div className="modal-dialog modal-fullscreen-xxl-down">
+        <div className="modal-content">
+          <div className="modal-header">
+            <h5 className="modal-title h4" id="exampleModalFullscreenXxlLabel">Full screen below xxl</h5>
+            <button type="button" className="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div className="modal-body">
+           
+          </div>
+          <div className="modal-footer">
+            <button type="button" className="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+style="display: block; padding-left: 0px;"
+*/
