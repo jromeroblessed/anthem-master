@@ -13,30 +13,38 @@ const Profile = () => {
           <em style={{fontSize: textSize}}>
             {selectedAnthem.anthem}
           </em>
-        </pre>        
+        </pre>
+        <div className='row'>
+        <div className='form-group col-md-6'>
+        <label className='lbl'>Pista</label>      
         <div className='player-wrapper'>
           <ReactPlayer 
           className='react-player'
           url={`https://drive.google.com/uc?alt=media&id=${selectedAnthem.track}`} 
           controls
-          light
-          fallback
+          light  
+          style={{maxHeight:'60px'}}
           width='100%'
           height='100%'
           />
         </div>
+        </div>
+        <div className='form-group col-md-6'>
+        <label className='lbl'>Cantada</label>
         <div className='player-wrapper'>
           <ReactPlayer 
           className='react-player'
           url={[{src:`https://drive.google.com/uc?alt=media&id=${selectedAnthem.demo}`,type:'audio/mp3',default: true}]} 
           controls    
-          light
-          fallback      
+          light 
+                
           width='100%'
           height='100%'
           preload="none"
-          style={{maxHeight:'40px'}}
+          style={{maxHeight:'60px'}}
           />
+        </div>
+        </div>
         </div>
       </div>):
       (<h2>No anthem selected</h2>)}

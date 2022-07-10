@@ -1,6 +1,9 @@
 import React, {useEffect, useContext, useState} from 'react'
 import HymnalContext from '../context/Hymnal/HymnalContext'
-import {categ, hymnal} from "../resources/himn";
+import { Document,Page } from 'react-pdf/dist/esm/entry.webpack';
+import {categ, hymnal,motto,DOCTRINA_FUNDAMENTAL,HISTORIA} from "../resources/himn";
+import manual from '../resources/ManualProvicional.pdf';
+//import regla from '../resources/ReglamentoOperativo.pdf';
 import Profile from './Profile'
 
 const HymnalList = () => {
@@ -9,6 +12,27 @@ const HymnalList = () => {
   const [textSize, setTextSize] = useState(18);
   const [Himnal, setHimnal] = useState(hymnal);
   const [search, setsearch] = useState(''); 
+  const [reading, setReadin] = useState(''); 
+  const [numPages, setNumPages] = useState(null);
+  const [pageNumber, setPageNumber] = useState(1);
+  const [doc, setDocument] = useState(null);
+
+  function onDocumentLoadSuccess({numPages}){
+    setNumPages(numPages);
+    setPageNumber(1);
+  }
+
+  function changePage(offSet){
+    setPageNumber(prevPageNumber => prevPageNumber + offSet);
+  }
+
+  function changePageBack(){
+    changePage(-1)
+  }
+
+  function changePageNext(){
+    changePage(+1)
+  }
 
   useEffect(()=> { 
     if(!!search){    
@@ -37,9 +61,14 @@ const HymnalList = () => {
 
   return (
     <>
-    <button className="btn btn-primary" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasExample" aria-controls="offcanvasExample">
-      Ver Categorías
-    </button>
+    <div className="btn-group" role="group" aria-label="Basic example">
+      <button className="btn btn-primary" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasExample" aria-controls="offcanvasExample">
+        Ver Categorías
+      </button>
+      <button className="btn btn-primary" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasReading" aria-controls="offcanvasReading">
+        Ver Lemas y Otros
+      </button>
+    </div>
     <div className="form-floating mb-3">
       <input className="form-control" id="myInput" type="text" onChange={text => setsearch(text.target.value)} placeholder="Search.."/>
       <label htmlFor="floatingInput">Buscar por número de himno o título</label>
@@ -255,12 +284,123 @@ const HymnalList = () => {
         </ul>
       </div>
     </div>
-        
+    <div className="offcanvas offcanvas-start" tabIndex="-1" id="offcanvasReading" aria-labelledby="offcanvasReadingLabel">
+      <div className="offcanvas-header">
+        <h5 className="offcanvas-title" id="offcanvasReadingLabel">Himnos por categoría</h5>
+        <button type="button" className="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+      </div>
+      <div className="offcanvas-body">
+        <h4>Lemas</h4>
+        <ul className="list-group">
+          <li className="list-group-item d-flex justify-content-between align-items-center" data-bs-toggle="modal" data-bs-target="#staticReading" onClick={() => setReadin(motto.PRIMERA_PARTE)}>
+          PRIMERA_PARTE           
+          </li>
+          <li className="list-group-item d-flex justify-content-between align-items-center" data-bs-toggle="modal" data-bs-target="#staticReading" onClick={() => setReadin(motto.SEGUNDA_PARTE)}>
+          SEGUNDA_PARTE            
+          </li> 
+          <li className="list-group-item d-flex justify-content-between align-items-center" data-bs-toggle="modal" data-bs-target="#staticReading" onClick={() => setReadin(motto.TERCERA_PARTE)}>
+          TERCERA_PARTE            
+          </li>
+          <li className="list-group-item d-flex justify-content-between align-items-center" data-bs-toggle="modal" data-bs-target="#staticReading" onClick={() => setReadin(motto.CUARTA_PARTE)}>
+          CUARTA_PARTE            
+          </li>
+          <li className="list-group-item d-flex justify-content-between align-items-center" data-bs-toggle="modal" data-bs-target="#staticReading" onClick={() => setReadin(motto.QUINTA_PARTE)}>
+          QUINTA_PARTE            
+          </li>
+          <li className="list-group-item d-flex justify-content-between align-items-center" data-bs-toggle="modal" data-bs-target="#staticReading" onClick={() => setReadin(motto.SEXTA_PARTE)}>
+          SEXTA_PARTE            
+          </li>
+          <li className="list-group-item d-flex justify-content-between align-items-center" data-bs-toggle="modal" data-bs-target="#staticReading" onClick={() => setReadin(motto.SEPTIMA_PARTE)}>
+          SEPTIMA_PARTE            
+          </li>
+          <li className="list-group-item d-flex justify-content-between align-items-center" data-bs-toggle="modal" data-bs-target="#staticReading" onClick={() => setReadin(motto.OCTAVA_PARTE)}>
+          OCTAVA_PARTE            
+          </li>
+          <li className="list-group-item d-flex justify-content-between align-items-center" data-bs-toggle="modal" data-bs-target="#staticReading" onClick={() => setReadin(motto.NOVENA_PARTE)}>
+          NOVENA_PARTE            
+          </li>
+        </ul>
+        <h4>Doctrina e Historia</h4>
+        <ul className="list-group">
+          <li className="list-group-item d-flex justify-content-between align-items-center" data-bs-toggle="modal" data-bs-target="#staticReading" onClick={() => setReadin(DOCTRINA_FUNDAMENTAL)}>
+          DOCTRINA FUNDAMENTAL           
+          </li> 
+          <li className="list-group-item d-flex justify-content-between align-items-center" data-bs-toggle="modal" data-bs-target="#staticReading" onClick={() => setReadin(HISTORIA)}>
+          HISTORIA           
+          </li>          
+        </ul>
+        <h4>Manual</h4>
+        <ul className="list-group">
+          <li className="list-group-item d-flex justify-content-between align-items-center" data-bs-toggle="modal" data-bs-target="#staticPDF" onClick={() => setDocument(manual)}>
+          MANUAL PROVISIONAL
+          </li>                   
+        </ul>
+        <h4>Libros</h4>
+        <ul className="list-group">
+          <li className="list-group-item d-flex justify-content-between align-items-center" data-bs-toggle="modal" data-bs-target="#staticPDF" onClick={() => setDocument(manual)}>
+          Familia
+          </li>
+        </ul>
+      </div>
+    </div>
     <div className="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabIndex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
       <div className="modal-dialog modal-fullscreen-xxl-down">
         <div className="modal-content">          
           <div className="modal-body">
           <Profile/> 
+          </div>
+          <div className="modal-footer">
+            <button type="button" className="btn btn-secondary" data-bs-dismiss="modal">Close</button>            
+          </div>
+        </div>
+      </div>
+    </div>
+    <div className="modal fade" id="staticPDF" data-bs-backdrop="static" data-bs-keyboard="false" tabIndex="-1" aria-labelledby="staticPDFLabel" aria-hidden="true">
+      <div className="modal-dialog modal-fullscreen-xxl-down">
+        <div className="modal-content">          
+          <div className="modal-body p-0 m-0">
+          <center>
+            <p>
+              Page {pageNumber} of {numPages}
+            </p>
+            {pageNumber> 1 &&
+              <button onClick={changePageBack}>Previous Page</button>
+            }
+            {
+              pageNumber < numPages &&
+              <button onClick={changePageNext}>Next Page</button>
+            } 
+            <Document file={doc} onLoadSuccess={onDocumentLoadSuccess}>
+              <Page pageNumber={pageNumber} />
+            </Document> 
+            <p>
+              Page {pageNumber} of {numPages}
+            </p>
+            {pageNumber> 1 &&
+              <button onClick={changePageBack}>Previous Page</button>
+            }
+            {
+              pageNumber < numPages &&
+              <button onClick={changePageNext}>Next Page</button>
+            }            
+          </center>         
+          </div>
+          <div className="modal-footer">
+            <button type="button" className="btn btn-secondary" data-bs-dismiss="modal">Close</button>            
+          </div>
+        </div>
+      </div>
+    </div>
+    <div className="modal fade" id="staticReading" data-bs-backdrop="static" data-bs-keyboard="false" tabIndex="-1" aria-labelledby="staticReadingLabel" aria-hidden="true">
+      <div className="modal-dialog modal-fullscreen-xxl-down">
+        <div className="modal-content">
+          <div className="modal-body">
+          <input type="range" className="form-range" min="14" max="28" onChange={e => setTextSize(+e.target.value)} id="customRange2" value={textSize} />
+            <pre className='h5'>
+              <em style={{fontSize: textSize}}>
+                {reading}
+              </em>
+            </pre>
           </div>
           <div className="modal-footer">
             <button type="button" className="btn btn-secondary" data-bs-dismiss="modal">Close</button>            

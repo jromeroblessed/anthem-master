@@ -2,6 +2,7 @@
   position: relative;
   padding-top: 25%; /* Player ratio: 100 / (1280 / 720) */
   top: 0;
+  max-height:40px;
   left: 0;
   bottom: 0
 }
@@ -11,9 +12,26 @@
   top: 0;
   left: 0;
 }
-
+.lbl {
+  font-weight: bold;
+  font-style: oblique
+}
 .App {
   text-align: center;
+}
+
+pre {
+  white-space: pre-wrap;
+}
+
+.pdf-container {
+  width: 100vw;
+  height: 100vh;
+  overflow-y: auto;
+  background-color: #e4e4e4;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .App-logo {
