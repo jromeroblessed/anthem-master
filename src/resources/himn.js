@@ -1,33 +1,33 @@
 export const hymnal = [
-{id:1,title:"1  .- GEDEON Y SUS TRESCIENTOS ",anthem:"1.- GEDEON Y SUS TRESCIENTOS \n \n Gedeón y sus trescientos, \n En el Valle de Moré, \n Vencieron a las huestes, \n De enemigos de Israel, \n Gedeón y sus trescientos, \n Con su santa impavidez, \n Eran pocos, pero leales \n A los mandatos del Señor. \n CORO \n ¡Tocad la trompeta! \n ¡Quebrad las jarras! \n Las antorchas en las manos levantad, \n ¡Gritad! \n //: ¡La espada de Jehová y de Gedeón! :/// \n Vamos a vencer. \n -2- \n Gedeón y sus trescientos \n Todos llenos de valor, \n A la diestra del Caudillo \n Jehová, el Guiador. \n Con las armas invencibles, \n Y todo en derredor, \n Con antorchas y trompetas \n Obedientes al Señor. \n ",track:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe",demo:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe"},
+{id:1,title:"1  .- GEDEON Y SUS TRESCIENTOS ",anthem:"1.- GEDEON Y SUS TRESCIENTOS \n \n Gedeón y sus trescientos, \n En el Valle de Moré, \n Vencieron a las huestes, \n De enemigos de Israel, \n Gedeón y sus trescientos, \n Con su santa impavidez, \n Eran pocos, pero leales \n A los mandatos del Señor. \n CORO \n ¡Tocad la trompeta! \n ¡Quebrad las jarras! \n Las antorchas en las manos levantad, \n ¡Gritad! \n //: ¡La espada de Jehová y de Gedeón! :/// \n Vamos a vencer. \n -2- \n Gedeón y sus trescientos \n Todos llenos de valor, \n A la diestra del Caudillo \n Jehová, el Guiador. \n Con las armas invencibles, \n Y todo en derredor, \n Con antorchas y trompetas \n Obedientes al Señor. \n ",track:"11g-lErJVttxe0R8TwQIltsXvgNqYZUof",demo:"1m8cBCKxtn-6ru2S4gEc40zH6X2ghFkSj"},
 {id:2,title:"  2  .- ACOGIDA DE JESUS  ",anthem:"2.- ACOGIDA DE JESÚS \n \n Al que en busca de la luz \n Vague ciego y con temor, \n Lo recibe el buen Jesús \n En los brazos de su amor. \n CORO \n Volveremos a cantar \n Cristo acoge al pecador, \n Claro hacedlo resonar \n Cristo acoge al pecador. \n -2- \n A sus pies descansarás \n Ejercita en Él tu fe. \n De tus males sanarás \n A Jesús, tu amigo, ve. \n -3- \n Hazlo, porque así dirás: \n Ya no me condenaré \n «Ya la ley no pide más \n En Jesús vivirla se». \n -4- \n Acogerte prometió. \n Date prisa en acudir. \n Necesitas como yo, \n Vida que Él te hará vivir. \n ",track:"13kETaWTxHSCiQQv4SEumU9aFd_mowD_4",demo:"1LcBbnN79TSexnUxPmfuRrsNotAi93ba-"},
 {id:3,title:"  3  .- A CUALQUIERA PARTE  ",anthem:" 3.- A CUALQUIERA PARTE \n \n A cualquiera parte sin temor iré \n Si Jesús dirige mi inseguro pie \n Sin su compañía todo es pavor, \n Mas si Él me guía, no tendré temor. \n CORO \n Con Jesús, por doquier, sin temor iré \n Si Jesús me guía, nada temeré. \n -2- \n Con Jesús por guía donde quiera voy, \n Caminando en pos de Él seguro estoy, \n Y aunque padre y madre me pueden faltar, \n Jamás Jesucristo me despreciará. \n -3- \n Donde quiera con Jesús en tierra y mar,\n Quiero ser su fiel testigo sin cesar: \n Y si por desierto mi camino va, \n Un seguro albergue mi Jesús será. \n -4- \n Donde quiera siento yo su protección, \n Porque siempre oigo su benigna voz \n Él de día y noche a mi lado está, \n Y en plena gloria me despertará. ",track:"1sS__F9wKxkow5_HXREkUmowPaHNLJYDq",demo:"1WchOPaiPvSH9VSdkyp17TIU2rfGeaKnk"},
-{id:4,title:"  4  .- ALELUYA ",anthem:" 4.- ¡ALELUYA! \n \n ¡Aleluya! ¡Aleluya! ¡Aleluya! \n ¡Aleluya! ¡Aleluya! ¡Aleluya! \n ¡Aleluya! ¡Aleluya! ¡Aleluya! \n ¡Aleluya! ¡Aleluya! ¡Aleluya! \n Amén, ¡Aleluya! Amén, \n ¡Aleluya! Amén, ¡Aleluya! Amén, \n ¡Aleluya! Amén, Amén, Amén. \n ",track:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe",demo:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe"},
-{id:5,title:"  5  .- ADELANTE  ",anthem:" 5.- ADELANTE \n \n Adelante, vamos a luchar, \n Huestes del Señor, a batallar, \n Y hacia el enemigo avanzar, \n Pues lucharemos hasta conquistar. \n CORO \n Con el gran poder de Jesucristo \n Lucharemos, lucharemos, \n Y al cruel enemigo pelearemos, \n Hasta conquistar. \n -2- \n Adelante, no te dé temor, \n Cristo el Capitán nos da valor,\n  Sé valiente con fe y sin temor,\n  La lucha sigue vamos a vencer.\n -3- \n Adelante, vamos a luchar \n Por la grata luz y la verdad, \n La victoria hemos de cantar, \n Pues adelante ya sin vacilar. \n -4- \n Adelante, nos espera allá \n La corona que Jesús dará, \n A los que con fiel solicitud \n Sus vidas dieron por la grata luz.\n ",track:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe",demo:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe"},
-{id:6,title:"  6  .- ADELANTE GEDEONISTAS ",anthem:" 6.- ADELANTE, GEDEONISTAS \n \n Por los valles, por los montes, \n El mensaje proclamad: \n «Pronto viene el Rey de gloria \n Trayendo corona de vida eternal». \n CORO \n ¡Adelante! ¡Adelante! \n Gedeonistas, ¡avanzad! \n Pronto viene el Rey de gloria \n Trayendo en sus alas salud eternal.\n  -2-\n  Predicad por los collados: \n «Nuestro Rey se acerca ya». \n Anunciad al pueblo ciego \n Que cerca está el día, que Cristo vendrá. \n -3- \n Gedeonistas, adelante \n Trabajad por rescatar \n A las almas que en tinieblas \n Perecen por falta de luz celestial. \n ",track:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe",demo:"19vZm5m8_eMS3iawtNc7e4q3KO5vxK2D_"},
-{id:7,title:"  7  .- ADELANTE JUVENTUD  ",anthem:" 7.- ADELANTE JUVENTUD \n \n ¡Oh! juventud cristiana, ve adelante \n Luchando por salvar los pecadores \n Que el galardón del cielo has de ganarte,\n  Y morarás con el Señor de los señores.\n CORO \n No dejes que otro tome tu corona, \n Que Cristo ha preparado para Ti. \n ¿Qué será para todos esa aurora \n Cuando la trompeta suene para el fin? \n -2- \n Si la tribulación suele alcanzarte \n Y el enemigo cruel tus pasos vela, \n Da una mirada al cielo y al instante \n El Señor Jesucristo te consuela. \n -3- \n Unidos vamos todos al combate \n Lavados por la sangre de Jesús \n Que en el Calvario quiso derramarla \n Y llevó nuestros pecados en la cruz. \n ",track:"19qA7oOXskcqNE9ntTIbh4PVYLmyJq2lQ",demo:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe"},
-{id:8,title:"  8  .- A DIOS PIADOSO ",anthem:" 8.- A DIOS PIADOSO \n \n A Dios piadoso debí el nacer, \n Él me dio padres para mi bien \n Me da alimento, templa mi sed, \n ¡Buenos seamos, que Dios nos ve!\n  -2- \n Dios hizo el cielo con su poder \n Hizo la tierra y el mar también \n El sol y estrellas brillan por Él, \n ¡Buenos seamos, que Dios nos ve! \n -3- \n Si el desvalido pide merced, \n Si al triste aflige suerte cruel: \n Ese que llora tu hermano es \n ¡Buenos seamos, que Dios nos ve! \n -4- \n No al malo envidies aunque tal vez \n Impune ostente gloria y poder \n Que allá en el cielo hay otro juez \n ¡Buenos seamos, que Dios nos ve! \n ",track:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe",demo:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe"},
+{id:4,title:"  4  .- ALELUYA ",anthem:" 4.- ¡ALELUYA! \n \n ¡Aleluya! ¡Aleluya! ¡Aleluya! \n ¡Aleluya! ¡Aleluya! ¡Aleluya! \n ¡Aleluya! ¡Aleluya! ¡Aleluya! \n ¡Aleluya! ¡Aleluya! ¡Aleluya! \n Amén, ¡Aleluya! Amén, \n ¡Aleluya! Amén, ¡Aleluya! Amén, \n ¡Aleluya! Amén, Amén, Amén. \n ",track:"1T9ZqcBVrTIwZCiOWAD8NvovrFVGM5_hb",demo:"1129T7YtDJUbhuGKFFhM8kleQ1y5emQ06"},
+{id:5,title:"  5  .- ADELANTE  ",anthem:" 5.- ADELANTE \n \n Adelante, vamos a luchar, \n Huestes del Señor, a batallar, \n Y hacia el enemigo avanzar, \n Pues lucharemos hasta conquistar. \n CORO \n Con el gran poder de Jesucristo \n Lucharemos, lucharemos, \n Y al cruel enemigo pelearemos, \n Hasta conquistar. \n -2- \n Adelante, no te dé temor, \n Cristo el Capitán nos da valor,\n  Sé valiente con fe y sin temor,\n  La lucha sigue vamos a vencer.\n -3- \n Adelante, vamos a luchar \n Por la grata luz y la verdad, \n La victoria hemos de cantar, \n Pues adelante ya sin vacilar. \n -4- \n Adelante, nos espera allá \n La corona que Jesús dará, \n A los que con fiel solicitud \n Sus vidas dieron por la grata luz.\n ",track:"14yK_MKfcgL8xnu-5EAlaaSkqgr7h2VlK",demo:"12LjuWkpKm02mjwoGK8m_bLe7BhbIXSP5"},
+{id:6,title:"  6  .- ADELANTE GEDEONISTAS ",anthem:" 6.- ADELANTE, GEDEONISTAS \n \n Por los valles, por los montes, \n El mensaje proclamad: \n «Pronto viene el Rey de gloria \n Trayendo corona de vida eternal». \n CORO \n ¡Adelante! ¡Adelante! \n Gedeonistas, ¡avanzad! \n Pronto viene el Rey de gloria \n Trayendo en sus alas salud eternal.\n  -2-\n  Predicad por los collados: \n «Nuestro Rey se acerca ya». \n Anunciad al pueblo ciego \n Que cerca está el día, que Cristo vendrá. \n -3- \n Gedeonistas, adelante \n Trabajad por rescatar \n A las almas que en tinieblas \n Perecen por falta de luz celestial. \n ",track:"1vgEgMS6wI2nNWbNg9LwP7oG93jXCl4SX",demo:"19vZm5m8_eMS3iawtNc7e4q3KO5vxK2D_"},
+{id:7,title:"  7  .- ADELANTE JUVENTUD  ",anthem:" 7.- ADELANTE JUVENTUD \n \n ¡Oh! juventud cristiana, ve adelante \n Luchando por salvar los pecadores \n Que el galardón del cielo has de ganarte,\n  Y morarás con el Señor de los señores.\n CORO \n No dejes que otro tome tu corona, \n Que Cristo ha preparado para Ti. \n ¿Qué será para todos esa aurora \n Cuando la trompeta suene para el fin? \n -2- \n Si la tribulación suele alcanzarte \n Y el enemigo cruel tus pasos vela, \n Da una mirada al cielo y al instante \n El Señor Jesucristo te consuela. \n -3- \n Unidos vamos todos al combate \n Lavados por la sangre de Jesús \n Que en el Calvario quiso derramarla \n Y llevó nuestros pecados en la cruz. \n ",track:"19qA7oOXskcqNE9ntTIbh4PVYLmyJq2lQ",demo:"1982bMq9IkJlLyT42W8oTW2NTOINfhANh"},
+{id:8,title:"  8  .- A DIOS PIADOSO ",anthem:" 8.- A DIOS PIADOSO \n \n A Dios piadoso debí el nacer, \n Él me dio padres para mi bien \n Me da alimento, templa mi sed, \n ¡Buenos seamos, que Dios nos ve!\n  -2- \n Dios hizo el cielo con su poder \n Hizo la tierra y el mar también \n El sol y estrellas brillan por Él, \n ¡Buenos seamos, que Dios nos ve! \n -3- \n Si el desvalido pide merced, \n Si al triste aflige suerte cruel: \n Ese que llora tu hermano es \n ¡Buenos seamos, que Dios nos ve! \n -4- \n No al malo envidies aunque tal vez \n Impune ostente gloria y poder \n Que allá en el cielo hay otro juez \n ¡Buenos seamos, que Dios nos ve! \n ",track:"1QbesKZnVTrlrPhe46erCrFqnFFWTqrVv",demo:"1G2ywLPBNhR6V7FC3SUReEbASjAVyY1dE"},
 {id:9,title:"  9  .- ALABADO EL GRAN MANANTIAL  ",anthem:" 9.- ALABADO EL GRAN MANANTIAL \n \n ¡Alabado el gran manantial \n Que de sangre Dios nos mostró! \n ¡Alabado el Rey que murió \n Su pasión nos libra del mal! \n Lejos del redil de mi Dueño \n Vime mísero, pequeño, vil. \n El Cordero sangre vertió \n Me limpia sólo este raudal. \n CORO \n Sé que solo así \n Me emblanqueceré, \n Lávame en tu sangre, Cordero Jesús, \n Y nívea blancura tendré. \n  -2- \n La punzante insignia llevó, \n En la cruz dejó de vivir, \n Grandes males quiso sufrir \n No en vano Cristo sufrió. \n Al gran manantial conducido \n Que de mi maldad ha sido fin, \n «Lávame», le pude decir \n Y nívea blancura me dio. \n -3- \n Padre, de Ti lejos vagué, \n Extravióse mi corazón, \n Como grana mis culpas son, \n No con agua limpio seré. \n A tu fuente magna acudí, \n Tu promesa creo, ¡Oh, Jesús! \n La eficaz virtud de tu don \n La nívea blancura me dé. ",track:"19pbkKTk0hd7VHxMUA4pu9qX73NqlwxbC",demo:"1WOBJf1AE3jteDvn5RNNl7t5lmhP5EahM"},
 {id:10,title:"  10 .- ALELUYA EN MI ALMA  ",anthem:" 10.- ALELUYA EN MI ALMA \n \n Siento en mi alma una gloriosa bendición, \n Don perfecto puso en mi alma \n Desde que Cristo en mis maldades me buscó \n Y hallándome El me salvó. \n CORO \n Del fondo de mi alma \n Surgió un aleluya, \n Aleluya, aleluya, \n Y un coro de millones \n Contestó en la altura: \n «¡Aleluya!, ¡Gloria a Dios!». \n -2- \n Cuando en tinieblas y pecado yo vagué, \n Con tristeza en mi alma, \n Por mi salud a Jesucristo yo clamé \n Y mi carga a Él le entregué. \n -3- \n Si persevero hasta el fin con el Señor, \n A la gloria va mi alma, \n Y mi bandera voy alzando con valor, \n Porque en Él sólo hay salvación. ",track:"1dOJHLdM5gyAy3z74jLf_X5jyUSQgyH7X",demo:"1Fqt_ImNxlt_W2dd8_RU5DdO-7vLeHU0h"},
-{id:11,title:"   11 .- ALGUNA VEZ YA NO ESTARE  ",anthem:" 11.- ALGUNA VEZ YA NO ESTARÉ \n \n Alguna vez ya no estaré \n En mi lugar, en esta grey. \n Mas ¡cuán feliz despertaré \n En el palacio de mi Rey! \n CORO \n Yo le veré y en dulce amor, \n Iré a vivir con Él allí. \n Y le diré: Mi buen Señor, \n Por gracia yo salvado fui. \n -2- \n Alguna vez la muerte atroz \n Vendrá, mas cuándo no lo se, \n Pero esto se: Con mi buen Dios \n Un sitio yo feliz tendré. \n -3- \n Alguna vez yo, como el sol, \n Mi ocaso y fin tendré también \n Mas me dirá mi buen Señor: \n Mi siervo fiel, conmigo ven. \n -4- \n El día feliz que espero yo, \n Con mi candil ardiendo ya, \n Las puertas me abrirá el Señor \n Y mi alma a Él con gozo irá. ",track:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe",demo:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe"},
+{id:11,title:"   11 .- ALGUNA VEZ YA NO ESTARE  ",anthem:" 11.- ALGUNA VEZ YA NO ESTARÉ \n \n Alguna vez ya no estaré \n En mi lugar, en esta grey. \n Mas ¡cuán feliz despertaré \n En el palacio de mi Rey! \n CORO \n Yo le veré y en dulce amor, \n Iré a vivir con Él allí. \n Y le diré: Mi buen Señor, \n Por gracia yo salvado fui. \n -2- \n Alguna vez la muerte atroz \n Vendrá, mas cuándo no lo se, \n Pero esto se: Con mi buen Dios \n Un sitio yo feliz tendré. \n -3- \n Alguna vez yo, como el sol, \n Mi ocaso y fin tendré también \n Mas me dirá mi buen Señor: \n Mi siervo fiel, conmigo ven. \n -4- \n El día feliz que espero yo, \n Con mi candil ardiendo ya, \n Las puertas me abrirá el Señor \n Y mi alma a Él con gozo irá. ",track:"14p0qpp_JxichzjHaoXOrYUnBkxlYjFSY",demo:"17mT2wT5pTspxy0nkYaO1UGfbGXAWAQ4G"},
 {id:12,title:"  12 .- ALMA ATRIBULADA  ",anthem:" 12 .- ALMA ATRIBULADA \n \n Pobre mendigo, está junto al camino \n Ciego que pide al mundo, caridad, \n Cuando Jesús le cambia su destino \n Al darle vista y plena claridad. \n CORO \n Cristo al llegar al alma atribulada, \n El llanto enjuga, ahuyenta su dolor. \n La tentación del mal es rechazada, \n Y cambia todo en gozo el Salvador. \n -2- \n «Inmundo soy», clamaba atormentado. \n Pobre leproso con dolor mortal \n En penas mil el sordomudo estaba, \n Cuando al cautivo Cristo fue a librar. \n -3- \n En los sepulcros, pobre endemoniado, \n Lloraba solo, triste y sin hogar. \n A su querer Satán le arrojaba, \n Viene Jesús, y quita todo mal. ",track:"161OCO-wgWqZmy39-FydmkF-QbLLse0ST",demo:"1Sor4mjg8F2KQGNuADYYhB-qb49aqbTMG"},
 {id:13,title:"  13 .- GRANDE GOZO HAY EN MI ALMA HOY ",anthem:" 13.- GRANDE GOZO HAY EN MI ALMA \n \n Grande gozo hay en mi alma hoy, \n Pues Jesús conmigo está \n Y su paz, que ya gozando estoy \n Por siempre durará. \n CORO \n Grande gozo, ¡Cuán hermoso! \n Paso todo el tiempo bien feliz \n Porque veo de Cristo la sonriente faz,\n  Grande gozo siento en mí. \n -2- \n Hay un canto en mi alma hoy, \n Melodías a mi Rey \n En su amor feliz y libre soy \n Y salvo por la fe. \n -3- \n Paz divina hay en mi alma hoy, \n Porque Cristo me salvó. \n Las cadenas rotas ya están \n Jesús me libertó. \n -4- \n Gratitud hay en mi alma hoy, \n Y alabanzas a Jesús. \n Por su gracia a la gloria voy, \n Gozándome en la luz. ",track:"1rROgmH2yRTH8Li-yVg_3g1Pfs7EjtzzV",demo:"1TM2QqqsvBl62hl40b3wg2LWIb7zi2IuF"},
-{id:14,title:"  14 .- AL MUNDO ADIOS ",anthem:" 14.- AL MUNDO ADIÓS \n \n Anhela mi alma la tranquilidad \n Que sólo en Cristo tendrá en verdad, \n El fin de mi vida llegando está \n Al mundo adiós, buenos días allá. \n CORO \n Al mundo adiós, al cielo yo voy \n En gloria feliz cantando estoy \n Vivo donde es luz el bendito Jesús, \n Al mundo adiós, vivo hoy con Jesús. \n -2- \n Con Cristo no hay que temer el morir \n Con El sé que siempre yo voy a vivir. \n Si cierra mis ojos la muerte acá, \n Al mundo adiós, buenos días allá. \n -3- \n Un día vendrá el amado Señor \n Los suyos El trasladará con amor \n Sin muerte, sin duelo, al cielo irán. \n Al mundo adiós, buenos días allá. ",track:"1Dfe5NWuY7MsZZRjQvBr2ZNHNY9haQxvV",demo:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe"},
+{id:14,title:"  14 .- AL MUNDO ADIOS ",anthem:" 14.- AL MUNDO ADIÓS \n \n Anhela mi alma la tranquilidad \n Que sólo en Cristo tendrá en verdad, \n El fin de mi vida llegando está \n Al mundo adiós, buenos días allá. \n CORO \n Al mundo adiós, al cielo yo voy \n En gloria feliz cantando estoy \n Vivo donde es luz el bendito Jesús, \n Al mundo adiós, vivo hoy con Jesús. \n -2- \n Con Cristo no hay que temer el morir \n Con El sé que siempre yo voy a vivir. \n Si cierra mis ojos la muerte acá, \n Al mundo adiós, buenos días allá. \n -3- \n Un día vendrá el amado Señor \n Los suyos El trasladará con amor \n Sin muerte, sin duelo, al cielo irán. \n Al mundo adiós, buenos días allá. ",track:"1Dfe5NWuY7MsZZRjQvBr2ZNHNY9haQxvV",demo:"1vmzjlUAQCIu7Ia3Qw_7gvugITWa0oQEt"},
 {id:15,title:"  15 .- ALZA TU CANTO  ",anthem:" 15.- ALZA TU CANTO \n \n Vuelen al cielo los ecos santos \n Que arranco alegre de mi laúd \n Vuelen al cielo mis dulces cantos, \n Mis dulces cantos de gratitud. \n CORO \n Alza tu canto, ¡oh lengua mía! \n Alza tu canto, mi corazón. \n Llénese el alma de alegría, \n Con alegría de devoción. \n -2- \n Ya siento el fuego de los amores, \n De los amores del grato Edén.\n  Ya no me acosan crudos dolores \n Porque contemplo a Jerusalem. \n -3- \n Padre, en tu regia, santa morada \n Donde la dicha no tiene fin, \n Allí mi patria miro esmaltada \n De bellas flores de tu jardín. \n -4- \n Llévame, oh Padre, para consuelo \n Nada en la tierra yo espero ya \n Llévame al cielo, llévame al cielo, \n Que allí tan sólo mi dicha está. \n ",track:"1nHByUcHUvy-XAF91NCvpjUqQyEKi0spE",demo:"1cH1jPJLqAgi0guPUKs4v7S7uhe0FMLVb"},
-{id:16,title:"  16 .- ALLA NO MAS DOLOR  ",anthem:" 16.- ALLÁ NO MÁS DOLOR \n \n Las nubes vienen siempre \n En nuestra vida aquí, \n La senda es oscura, \n Se siente el miedo en sí. \n Mas por la fe ya vemos \n El día sin afán, \n El día sin más nubes \n Y sin más huracán. \n CORO \n Allá . . . no más dolor, \n Allá . . . eterno amor, \n Allá el día viene, \n Sin más nubes, más puro amor. \n -2- \n El mal que nos azota, \n No más afligirá, \n Las penas y las cargas \n No más se acordarán \n Descanso y reposo, \n Salud, fuerza y vigor \n Tendremos en el cielo, \n Do reina el Señor. \n -3- \n Las caras de los nuestros \n Que hace mucho ya \n En muerte las perdimos, \n Verémoslas allá. \n Con ellas en un coro \n Celeste y triunfal, \n Daremos gloria a Cristo \n Con himno celestial. \n ",track:"1Gh_1stSwWIL7QU8kvRdJAMA20_Vpl19b",demo:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe"},
+{id:16,title:"  16 .- ALLA NO MAS DOLOR  ",anthem:" 16.- ALLÁ NO MÁS DOLOR \n \n Las nubes vienen siempre \n En nuestra vida aquí, \n La senda es oscura, \n Se siente el miedo en sí. \n Mas por la fe ya vemos \n El día sin afán, \n El día sin más nubes \n Y sin más huracán. \n CORO \n Allá . . . no más dolor, \n Allá . . . eterno amor, \n Allá el día viene, \n Sin más nubes, más puro amor. \n -2- \n El mal que nos azota, \n No más afligirá, \n Las penas y las cargas \n No más se acordarán \n Descanso y reposo, \n Salud, fuerza y vigor \n Tendremos en el cielo, \n Do reina el Señor. \n -3- \n Las caras de los nuestros \n Que hace mucho ya \n En muerte las perdimos, \n Verémoslas allá. \n Con ellas en un coro \n Celeste y triunfal, \n Daremos gloria a Cristo \n Con himno celestial. \n ",track:"1Gh_1stSwWIL7QU8kvRdJAMA20_Vpl19b",demo:"1ZWJrhXNpsUcKi8KmPFCuf9fpKr0ujG1o"},
 {id:17,title:"  17 .- ALLA VA EL EMBAJADOR ",anthem:" 17.- ALLÁ VA EL EMBAJADOR \n \n Allá va el embajador, \n Con su rumbo a otros países \n Sin importarle las crisis \n Ni el peligro más traidor. \n Allá va el embajador, \n Muy valiente y decidido, \n Nunca creyendo perdido \n Su trabajo en el Señor. \n CORO \n Como la peña, como la roca, \n Sea tu firmeza, siervo de paz. \n Que si eres firme como la roca, \n Dios, tu prudencia, coronará. \n -2- \n Allá va el embajador, \n Enarbolando su bandera \n Por la cual Cristo muriera, \n El evangelio de amor. \n No le importa el terror \n Con que el diablo le amenace, \n Sólo en su vida le place \n Ser de Cristo un seguidor. \n -3- \n Es embajador sin límite \n De la gracia y de la ayuda, \n Con que Dios le estimula \n Y que en realidad existe. \n El rigor le dice, ríndete, \n Y las pruebas le amenazan, \n Pero él como un alcázar \n Con su cerrojo muy firme. \n ",track:"1d7PcuhTrHf9MxDwcmsA3yra-uBYTMhM8",demo:"1q1dSwtPQA5JMpYGmVBqG5C6nR_jXqO8o"},
-{id:18,title:"  18 .- ALLI QUIERO IR ¿Y TU?  ",anthem:" 18.- ALLÍ QUIERO IR, ¿Y TÚ? \n \n Me dicen que hay una bella ciudad, \n Allí quiero ir, ¿y tú? \n En donde es eterna la felicidad, \n Allí quiero ir, ¿y tú? \n Jesús las mansiones nos fue a preparar, \n Allí quiero ir, ¿y tú? \n A donde la muerte no puede llegar,\n  Allí quiero ir, ¿y tú? \n CORO \n // : Allí quiero ir, allí quiero ir, \n Allí quiero ir, ¿y tú? : // \n -2- \n De perlas sus puertas, su mar de cristal, \n Allí quiero ir, ¿y tú? \n Es Cristo la luz del país celestial, \n Allí quiero ir, ¿y tú? \n Allí los que moran jamás morirán, \n Allí quiero ir, ¿y tú? \n En donde terminan congojas y afán, \n Allí quiero ir, ¿y tú? \n -3- \n Y cuando navegue la nave de Sión, \n Allí quiero ir, ¿y tú? \n Al darse a la vela para esa mansión, \n Allí quiero ir, ¿y tú? \n Y cuando coronen a Cristo también, \n Allí quiero estar, ¿y tú? \n Y cuando los coros pronuncien: ¡Amén! \n Allí quiero ir, ¿y tú? \n ",track:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe",demo:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe"},
+{id:18,title:"  18 .- ALLI QUIERO IR ¿Y TU?  ",anthem:" 18.- ALLÍ QUIERO IR, ¿Y TÚ? \n \n Me dicen que hay una bella ciudad, \n Allí quiero ir, ¿y tú? \n En donde es eterna la felicidad, \n Allí quiero ir, ¿y tú? \n Jesús las mansiones nos fue a preparar, \n Allí quiero ir, ¿y tú? \n A donde la muerte no puede llegar,\n  Allí quiero ir, ¿y tú? \n CORO \n // : Allí quiero ir, allí quiero ir, \n Allí quiero ir, ¿y tú? : // \n -2- \n De perlas sus puertas, su mar de cristal, \n Allí quiero ir, ¿y tú? \n Es Cristo la luz del país celestial, \n Allí quiero ir, ¿y tú? \n Allí los que moran jamás morirán, \n Allí quiero ir, ¿y tú? \n En donde terminan congojas y afán, \n Allí quiero ir, ¿y tú? \n -3- \n Y cuando navegue la nave de Sión, \n Allí quiero ir, ¿y tú? \n Al darse a la vela para esa mansión, \n Allí quiero ir, ¿y tú? \n Y cuando coronen a Cristo también, \n Allí quiero estar, ¿y tú? \n Y cuando los coros pronuncien: ¡Amén! \n Allí quiero ir, ¿y tú? \n ",track:"1DeSmeSx9gD3MazFjX52AvhADi9xER63a",demo:"12a-GmpmzDjB-CQUomo5iJLRDizrsJnt0"},
 {id:19,title:"  19 .- AMA EL PASTOR SUS OVEJAS ",anthem:" 19.- AMA EL PASTOR SUS OVEJAS \n \n Ama el Pastor sus ovejas \n Con un amor paternal. \n Ama el Pastor su rebaño \n Con un amor sin igual. \n Ama el Pastor a las otras \n Que descarriadas están \n Y conmovido las busca \n Por donde quiera que van. \n CORO \n Por el desierto, errabundas,\n  Vense sufrir penas mil, \n Y al encontrarlas, en hombros, \n Llévalas tierno al redil. \n -2- \n Ama el Pastor sus corderos, \n Ámalos, tierno, el Pastor. \n A los que a veces, perdidos \n Se oyen gemir de dolor. \n Ved al Pastor conmovido, \n Por los collados vagar, \n Y los corderos en hombros \n Vedlo llevando al hogar. \n -3- \n Ama las noventa y nueve \n Que en el aprisco guardó \n Ama las que descarriadas \n Por el desierto dejó. \n «¡Oh, mis ovejas perdidas!» \n -Clama doliente el Pastor- \n ¿Quiénes vendrán en mi ayuda \n Para salvarlas, Señor? \n -4- \n Son delicados tus pastos \n Y quietas tus aguas son: \n Henos aquí, ¡Oh, Maestro! \n Danos hoy tu comisión. \n Haznos obreros fervientes, \n Llénanos de un santo amor \n Por las ovejas perdidas \n De tu redil, buen Señor. \n ",track:"1PVKCEebJ3yxuvtiJUX1Kr-WkZ5-Vdw_L",demo:"11Ddl8BOICec-Qn7A3X0TRWsHFWOWHa2h"},
-{id:20,title:"  20 .- AMOR FRATERNAL  ",anthem:" 20.- AMOR MATERNAL \n \n Los años de mi infancia \n Me recuerdan con dolor \n Que a veces despreciaba \n De mi madre el tierno amor. \n Ahora que se ha ido \n Anhelo su solicitud, \n Dile, ¡Oh, Señor! que en gloria la veré. \n CORO \n ¡Oh, madre de mi amor \n En gloria te veré, \n Tu tierno amor jamás olvidaré. \n En la mansión de paz, \n Veré tu dulce faz \n Y junto a Ti por siempre moraré. \n -2- \n Por más que anduve errante yo \n Por sendas de maldad, \n Mi cariñosa madre \n Me trataba con bondad. \n Mis penas infantiles \n Endulzaba con amor, \n Dile, ¡Oh, Señor! que en gloria la veré. \n -3- \n Al verme solo y lejos \n De mi hogar, mi dulce hogar, \n Con su angustiado corazón \n Lloraba sin cesar. \n Y día y noche oraba a Dios \n Por mí con grande fe, \n Dile, ¡Oh, Señor! que en gloria la veré. \n -4- \n Infausta nueva un día \n Me llegó diciendo: «Ven, \n Si quieres a tu madre ver, \n Que a descansar ya va». \n Lloré cuando en los brazos \n De la muerte la encontré \n Y dije: ¡Oh, madre! en gloria te veré. \n ",track:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe",demo:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe"},
+{id:20,title:"  20 .- AMOR FRATERNAL  ",anthem:" 20.- AMOR MATERNAL \n \n Los años de mi infancia \n Me recuerdan con dolor \n Que a veces despreciaba \n De mi madre el tierno amor. \n Ahora que se ha ido \n Anhelo su solicitud, \n Dile, ¡Oh, Señor! que en gloria la veré. \n CORO \n ¡Oh, madre de mi amor \n En gloria te veré, \n Tu tierno amor jamás olvidaré. \n En la mansión de paz, \n Veré tu dulce faz \n Y junto a Ti por siempre moraré. \n -2- \n Por más que anduve errante yo \n Por sendas de maldad, \n Mi cariñosa madre \n Me trataba con bondad. \n Mis penas infantiles \n Endulzaba con amor, \n Dile, ¡Oh, Señor! que en gloria la veré. \n -3- \n Al verme solo y lejos \n De mi hogar, mi dulce hogar, \n Con su angustiado corazón \n Lloraba sin cesar. \n Y día y noche oraba a Dios \n Por mí con grande fe, \n Dile, ¡Oh, Señor! que en gloria la veré. \n -4- \n Infausta nueva un día \n Me llegó diciendo: «Ven, \n Si quieres a tu madre ver, \n Que a descansar ya va». \n Lloré cuando en los brazos \n De la muerte la encontré \n Y dije: ¡Oh, madre! en gloria te veré. \n ",track:"1Zk-B_l5fhMmuTrn9qwV4uDyIrdWkBfTI",demo:"1CCnUEUnQEeulm9Au-Uc2iP-RN5qa1ZoM"},
 {id:21,title:"  21 .- A SOLAS CON JESUS  ",anthem:" 21.- A SOLAS CON JESÚS \n \n A solas al huerto yo voy, \n Cuando duerme aún la floresta. \n Y en quietud y en paz con Jesús estoy \n Oyendo absorto allí su voz. \n CORO \n Él conmigo está, puedo oír su voz.\n  Y que suyo, dice, seré. \n Y el encanto que hallo con Él allí, \n Con nadie tener podré. \n -2- \n Tan dulce es la voz del Señor \n Que las aves guardan silencio,\n  Y tan sólo se oye esa voz de amor \n Que inmensa paz al alma da. \n -3- \n Con Él, encantado yo estoy \n Aunque en torno lleguen las sombras, \n Mas me ordena ir y a escuchar yo voy \n Su voz doquier la pena esté. \n ",track:"1t79EbFxqnNcceLi7jNxlVszAg6089KVE",demo:"152xmo-8EQEhB5X_1rs1gU3M1UKQOh4gs"},
 {id:22,title:"  22 .- A TI Y A MI  ",anthem:" 22.- A TI Y A MÍ \n \n Cuán tiernamente nos está llamando \n Cristo a ti y a mí. \n Él nos espera con brazos abiertos, \n Llama a ti y a mí. \n CORO \n Venid ... Venid ...\n  Si estáis cansados, venid.\n  ¡Cuán tiernamente os está llamando! \n ¡Oh, pecadores, venid! \n -2- \n ¿Por qué tememos si está abogando, \n  Cristo por ti y por mí? \n Sus bendiciones está derramando, \n Siempre por ti y por mí.\n  -3- \n El tiempo vuela, lograrlo conviene \n Cristo te llama a ti \n Vienen las sombras y la muerte viene \n Vienen por ti y por mí. \n ",track:"1tkWIb4SsBMh3Y_GAwIR_KXbGIyvKoqT5",demo:"1ir7jNdkSbDhN2JNd1BPpZMKl2D2KR9J_"},
 {id:23,title:"  23 .- AUNQUE SEAN COMO ESCARLATA ",anthem:" 23.- AUNQUE SEAN COMO ESCARLATA \n \n Aunque sean como escarlata, \n Tus pecados borraré. \n Aunque sean rojos cual grana\n  Como nieve los haré. \n Sí, aunque sean como escarlata\n  Yo los lavaré. \n // : Aunque sean como escarlata : //\n  // : Tus pecados lavaré : // \n -2- \n Oye voz que te suplica: \n «Vuelve, vuelve a tu Señor».\n  Oye voz que te suplica, \n «Vuelve, vuelve a tu Señor». \n Bueno es Dios, es compasivo \n Y de tierno amor. \n // : Oye voz que te suplica : // \n // : «Vuelve, vuelve a tu Señor» : // \n -3- \n  El aleja tus pecados \n Y su consecuencia atroz. \n El aleja tus pecados \n Y su consecuencia atroz.\n  «Venid a mí, pues, y sed salvos». \n Dice nuestro Dios. \n // : El aleja tus pecados : // \n // : Y su consecuencia atroz : // \n ",track:"1mxm6THsznVAWB7n2XUhAc8H0XMR77WSQ",demo:"1RgL388vFwuLbp-WlAbbwAJ1LYXllgcHG"},
-{id:24,title:"  24 .- BELLAS MANITAS  ",anthem:" 24.- BELLAS MANITAS \n \n Bellas las manitas son \n Que obedecen a Jesús. \n Bellos ojos los que están \n Llenos de célica luz. \n CORO \n Bellas sí, bellas las manos son \n Que obedecen a Jesús. \n Bellos los ojos que siempre están \n Llenos de célica luz. \n -2- \n Hizo las manitas Dios \n Porque a Él podrían servir, \n Hizo el tierno corazón \n En su servicio latir. \n -3- \n Toda boca debe orar \n Cada día al Salvador, \n Todo pie listo ha de estar \n Para ir do mande el Señor. \n -4- \n Cuanto puedas tú hacer \n Cristo te lo exigirá. \n Haz, pues, de ello tu placer \n Con el poder que Él te da. \n ",track:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe",demo:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe"},
+{id:24,title:"  24 .- BELLAS MANITAS  ",anthem:" 24.- BELLAS MANITAS \n \n Bellas las manitas son \n Que obedecen a Jesús. \n Bellos ojos los que están \n Llenos de célica luz. \n CORO \n Bellas sí, bellas las manos son \n Que obedecen a Jesús. \n Bellos los ojos que siempre están \n Llenos de célica luz. \n -2- \n Hizo las manitas Dios \n Porque a Él podrían servir, \n Hizo el tierno corazón \n En su servicio latir. \n -3- \n Toda boca debe orar \n Cada día al Salvador, \n Todo pie listo ha de estar \n Para ir do mande el Señor. \n -4- \n Cuanto puedas tú hacer \n Cristo te lo exigirá. \n Haz, pues, de ello tu placer \n Con el poder que Él te da. \n ",track:"1KIAY8YOaC589BU4lXumKXoyJgiuGYU-e",demo:"1m8Ag1QKIjjFOUfTCcsISkYR7y6v7FYma"},
 {id:25,title:"   25 .- BELLAS PALABRAS DE VIDA  ",anthem:" 25.- BELLAS PALABRAS DE VIDA \n \n ¡Oh, cantádmelas otra vez, \n Bellas palabras de vida! \n Hallo en ellas mi gozo y luz, \n Bellas palabras de vida. \n Sí, de luz y vida, \n Son sostén y guía \n // : ¡Qué bellas son, qué bellas son! \n Bellas palabras de vida : // \n -2- \n Jesucristo a todos da \n Bellas palabras de vida.\n  Hoy escúchalas pecador, \n Bellas palabras de vida. \n Bondadoso te salva \n Y al cielo te llama \n // : ¡Qué bellas son, qué bellas son! \n Bellas palabras de vida : // \n -3- \n Grato el cántico sonará, \n Bellas palabras de vida \n Tus pecados perdonará, \n Bellas palabras de vida. \n Sí, de luz y vida \n Son sostén y guía, \n // : ¡Qué bellas son, qué bellas son! \n Bellas palabras de vida : // \n ",track:"1WsNbGV30w42PVgTK6VXaV0KFk33w_oXi",demo:"1aIZKUtPE7d7_GGL_0OpefxLShzd6D7Jv"},
 {id:26,title:"  26 .- BORRADOS POR LA FE  ",anthem:" 26.- BORRADOS POR LA FE \n \n Mucho tiempo viví, \n Lejos de mi Salvador,\n  Agobiado por el tentador\n  Mas una voz oí, \n Que me dijo: «Ven a mí»,\n  Y Él borró mis pecados por la fe.\n  CORO \n Son borrados por la fe, \n Son borrados por la fe. \n Mis pecados son borrados por la fe.\n  Con su sangre me limpió, \n Mis pecados Él borró. \n Son borrados mis pecados por la fe.\n  -2- \n  No podía comprender, \n Por qué Cristo murió \n Por un vil pecador como yo.\n  Mas ahora bien sé, \n Fue su grande amor, \n Que borró mis pecados por la fe. \n -3- \n De mis culpas también, \n Cristo ya me libró \n Y también El mi carga quitó. \n ¡Oh, qué amor recibí, \n Cuando Él me salvó! \n Son borrados mis pecados por la fe.\n  -4- \n Ahora mi corazón \n Satisfecho está, \n Porque Él me salvó y me limpió. \n ¡Gloria a Dios y a Jesús \n Que su sangre vertió! \n Son borrados mis pecados por la fe. \n ",track:"1rlktBi0evijS0JVqVD59lcJXfgkPPmEu",demo:"1nqpeb9MHSAfP3fC3Nclg_ElFVP3ZDtZZ"},
 {id:27,title:"   27 .- BRILLA EN TU LUGAR ",anthem:" 27.- BRILLA EN TU LUGAR \n \n Nunca esperes el momento \n De una gran acción, \n Ni que pueda lejos ir tu luz, \n De la vida a los pequeños actos \n Da atención, \n Brilla en el sitio donde estés.  \n CORO  \n Brilla en el sitio donde estés,  \n Brilla en el sitio donde estés. \n  Puedes con tu luz \n  Algún perdido rescatar, \n Brilla en el sitio donde estés.\n -2-  \n Puedes en tu cielo  \n Alguna nube disipar,  \n Haz a un lado tu egoísmo cruel  \n Aunque sólo un corazón  \n Pudieres consolar,  \n Brilla en el sitio donde estés.  \n -3-  \n Puede tu talento  \n Alguna cosa descubrir,  \n Do tu luz podrá resplandecer  \n De tu mano el pan de vida,  \n Puede aquí venir,  \n Brilla en el sitio donde estés.  \n ",track:"1vIq0FnK-GT-XSKZuWy7J1el_6xzJ1kLv",demo:"1qjwxFnThljtfOXLZmF_PSUPlf9kWl43f"},
 {id:28,title:"  28 .- BUENO ES DIOS  ",anthem:" 28.- BUENO ES DIOS  \n \n Juntos cantemos sin cesar:  \n Bueno es Dios.  \n Cielos y tierra proclamad:  \n Bueno es Dios.  \n Almas, despierten del pecar.  \n Cambien las penas por cantar, \n Cristo Jesús puede salvar.  \n Bueno es Dios.  \n CORO  \n Bueno es Dios,  \n Bueno es Dios,  \n Juntos cantemos  \n Sin cansarnos,  \n Bueno es Dios.  \n -2-  \n Por todo el mundo proclamad:  \n Bueno es Dios.  \n Cristo nos trajo libertad:  \n Bueno es Dios.  \n Salvos por El de todo mal,  \n Danos poder pentecostal,  \n Vida perfecta celestial:  \n Bueno es Dios.  \n -3-  \n Dicha inefable da Jesús:  \n Bueno es Dios.  \n El nos imparte santa luz:  \n Bueno es Dios.  \n El es escudo y protector,  \n El nos ayuda con amor,  \n Cantemos siempre su loor:  \n Bueno es Dios.  \n -4-  \n En el palacio celestial:  \n Bueno es Dios.  \n Libre de duelo terrenal:  \n Bueno es Dios.  \n Eternamente cantaré,  \n A Jesucristo ensalzaré,  \n Me ha redimido por la fe: Bueno es Dios. ",track:"15Qi36dZetpacBAJBAfVs-pmUg8WMLeVs",demo:"16n-sRNGchOhLRnWtxCh75Loy4FIb1sAQ"},
-{id:29,title:"   29 .- BUEN SALVADOR  ",anthem:" 29.- BUEN SALVADOR  \n \n Buen Salvador, a Ti yo vengo  \n Llegando a Ti, tal como estoy.  \n Mi rebelión y mal te dejo,  \n Y ante tus pies postrado estoy. \n CORO  \n Usa mi vida, oh buen Jesús, \n  Que deposito sobre tu altar,  \n Tú el Alfarero eres Señor,  \n Yo vil arcilla que habrás de usar.  \n -2-  \n Tu bendición ansioso imploro,  \n Cansado estoy de batallar, \n  Mi voluntad completa rindo.  \n En Ti yo quiero descansar.  \n -3-  \n Venciste al fin, Oh Galileo,   \n Rendiste tú mi corazón,  \n Duda y temor de el arrancaste.  \n Eres mi Rey, mi Salvador.  \n ",track:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe",demo:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe"},
+{id:29,title:"   29 .- BUEN SALVADOR  ",anthem:" 29.- BUEN SALVADOR  \n \n Buen Salvador, a Ti yo vengo  \n Llegando a Ti, tal como estoy.  \n Mi rebelión y mal te dejo,  \n Y ante tus pies postrado estoy. \n CORO  \n Usa mi vida, oh buen Jesús, \n  Que deposito sobre tu altar,  \n Tú el Alfarero eres Señor,  \n Yo vil arcilla que habrás de usar.  \n -2-  \n Tu bendición ansioso imploro,  \n Cansado estoy de batallar, \n  Mi voluntad completa rindo.  \n En Ti yo quiero descansar.  \n -3-  \n Venciste al fin, Oh Galileo,   \n Rendiste tú mi corazón,  \n Duda y temor de el arrancaste.  \n Eres mi Rey, mi Salvador.  \n ",track:"1Y4vN9acHr49rfmExDTuPRMUl5I8Zi98a",demo:"1wImYreK8njTwyeFLcDUNsr25_95BVZIr"},
 {id:30,title:"  30 .- CANTAR NOS GUSTA UNIDOS  ",anthem:" 30.- CANTAR NOS GUSTA UNIDOS  \n \n Cantar nos gusta unidos,  \n Cantar nos gusta unidos  \n Acordes y a una voz.  \n // : A nuestro eterno Padre : //  \n Y a su Hijo el Salvador.  \n Cuán bueno es, cuán bueno es  \n ¡Cuán bueno es cantar juntos!  \n Cuán bueno es, cuán bueno es  \n ¡Cuán bueno es loar a Dios!  \n -2-  \n Orar nos gusta unidos,  \n Orar nos gusta unidos  \n Con santa devoción.  \n // : A Cristo que nos haga : //  \n Aceptos en su amor.  \n Cuán bueno es, cuán bueno es,  \n ¡Cuán bueno es orar juntos! \n  Cuán bueno es, cuán bueno es  \n ¡Cuán bueno es loar a Dios!  \n  -3-  \n Leer nos gusta unidos,  \n Leer nos gusta unidos,  \n La fiel revelación, \n  // : Que alumbra nuestros pasos : //  \n Con claro resplandor.  \n Cuán bueno es, cuán bueno es  \n ¡Cuán bueno es leer juntos!  \n Cuán bueno es, cuán bueno es,  \n ¡Cuán bueno es loar a Dios!  \n -4-  \n Estar nos gusta unidos,  \n Estar nos gusta unidos  \n En fe y adoración.  \n // : Gozando las delicias : //  \n Del día del Señor.  \n Cuán bueno es, cuán bueno es, \n  ¡Cuán bueno es estar juntos!  \n Cuán bueno es, cuán bueno es  \n ¡Cuán bueno es loar a Dios! ",track:"1_BbU-PG971vJwnTvWDsVL6cZHFLjW4f1",demo:"1CpOABO21sv8BxOHXhbMA0NYK6rnv99gT"},
 {id:31,title:"   31 .- CARA A CARA ",anthem:" 31.- CARA A CARA  \n \n En presencia estar de Cristo,  \n Ver su rostro, ¿qué será?  \n Cuando al fin en pleno gozo,  \n Mi alma le contemplará.  \n CORO  \n Cara a cara espero verle,  \n Más allá del cielo azul \n Cara a cara en plena gloria,  \n He de ver a mi Jesús.  \n -2-  \n Sólo tras oscuro velo,  \n Hoy le puedo aquí mirar.  \n Mas ya pronto viene el día,  \n Que su gloria ha de mostrar. \n  -3-  \n ¡Cuánto gozo habrá con Cristo  \n Cuando no haya más dolor  \n Cuando cesen los peligros  \n Y ya estemos en su amor!  \n -4-  \n Cara a cara, ¡cuán glorioso  \n Ha de ser así vivir.  \n Ver el rostro de quien quiso \n  Nuestras almas redimir!  \n ",track:"1iwtG1LBtZbWcVkL3pT6lVZ2qlupeHnwj",demo:"1jULX9sqLmQTdULv8BJgWSXeWva-z1g1Y"},
 {id:32,title:"   32 .- CARIÑOSO SALVADOR  ",anthem:" 32.- CARIÑOSO SALVADOR  \n \n Cariñoso Salvador, \n Huyo de la tempestad  \n A tu seno protector,  \n Fiándome de tu bondad.  \n Sálvame, Señor Jesús,  \n De las olas del turbión,  \n Hasta el puerto de salud  \n Guía mi pobre embarcación.  \n -2-  \n Otro asilo ninguno hay, \n  Indefenso acudo a Ti.  \n Mi necesidad me trae,  \n Porque mi peligro vi.  \n Solamente en Ti, Señor,  \n Puedo hallar consuelo y luz. \n  Vengo lleno de temor  \n A los pies de mi Jesús.  \n     -3- \n  Cristo, encuentro todo en Ti \n  Y no necesito más  \n Caído, me pusiste en pie.  \n Débil, ánimo me das.  \n Al enfermo das salud,  \n Das la vista al que no ve. \n  Con amor y gratitud  \n Tu bondad ensalzaré.  \n ",track:"1IHwMH7fwUGmXk_JpaiDUeV8FooFWSVHy",demo:"1jA28bBy6qQearRsFMSRJfRpJJkjsXUp9"},
@@ -38,10 +38,10 @@ export const hymnal = [
 {id:37,title:"   37 .- CONFIANDO EN JESUS  ",anthem:"        37.- CONFIANDO EN JESÚS  \n  \n     Aunque la furiosa tempestad  \n Amenace ruina sin piedad,  \n Con Jesús tendré seguridad,  \n Fiando en Jesús.  \n   CORO  \n Confiando sólo en Jesús,  \n Sé que su promesa cumplirá  \n Yo confiando sólo en Jesús,  \n Él me salvará.  \n     -2-  \n Penas y dolor podré tener  \n Que congojas causen a mi ser,  \n Pero todo yo podré vencer,  \n Fiando en Jesús.  \n     -3-  \n Otras esperanzas pasarán,  \n Otros goces, sí, fenecerán  \n Mi esperanza y gozo durarán  \n Fiando en Jesús.  \n ",track:"1jleL_IGlxBuGMMWTMIzJ4cQfQOESGi_m",demo:"1dduaWR5y9eKubYYIJifqOscZmTab63Aj"},
 {id:38,title:"  38 .- CONMIGO SE  ",anthem:"        38.- CONMIGO SÉ  \n  \n     Señor Jesús, la luz del día se fue,  \n La noche cierra ya, conmigo sé  \n Sin otro amparo, Tú, por compasión,  \n Al desvalido das consolación.  \n     -2-  \n Veloz el día nuestro huyendo va,  \n Su gloria, sus ensueños pasan ya  \n Mudanza y muerte miro en derredor,  \n Conmigo sé, bendito Salvador.  \n     -3-  \n Tu gracia en todo el día es menester,  \n ¿Quién otro al tentador podrá vencer?  \n ¿Cuál otro amante guía encontraré?  \n En sombra o sol, Señor, conmigo sé.  \n     -4-  \n Y mire al fin en mi postrer visión  \n De luz la senda que me lleva a Sión.  \n Do alegre cantaré al triunfar la fe  \n «Jesús, conmigo en vida y muerte fue».  \n ",track:"1HyT4H4T1X01wI1Zb0Tpf6HN_4_tRBI43",demo:"1IEzQvBCyYGsCFjBcHb03zPzBbvwPmvib"},
 {id:39,title:"   39 .- CONSAGRACION  ",anthem:"        39.- CONSAGRACIÓN  \n  \n     Si Cristo dio su vida aquí,  \n ¿Qué debo darle yo?  \n Acéptame, Señor Jesús,  \n Seré tu servidor.  \n  CORO  \n Mi vida, oh Señor, te doy,  \n Mi tiempo todo a Ti,  \n Te serviré, Señor Jesús,  \n Y oiré tu dulce voz.  \n      -2-  \n No importa donde Tú mandes,  \n Iré sin vacilar.  \n Yo sé que Tú protegerás  \n A aquel que en Ti está.  \n     -3-  \n Si tengo que la mar pasar,  \n Contigo yo iré,  \n A dar las nuevas de tu amor,  \n Y gozo impartir.  \n     -4-  \n Yo aprecio amigos y hogar,  \n Con todo el corazón,  \n Pero al Señor Jesús le doy  \n El centro de mi amor.  \n     -5-  \n Mi todo, oh Jesús, te doy,  \n Acéptalo Señor.  \n En mi humilde corazón  \n Tu trono quiero hacer.  \n ",track:"1lGfM0bfcwjOCIBkyBvW2skKTkcImw9gC",demo:"10UtVbjVLvXcM967a-cAEzj6M1rNuAx5i"},
-{id:40,title:"   40 .- CONTENDAMOS JOVENES  ",anthem:"        40.- CONTENDAMOS JÓVENES  \n    Contendamos jóvenes por la fe,  \n Aunque brame el mundo y Satanás,  \n En la lucha nunca nos vencerán,  \n Pues Jesús nos guardará.  \n     CORO  \n Si sufrimos aquí, reinaremos allí  \n En la gloria celestial.  \n Si llevamos la cruz  \n Por amor de Jesús.  \n La corona Él nos dará.  \n    -2-  \n No seamos tibios de corazón,  \n Ni dejemos nunca el amor de Dios  \n Mantengamos firme la profesión  \n De la fe del Salvador.  \n     -3-  \n Procuremos todos la santidad,  \n Sin la cual ninguno verá al Señor.  \n Gozo, paz y eterna felicidad  \n Cristo da al vencedor.  \n ",track:"1VtLagsHYZa79RXFqdWwSf11GW-Yc1S-V",demo:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe"},
+{id:40,title:"   40 .- CONTENDAMOS JOVENES  ",anthem:"        40.- CONTENDAMOS JÓVENES  \n    Contendamos jóvenes por la fe,  \n Aunque brame el mundo y Satanás,  \n En la lucha nunca nos vencerán,  \n Pues Jesús nos guardará.  \n     CORO  \n Si sufrimos aquí, reinaremos allí  \n En la gloria celestial.  \n Si llevamos la cruz  \n Por amor de Jesús.  \n La corona Él nos dará.  \n    -2-  \n No seamos tibios de corazón,  \n Ni dejemos nunca el amor de Dios  \n Mantengamos firme la profesión  \n De la fe del Salvador.  \n     -3-  \n Procuremos todos la santidad,  \n Sin la cual ninguno verá al Señor.  \n Gozo, paz y eterna felicidad  \n Cristo da al vencedor.  \n ",track:"1XXX6G2y9-3WgRuZCjuKn0MSGnzLemMa2",demo:"1etOKH-ufJaY4ACEjoYChXb1ZU7a05U60"},
 {id:41,title:"  41 .- CONTENTO ESTOY ",anthem:"        41.- CONTENTO ESTOY  \n  \n     Contento estoy, sin hogar en el mundo,  \n Muy poco de oro me bastará  \n Mas en el cielo do viven los santos,  \n Mansión gloriosa me espera allá.  \n     CORO  \n Tengo en el cielo, un hogar preparado  \n Do para siempre yo viviré,  \n Y un día pronto veré a mi Cristo,  \n Y en calles de oro caminaré.  \n     -2-  \n No estoy yo triste ni desamparado,  \n Voy rumbo al cielo, a mi mansión  \n Cual peregrino yo ando en el mundo,  \n Pues busco yo mi morada en Sión.  \n     -3-  \n ¡Oh! qué gozoso yo espero el día,  \n Cuando en las nubes Jesús vendrá,  \n ¡Oh, alegre día, en la tierra bendita!  \n Adoraré a mi Cristo allá.  \n ",track:"1F5BcJmb0KXriDPCXd9ssflzXyDG6lq9I",demo:"1FyAks9ZqQaFDE8MJQN8-usn6T2kusyT1"},
 {id:42,title:"   42 .- CON VOZ BENIGNA  ",anthem:"        42.- CON VOZ BENIGNA  \n  \n     Con voz benigna te llama Jesús,  \n Invitación de puro amor.  \n ¿Por qué le dejas en vano llamar?  \n ¿Sordo serás, pecador?  \n     CORO  \n Hoy te convida,  \n Hoy te convida,  \n Voz bendecida,  \n Benigna, convídate hoy.  \n     -2-  \n A los cansados convida Jesús, \n  Con compasión mira el dolor.  \n Tráele tu carga te bendecirá  \n Te ayudará el Señor.  \n     -3-  \n Siempre aguardando contempla Jesús,  \n ¡Tanto esperar! ¡Con tanto amor!  \n Hasta sus plantas ven, mísero, y trae  \n Tu tentación, tu dolor.  \n ",track:"1QxxtGaBI9-a_WwJa-PReg0kv8T3yZvHY",demo:"1U5NCwcLu9DIl-wqwQV65cPMsS0dgjOo6"},
-{id:43,title:"  43 .- CRISTO BENDITO  ",anthem:"        43.- CRISTO BENDITO  \n  \n     Cristo bendito, yo, pobre niño,  \n Por tu cariño me llego a Ti.  \n Para rogarte humildemente,  \n Tengas clemente piedad de mí.  \n     -2-  \n Quiero a tus plantas, con alegría,  \n Sentarme un día donde tú estás.  \n Oh, Cristo mío quiero buscarte,  \n Anhelo amarte cada vez más.  \n ",track:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe",demo:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe"},
+{id:43,title:"  43 .- CRISTO BENDITO  ",anthem:"        43.- CRISTO BENDITO  \n  \n     Cristo bendito, yo, pobre niño,  \n Por tu cariño me llego a Ti.  \n Para rogarte humildemente,  \n Tengas clemente piedad de mí.  \n     -2-  \n Quiero a tus plantas, con alegría,  \n Sentarme un día donde tú estás.  \n Oh, Cristo mío quiero buscarte,  \n Anhelo amarte cada vez más.  \n ",track:"1fcHI3lTi1ObIAQjKv5Jc7ZAlnuuCGiCM",demo:"11HHb8L551mfKmKQmSiglNgGM21sO-SXR"},
 {id:44,title:"  44 .- CRISTO EL PASTOR BENDITO  ",anthem:"        44.- CRISTO, EL PASTOR DIVINO  \n  \n     Es Jesucristo la vida y luz,  \n El nos anuncia la eterna verdad,  \n Verbo encarnado que muere en la Cruz,  \n Por darnos libertad.  \n     CORO  \n Cristo es Pastor enviado  \n Y divino Emanuel  \n Tierno me guía por sendas de paz,  \n Como su oveja fiel.  \n     -2-  \n Sólo Él nos libra de toda ansiedad,  \n Limpia, benigno, el fiel corazón \n Es su carácter amor y bondad,  \n La misma compasión.  \n     -3-  \n Fuente preciosa de gozo y salud  \n Que purifica de toda maldad \n Quiere llenarnos de su plenitud  \n Y de su santidad.  \n ",track:"1hFIVLboy0jQa5gwrz1q2jV7UkznGolIt",demo:"1Lx1K_TOmZKKjADePLZdpbj25Msfdc1ZP"},
 {id:45,title:"  45 .- CRISTO ES EL TODO ",anthem:"     45.- CRISTO ES EL TODO  \n  \n     Es Jesucristo mi todo,  \n Grato es cantar su loor,  \n ¡Oh cuán sublime e infinito  \n Es su divino amor!  \n Cuando me vio errabundo,  \n Cual hijo pródigo,  \n Vino a buscar y a salvarme,  \n A su redil me llevó.  \n     CORO  \n Cristo . . . Cristo . . .  \n Tú eres mi Salvador,  \n Cristo . . . Cristo . . .  \n Tuyo seré, Señor \n Te seguiré donde quiera, si Tú guiando vas,  \n Y al terminar mi carrera, en gloria veré tu faz.  \n     -2-  \n Cristo es el Lirio del Valle,   \n La Rosa es de Sarón,  \n Cristo es el Astro Esplendente,  \n La Roca de Salvación.  \n Él es la fuente de vida  \n Y gozo eternal,  \n Él satisface mi alma,  \n Con el maná celestial.  \n     -3-  \n Cristo nació en un pesebre,  \n La amarga copa bebió,  \n Cual inocente cordero,  \n En el Calvario murió  \n Resucitó de la tumba,  \n Y al cielo ascendió,  \n Mas pronto viene en su gloria,  \n Esta promesa nos dio.  \n ",track:"1qqR9Mk0Waqz2HPqqdXpK1lFNSZu_OUSk",demo:"1xuWl6Qxsb8HQHs6045F-4xbhA6juUEZk"},
 {id:46,title:"  46 .- CRISTO LA ROCA  ",anthem:"        46.- CRISTO LA ROCA  \n  \n     En las olas inmensas  \n De embravecido mar,  \n Que asaltan de mi alma  \n La pobre embarcación,  \n De rodillas a Cristo clamé,  \n Y el huracán  \n Deshecho fue al instante,  \n A la voz de Dios.  \n     CORO  \n Es Cristo la Roca,  \n El ancla de mi fe,  \n Los males, lamentos  \n Y ayes de temor,  \n Terminan por siempre  \n Con mi supremo Rey  \n Es Jesucristo  \n Mi refugio.  \n     -2-  \n Me guarda de peligros,  \n De pruebas, de dolor,  \n Él manda que los vientos  \n No agiten tempestad,  \n Los mares se detienen,  \n La ola reposó,  \n Y en Cristo fijo el ancla,  \n Confiando más. \n     -3-  \n Mi dulce Salvador, sí,  \n Mi hermoso amigo y Dios,  \n Que libra de tristezas  \n Y aleja amarga hiel,  \n Por fe yo iré al cielo,  \n Mansión del ser de amor,  \n La fuente inagotable  \n De dicha y bien.  \n ",track:"16E00b61AF3kIJL95VWeV-PO7bYQtB6b5",demo:"164wDoA6x3n2hTYenzjnJTKY-P4El64we"},
@@ -49,27 +49,27 @@ export const hymnal = [
 {id:48,title:"  48 .- CRISTO MI PILOTO SE  ",anthem:"        48.- CRISTO, MI PILOTO SÉ  \n \n     Cristo, mi Piloto sé  \n En el tempestuoso mar  \n Fieras ondas mi bajel  \n Van a hacerlo zozobrar.  \n Mas si Tú conmigo vas  \n Pronto al puerto llegaré,  \n Carta y brújula hallo en Ti,  \n Cristo, mi Piloto sé.  \n     -2-  \n Todo agita el huracán  \n Con indómito furor  \n Mas los vientos cesarán  \n Al mandato de tu voz  \n Y al decir, «que sea la paz»  \n Cederá sumiso el mar.  \n De las aguas Tú el Señor,  \n Guíame, oh Piloto fiel.  \n     -3-  \n Cuando al fin cercano esté,  \n De la playa celestial,  \n Si el abismo ruge aún,  \n Entre el puerto y mi bajel,  \n En tu pecho al descansar,  \n Quiero oírte a Ti decir:  \n «Nada temas ya del mar,  \n Tu Piloto siempre soy».  \n ",track:"18rmkVP_ZbXjAdCrt4utibw7SC1yW55-z",demo:"1khmt6-_fHgnRf-KWHXggn7JdKWUL3Ajb"},
 {id:49,title:"  49 .- CRISTO NOS ABRIO EL CAMINO",anthem:"        49.- CRISTO NOS ABRIÓ EL CAMINO  \n  \n     Cristo, el Salvador  \n Nos abrió camino al cielo,  \n Cuando Él dio su vida  \n En la cruenta cruz,  \n Quiere que digamos  \n Doquier la bella historia.  \n Cristo salva del pecado  \n Al mortal.  \n     CORO  \n El Señor abrió . . . camino al cielo allá . . .  \n Al morir . . . en la cruz . . . Él nos dio santa  luz  \n Ya la preparó . . . camino nos abrió  \n Nos guiará . . . a la luz . . .  \n Al hogar . . . del buen Jesús.  \n     -2-  \n Bien marcado está  \n El camino por la sangre,  \n Do se ven las huellas  \n Del buen Redentor:  \n Llegarás al fin  \n A la gloria si lo sigues,  \n Gozarás por siempre  \n De su grande amor.  \n     -3-  \n Oye, pecador,  \n Con amor te llama Cristo,  \n Si su ley tú guardas, \n  Él te guiará  \n Vivirás con Él  \n Para siempre allá en los cielos,  \n Si servirle quieres  \n Él te salvará.  \n ",track:"1CbjHtW_bV6hko86XSxBVPJGaeD656MzT",demo:"1e09HPJdXRxeJfsOP4rxHFNBiZYh_PHeb"},
 {id:50,title:"  50 .- CRISTO QUIERE LIMPIOS CORAZONES",anthem:"        50.- CRISTO QUIERE LIMPIOS CORAZONES  \n  \n     Cristo busca limpios corazones,  \n Que le sirvan siempre con fidelidad  \n Que a los pecadores, insten fervorosos  \n Que se vuelvan del pecado a la verdad.  \n     CORO  \n Id a trabajar allá  \n En los campos del Señor,  \n Que para la siega \n Se presentan blancos hoy  \n Oh, fieles siervos de Dios,  \n A quien debéis todo honor  \n Oíd su voz, salid a trabajar.  \n     -2-  \n Labios puros Cristo necesita,  \n Que con gozo anuncien plena salvación  \n Lenguas consagradas sólo a su servicio,  \n Que proclamen al cautivo redención.  \n     -3-  \n Cristo busca manos bien dispuestas  \n Para trabajar con buena voluntad  \n Siembras ya maduras piden vuestra ayuda \n  Las doradas mieses pronto cosechad.  \n     -4-  \n Vidas santas Cristo necesita  \n Que a los pecadores muestren su poder  \n Libres de ansiedades, en Jesús confiadas \n  Y que pueda de ellas siempre disponer. \n ",track:"1ULd4fEA1QSwQ0Y41AKGI2cxFMqobkxcN",demo:"1SSk3bxLwt_NrelKIhlwIc7vLfqktwcRy"},
-{id:51,title:"  51 .- CUAL MIRRA FRAGANTE ",anthem:"        51.- CUAL MIRRA FRAGANTE  \n  \n     Cual mirra fragante que exhala su olor  \n Y ricos perfumes esparce en redor,  \n Tu nombre, ¡oh Amado! a mi corazón  \n Lo llena de gozo, transpórtalo a Sión.  \n     CORO  \n Aleluya, Aleluya  \n Al Cordero de Dios:  \n Aleluya al Amado,  \n Al bendito Jesús.  \n     -2-  \n Cual voz amigable que al triste viador,  \n En bosque perdido le inspira valor,  \n Tu nombre me anima y me hace saber  \n Que ofreces, piadoso, rescate a mi ser.  \n    -3-  \n Cual luz que brillando del alto fanal,  \n Al nauta en la noche señala el canal.  \n Tu nombre esparciendo benéfica luz,  \n Al cielo me lleva, bendito Jesús.  \n ",track:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe",demo:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe"},
+{id:51,title:"  51 .- CUAL MIRRA FRAGANTE ",anthem:"        51.- CUAL MIRRA FRAGANTE  \n  \n     Cual mirra fragante que exhala su olor  \n Y ricos perfumes esparce en redor,  \n Tu nombre, ¡oh Amado! a mi corazón  \n Lo llena de gozo, transpórtalo a Sión.  \n     CORO  \n Aleluya, Aleluya  \n Al Cordero de Dios:  \n Aleluya al Amado,  \n Al bendito Jesús.  \n     -2-  \n Cual voz amigable que al triste viador,  \n En bosque perdido le inspira valor,  \n Tu nombre me anima y me hace saber  \n Que ofreces, piadoso, rescate a mi ser.  \n    -3-  \n Cual luz que brillando del alto fanal,  \n Al nauta en la noche señala el canal.  \n Tu nombre esparciendo benéfica luz,  \n Al cielo me lleva, bendito Jesús.  \n ",track:"1dDj1XUDYsbYVe3dDYDH813H-M_Afvzeq",demo:"121-QIg_yI8eJ8VtnHE7706fifu0ZMwh-"},
 {id:52,title:"  52 .- CUANDO ALLA SE PASE LISTA ",anthem:"           52.- CUANDO ALLÁ SE PASE LISTA  \n  \n     Cuando la trompeta suene  \n En aquel día final,  \n Y que el alba eterna rompa en claridad.  \n Cuando las naciones salvas  \n A su patria lleguen ya,  \n Y que sea pasada lista, allí he de estar.  \n     CORO  \n Cuando allá se pase lista,  \n Cuando allá se pase lista,  \n Cuando allá se pase lista,  \n A mi nombre yo feliz responderé.  \n     -2-  \n En aquel día sin nieblas,  \n En que muerte ya no habrá,  \n Y su gloria el Salvador impartirá  \n Cuando los llamados entren  \n A su celestial hogar  \n Y que sea pasada lista, allí he de estar.  \n     -3-  \n Trabajemos por el Maestro  \n Desde el alba al vislumbrar  \n Siempre hablemos de su amor y fiel bondad.  \n Cuando todo aquí fenezca,  \n Y nuestra obra cese ya  \n Y que sea pasada lista, allí he de estar.  \n ",track:"1HlGfHQyZTkuAg0gh0kCrZVun-uIrRC6c",demo:"18r675KvOlYj-f23vbZEFYLCTEvl60Cg8"},
 {id:53,title:"  53 .- CUANDO ANDEMOS CON DIOS",anthem:"        53.- CUANDO ANDEMOS CON DIOS  \n  \n     Cuando andemos con Dios \n  Escuchando su voz,  \n Nuestra senda  \n Florida será:  \n Si acatamos su ley  \n Él será nuestro Rey,  \n Y con Él reinaremos allá.  \n     CORO  \n Obedecer,  \n Cumple a nuestro deber,  \n Si queréis ser felices,  \n Debéis obedecer.  \n     -2-  \n Cuando Cristo murió  \n Nuestro llanto enjugó,  \n Proclamarle debemos doquier.  \n Gozarás del amor  \n De tu Rey y Señor,  \n Si obediente  \n Le quieres tú ser.  \n     -3-  \n No podremos probar  \n Sus delicias sin par,  \n Si seguimos Mundano el placer,  \n Obtendremos su amor,  \n Y el divino favor  \n Si sus leyes  \n Queremos hacer.  \n ",track:"1lP1gFyu-5y8vjIPOuQWaUtfqdG3oSSHl",demo:"1JW2oj-9Mo79LYRLnusFJ9aQjZm_VHRsh"},
 {id:54,title:"   54 .- CUANDO CONBATIDOS ",anthem:"        54.- CUANDO COMBATIDOS  \n  \n     Cuando combatido por la adversidad,  \n Creas ya perdida tu felicidad,  \n Mira lo que el cielo para ti guardó,  \n Cuenta las riquezas que el Señor te dio.  \n     CORO  \n Cuenta las riquezas de tu Dios  \n Mira las riquezas de su amor,  \n Pon los ojos donde Cristo está  \n Y tu mente guarde la divina paz.  \n     -2-  \n ¿Andas agobiado por algún pesar?  \n ¿Tu cruz te parece dura de llevar?  \n Cuenta las promesas del Señor Jesús,  \n Y de las tinieblas nacerá la luz.  \n     -3-  \n Cuando de otros veas la prosperidad,  \n Y tus pies claudiquen tras de su maldad,  \n Cuenta las riquezas que tendrás por fe,  \n Donde el oro es polvo que hollará tu pie.  \n     -4-  \n Aunque grande sea tu aflicción aquí  \n No te desalientes, Dios está por ti.  \n Si a su propio Hijo no se reservó,  \n Aun verás riquezas que ojo nunca vio.  \n ",track:"1PQCjtmNtp851eNuLB_sBdntCqo5MRnuJ",demo:"1HtrrsA32GCgasKh5ijm_tslK6vfLI-lE"},
-{id:55,title:"  55 .- CUANDO EL VINO A MI CORAZON ",anthem:"   55.- CUANDO ÉL VINO A MI CORAZÓN  \n  \n     Cuán glorioso es el cambio  \n Operado en mi ser,  \n Viniendo a mi vida  \n El Señor  \n Hay en mi alma una paz  \n Que yo ansiaba tener,  \n La paz \n Que me trajo su amor.  \n     CORO  \n Él vino a mi corazón,  \n Él vino a mi corazón,  \n Soy feliz con la vida que Cristo me dio,  \n Cuando Él vino a mi corazón.  \n     -2-  \n Ya no voy por la senda  \n Que el mal me trazó,  \n Do sólo encontré  \n Confusión,  \n Mis errores pasados  \n Jesús los borró,  \n Cuando Él vino  \n A mi corazón.  \n     -3-  \n Ni una sombra de duda  \n Oscurece su amor,  \n Amor que me trajo  \n El perdón,  \n La esperanza que aliento  \n La debo al Señor,  \n Cuando Él vino  \n A mi corazón.  \n ",track:"1Mb0a-7usiNjo5obTNcVQmUS1rjPyhHH7",demo:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe"},
-{id:56,title:"  56 .- CUANDO LEO LA EN BIBLIA  ",anthem:"        56.- CUANDO LEO EN LA BIBLIA  \n     Cuando leo en la Biblia \n Como llama Jesús  \n Y bendice a los niños con amor,  \n Yo también quisiera estar,  \n Y con ellos descansar  \n En los brazos del tierno Salvador.  \n       -2-\n Ver quisiera sus manos,  \n Sobre mí reposar,  \n Cariñosos abrazos de Él, sentir,  \n Sus miradas disfrutar,  \n Las palabras escuchar:  \n «A los niños dejad a mí venir».  \n     -3-\n Mas aún a su estrado  \n En oración puedo ir,  \n Y también de su amor participar \n  Pues si aquí buscarle se,  \n Le veré y le escucharé,  \n En el reino que Él fue a preparar.  \n     -4-\n Los que son redimidos  \n Y salvados por Él  \n Al Cordero celebran inmortal,  \n Allí voces mil y mil  \n Se oyen del coro infantil,  \n Porque es de ellos el reino celestial.  \n     -5- \n ¡Cuántos hay que no saben  \n De esa bella mansión  \n Y no quieren a Cristo recibir! \n Les quisiera yo mostrar  \n Que para ellos hay lugar,  \n En el cielo do los convida ir.  \n     -6-\n Yo ansío aquel día   Venturoso sin fin,  \n El más grande, el más lúcido, el mejor,  \n Cuando de cualquier nación,  \n Niños mil, sin distinción,  \n A los brazos acudan del Señor.  \n ",track:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe",demo:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe"},
+{id:55,title:"  55 .- CUANDO EL VINO A MI CORAZON ",anthem:"   55.- CUANDO ÉL VINO A MI CORAZÓN  \n  \n     Cuán glorioso es el cambio  \n Operado en mi ser,  \n Viniendo a mi vida  \n El Señor  \n Hay en mi alma una paz  \n Que yo ansiaba tener,  \n La paz \n Que me trajo su amor.  \n     CORO  \n Él vino a mi corazón,  \n Él vino a mi corazón,  \n Soy feliz con la vida que Cristo me dio,  \n Cuando Él vino a mi corazón.  \n     -2-  \n Ya no voy por la senda  \n Que el mal me trazó,  \n Do sólo encontré  \n Confusión,  \n Mis errores pasados  \n Jesús los borró,  \n Cuando Él vino  \n A mi corazón.  \n     -3-  \n Ni una sombra de duda  \n Oscurece su amor,  \n Amor que me trajo  \n El perdón,  \n La esperanza que aliento  \n La debo al Señor,  \n Cuando Él vino  \n A mi corazón.  \n ",track:"1LcK5qBnbheakT-SQR7_dsOUt6Ae3vyjK",demo:"1gKhQ1dMesiOC8uk4rR1c4zreJjEeu5e4"},
+{id:56,title:"  56 .- CUANDO LEO LA EN BIBLIA  ",anthem:"        56.- CUANDO LEO EN LA BIBLIA  \n     Cuando leo en la Biblia \n Como llama Jesús  \n Y bendice a los niños con amor,  \n Yo también quisiera estar,  \n Y con ellos descansar  \n En los brazos del tierno Salvador.  \n       -2-\n Ver quisiera sus manos,  \n Sobre mí reposar,  \n Cariñosos abrazos de Él, sentir,  \n Sus miradas disfrutar,  \n Las palabras escuchar:  \n «A los niños dejad a mí venir».  \n     -3-\n Mas aún a su estrado  \n En oración puedo ir,  \n Y también de su amor participar \n  Pues si aquí buscarle se,  \n Le veré y le escucharé,  \n En el reino que Él fue a preparar.  \n     -4-\n Los que son redimidos  \n Y salvados por Él  \n Al Cordero celebran inmortal,  \n Allí voces mil y mil  \n Se oyen del coro infantil,  \n Porque es de ellos el reino celestial.  \n     -5- \n ¡Cuántos hay que no saben  \n De esa bella mansión  \n Y no quieren a Cristo recibir! \n Les quisiera yo mostrar  \n Que para ellos hay lugar,  \n En el cielo do los convida ir.  \n     -6-\n Yo ansío aquel día   Venturoso sin fin,  \n El más grande, el más lúcido, el mejor,  \n Cuando de cualquier nación,  \n Niños mil, sin distinción,  \n A los brazos acudan del Señor.  \n ",track:"1SQRpz2Pdzsj0jCqr06RKQ670U9FckoPt",demo:"1FrzBN1_X4AKQgAeYiuOqibtsVrIGOCgp"},
 {id:57,title:"  57 .- CUANDO CRISTIANOS APRENDAN A DIEZMAR ",anthem:"        57.- CUANDO CRISTIANOS APRENDAN A DIEZMAR  \n  \n     ¡Oh, cuán grande cambio en el mundo habrá!  \n Cuando cristianos aprendan a diezmar:  \n Llegarán a tener lo que ansiaban al fin,  \n Cuando todos aprendan a diezmar.  \n     CORO  \n Cuando todos aprendan a diezmar,  \n Cuando todos aprendan a diezmar,  \n Cada alma gozará y la obra crecerá,  \n Cuando todos aprendan a diezmar.  \n     -2-  \n Ningún niño habrá que carezca de hogar,  \n Cuando cristianos aprendan a diezmar,  \n Los pastores no más se entristecerán,  \n Cuando todos aprendan a diezmar.  \n     -3-  \n Ningún alma habrá en la oscuridad,  \n Cuando cristianos aprendan a diezmar,  \n Y de Dios y su amor todos conocerán,  \n Cuando todos aprendan a diezmar.  \n     -4-  \n Entonces disfrutarán paz sin igual,  \n Cuando cristianos aprendan a diezmar  \n Nuestras almas de gozo rebosarán,  \n Cuando todos aprendan a diezmar.  \n ",track:"1z0RJzmpABQu0tEviBKYdtHzYOuTAvn5a",demo:"1Zlfbj3ynZpPYfSP7ddmRJ5NgXF4l1VNU"},
 {id:58,title:"  58 .- CUANDO TODOS DEN SUS DIEZMOS",anthem:"        58.- CUANDO TODOS DEN SUS DIEZMOS  \n  \n     Cuán glorioso será  \n Cuando el pueblo leal  \n A la casa del Padre  \n Sus diezmos traerán  \n Cuando todos unidos  \n Por gracia eternal  \n  A la causa de Cristo  \n Colaborarán.  \n     CORO  \n Cuando todos sus diezmos  \n A Cristo le den,  \n Cuando todos sus diezmos  \n A Cristo le den,  \n No habrá nunca pobreza,  \n Ni ansiedad, ni tristeza.  \n Cuando todos sus diezmos  \n A Cristo le den.  \n        -2-  \n En el pueblo de Dios  \n Robadores no habrá,  \n Que la parte de Dios  \n Para sí retendrán  \n Pues la viña de Cristo  \n Doquier crecerá  \n Y abundante su pueblo  \n Sus dones traerá.  \n     -3-  \n Nuestro Padre, sus dones  \n Más ricos dará,  \n Y favores preciosos  \n A su pueblo fiel  \n Las ventanas del cielo  \n Con gozo abrirá  \n Cuando todos sus diezmos  \n Le den a EMMANUEL.  \n ",track:"1yrgAoteeL8ySC-fVk_TRduy4MBE_QBRd",demo:"1bfMC1nDgNc1rOPJuz92qj2jNIozjmU1u"},
-{id:59,title:"  59 .- CUAN DULCE EN LOS OIDOS ",anthem:"        59.- CUÁN DULCE EN LOS OÍDOS  \n  \n     Cuán dulce, en los oídos  \n Del triste pecador,  \n La voz de Cristo, suena,  \n Su amante Salvador:  \n «Ven, alma trabajada  \n De penas y dolor,  \n Descarga en mí tus culpas,  \n Tu angustia y tu temor»  \n     CORO  \n Ven, sí ven a mí, oh sí,  \n Ven, sí ven a mí, oh, oh,  \n Alma atribulada,  \n Ven, sí ven a mí.  \n     -2-  \n ¿Deseas un amigo  \n Eternamente fiel,  \n Sostén en tus flaquezas,  \n Autor de todo bien? \n  Acude, pues, a Cristo  \n Y en El encontrarás  \n Perdón, descanso y gozo,  \n Amor y dulce paz.  \n     -3-  \n Sí, Cristo es el camino,  \n La vida y la verdad,  \n El solo sacrificio  \n Que expía la maldad.  \n El solo Sacerdote,  \n El solo Mediador.  \n Cristo, sí, sólo Cristo  \n Es nuestro Salvador.  \n ",track:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe",demo:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe"},
-{id:60,title:"  60 .- CUBA PARA CRISTO  ",anthem:"        60.- CUBA PARA CRISTO  \n  \n     ¡Oh! Cristianos cubanos  \n Soldados de Jesús.  \n Luchemos por la patria  \n Y el triunfo de la cruz  \n Que Cuba redimida  \n Conozca la verdad,  \n Que muera para siempre  \n El odio y la maldad.  \n     CORO  \n ¡Oh! compañeros,  \n Luchemos sin cesar  \n Que Cuba para Cristo  \n Tenemos, tenemos que ganar.  \n     -2-  \n No importa si arrogante  \n Se muestra Satanás,  \n Marchemos siempre firmes  \n Y sin mirar atrás  \n Es nuestra la victoria,  \n Es nuestra por Jesús,  \n Corona nos espera  \n Eterna tras la cruz.  \n     -3-  \n Por Cristo y por su Iglesia  \n Luchemos sin temor,  \n Jesús envía las armas  \n Nos llena de valor.  \n ¡Alerta! luchadores,  \n Luchemos sin cesar,  \n Que Cuba para Cristo  \n Tenemos que ganar.  \n ",track:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe",demo:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe"},
-{id:61,title:"   61 .- CUANTO MAS TIEMPO SERA ",anthem:"        61.- CUÁNTO MÁS TIEMPO SERÁ  \n  \n    Qué bella es  \n La antigua historia,  \n Del advenimiento de Cristo en gloria  \n Vendrá después de ganar la victoria,  \n Del mundo a los suyos llevar.  \n     CORO  \n ¿Cuánto más tiempo será  \n Cuándo nos podremos cantar?  \n ¡Vuelve Cristo! ¡Aleluya! ¡Aleluya! Amén  \n ¡Aleluya! Amén.  \n     -2-  \n ¡Qué hora gloriosa!  \n Será bienvenida,  \n Aunque para el mundo es desconocida  \n Vendrá con poder y con inmortal vida,  \n Del mundo a los suyos llevar.  \n     -3-  \n ¡Qué gloria inefable!  \n Amor trascendente,  \n Vendrá Jesucristo en luz esplendente  \n Con su legión celestial, obediente,  \n Del mundo a los suyos llevar.  \n     -4-  \n ¡Qué gozo tan grande  \n Poder transformarnos!  \n Sin nunca morir, cual Cristo seremos,  \n Viene en las nubes para llevarnos,  \n Del mundo consigo a morar.  \n ",track:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe",demo:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe"},
-{id:62,title:"  62 .- DADME LA BIBLIA  ",anthem:"        62.- DADME LA BIBLIA  \n  \n     Dadme la Biblia, reluciente estrella,  \n Norte del nauta en tormentoso mar,  \n Nunca el nublado esconderá su brillo,  \n Pues vino Cristo al hombre a rescatar.  \n     CORO  \n Dadme la Biblia, santa y clara, nueva,  \n Luz del camino angosto y celestial.  \n Regla y promesa, ley y amor unidos,  \n Hasta que rompa el alba eternal.  \n     -2-  \n Dadme la Biblia en mi desaliento,  \n Cuando el pecado cáuseme temor  \n Dadme los fieles dichos de mi Maestro.  \n Siempre me encuentre junto al Salvador.  \n     -3-  \n Dadme la Biblia, antorcha a mis pisadas \n  En la insegura senda terrenal  \n Única luz constante en las tinieblas  \n Prenda de paz y amparo celestial.  \n     -4-  \n Dadme la Biblia, luz de vida eterna \n Junto al sepulcro su esplendor alzad  \n Sobre el Jordán destáquense las puertas  \n Fúlgidas de la célica ciudad.  \n ",track:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe",demo:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe"},
+{id:59,title:"  59 .- CUAN DULCE EN LOS OIDOS ",anthem:"        59.- CUÁN DULCE EN LOS OÍDOS  \n  \n     Cuán dulce, en los oídos  \n Del triste pecador,  \n La voz de Cristo, suena,  \n Su amante Salvador:  \n «Ven, alma trabajada  \n De penas y dolor,  \n Descarga en mí tus culpas,  \n Tu angustia y tu temor»  \n     CORO  \n Ven, sí ven a mí, oh sí,  \n Ven, sí ven a mí, oh, oh,  \n Alma atribulada,  \n Ven, sí ven a mí.  \n     -2-  \n ¿Deseas un amigo  \n Eternamente fiel,  \n Sostén en tus flaquezas,  \n Autor de todo bien? \n  Acude, pues, a Cristo  \n Y en El encontrarás  \n Perdón, descanso y gozo,  \n Amor y dulce paz.  \n     -3-  \n Sí, Cristo es el camino,  \n La vida y la verdad,  \n El solo sacrificio  \n Que expía la maldad.  \n El solo Sacerdote,  \n El solo Mediador.  \n Cristo, sí, sólo Cristo  \n Es nuestro Salvador.  \n ",track:"1MAY_mI95hzNK18eDhO0jbYgOKK3zy1iN",demo:"1OVLiSBlfZbLmPuFb7oVdCzw1M1vrHJiX"},
+{id:60,title:"  60 .- CUBA PARA CRISTO  ",anthem:"        60.- CUBA PARA CRISTO  \n  \n     ¡Oh! Cristianos cubanos  \n Soldados de Jesús.  \n Luchemos por la patria  \n Y el triunfo de la cruz  \n Que Cuba redimida  \n Conozca la verdad,  \n Que muera para siempre  \n El odio y la maldad.  \n     CORO  \n ¡Oh! compañeros,  \n Luchemos sin cesar  \n Que Cuba para Cristo  \n Tenemos, tenemos que ganar.  \n     -2-  \n No importa si arrogante  \n Se muestra Satanás,  \n Marchemos siempre firmes  \n Y sin mirar atrás  \n Es nuestra la victoria,  \n Es nuestra por Jesús,  \n Corona nos espera  \n Eterna tras la cruz.  \n     -3-  \n Por Cristo y por su Iglesia  \n Luchemos sin temor,  \n Jesús envía las armas  \n Nos llena de valor.  \n ¡Alerta! luchadores,  \n Luchemos sin cesar,  \n Que Cuba para Cristo  \n Tenemos que ganar.  \n ",track:"1-y0dCnCgpOp-4SMcyrgH7VxZb_qkfWfo",demo:"1Y0mwJd1HEvtPwlNYIRdhHUS54JdXc3w_"},
+{id:61,title:"   61 .- CUANTO MAS TIEMPO SERA ",anthem:"        61.- CUÁNTO MÁS TIEMPO SERÁ  \n  \n    Qué bella es  \n La antigua historia,  \n Del advenimiento de Cristo en gloria  \n Vendrá después de ganar la victoria,  \n Del mundo a los suyos llevar.  \n     CORO  \n ¿Cuánto más tiempo será  \n Cuándo nos podremos cantar?  \n ¡Vuelve Cristo! ¡Aleluya! ¡Aleluya! Amén  \n ¡Aleluya! Amén.  \n     -2-  \n ¡Qué hora gloriosa!  \n Será bienvenida,  \n Aunque para el mundo es desconocida  \n Vendrá con poder y con inmortal vida,  \n Del mundo a los suyos llevar.  \n     -3-  \n ¡Qué gloria inefable!  \n Amor trascendente,  \n Vendrá Jesucristo en luz esplendente  \n Con su legión celestial, obediente,  \n Del mundo a los suyos llevar.  \n     -4-  \n ¡Qué gozo tan grande  \n Poder transformarnos!  \n Sin nunca morir, cual Cristo seremos,  \n Viene en las nubes para llevarnos,  \n Del mundo consigo a morar.  \n ",track:"1h6180sPy6RllzoUWKDttOxJpZvzhTYMY",demo:"1SvrNXT_UbG-yuhYqTuQtdveu8CIfgNyC"},
+{id:62,title:"  62 .- DADME LA BIBLIA  ",anthem:"        62.- DADME LA BIBLIA  \n  \n     Dadme la Biblia, reluciente estrella,  \n Norte del nauta en tormentoso mar,  \n Nunca el nublado esconderá su brillo,  \n Pues vino Cristo al hombre a rescatar.  \n     CORO  \n Dadme la Biblia, santa y clara, nueva,  \n Luz del camino angosto y celestial.  \n Regla y promesa, ley y amor unidos,  \n Hasta que rompa el alba eternal.  \n     -2-  \n Dadme la Biblia en mi desaliento,  \n Cuando el pecado cáuseme temor  \n Dadme los fieles dichos de mi Maestro.  \n Siempre me encuentre junto al Salvador.  \n     -3-  \n Dadme la Biblia, antorcha a mis pisadas \n  En la insegura senda terrenal  \n Única luz constante en las tinieblas  \n Prenda de paz y amparo celestial.  \n     -4-  \n Dadme la Biblia, luz de vida eterna \n Junto al sepulcro su esplendor alzad  \n Sobre el Jordán destáquense las puertas  \n Fúlgidas de la célica ciudad.  \n ",track:"1eHsTMzaYI_Lnsc1srT1B6-IfZgr1IWMq",demo:"1-D_KoHZ-8x44EYvGNt6g9W3YWXZkjtsO"},
 {id:63,title:"   63 .- DA LO MEJOR AL MAESTRO  ",anthem:"        63.- DA LO MEJOR AL MAESTRO  \n  \n     Da lo mejor al Maestro  \n Tu juventud, tu vigor  \n Dale el ardor de tu alma,  \n Lucha del bien en favor.  \n Cristo nos dio el ejemplo  \n Siendo el joven de valor  \n Sele devoto, ferviente,  \n Dale de ti lo mejor.  \n     CORO  \n Da lo mejor al Maestro  \n Tu juventud, tu vigor,  \n Dale el ardor de tu alma,  \n De la verdad lucha en pro.  \n     -2-  \n Da lo mejor al Maestro \n  Dale de tu alma el honor  \n Que sea Él en tu vida  \n El móvil de cada acción.  \n Dale y te será dado  \n El Hijo amado de Dios.  \n Sírvele día por día,  \n Dale de ti lo mejor. \n    -3-  \n Da lo mejor al Maestro  \n Nada supera su amor,  \n Se dio por ti a Sí mismo,  \n Dejando gloria y honor.  \n No murmuró al dar su vida  \n Por salvarte del error.  \n Ámale más cada día  \n Dale de ti lo mejor.  \n ",track:"1McJu9WOXne77FPPQfauzo4KRSWvt6OTY",demo:"10ceRaTraTD83R1dbC2tKH1ILy5pPZK0l"},
 {id:64,title:"  64 .- DAME LA FE DE MI SEÑOR  ",anthem:"        64.- DAME LA FE DE MI SEÑOR  \n  \n     Dame la fe de mi Jesús,  \n La fe bendita del Señor,  \n Que al afligido da la paz,  \n La fe que salva de temor  \n Fe de los santos galardón,  \n Gloriosa fe de salvación.  \n     -2-  \n Dame la fe que trae poder,  \n De los demonios vencedor,  \n Que fieras no podrán vencer,  \n Ni dominarla el opresor,  \n Que pueda hoguera soportar,  \n Premio de mártir alcanzar. \n      -3-  \n Dame la fe que vencerá  \n En todo tiempo, mi Jesús,  \n Dame la fe que fijará  \n Mi vista en tu divina cruz  \n Que puede proclamar tu amor,  \n Tu voluntad hacer, Señor.  \n     -4-  \n Dame la fe que da el valor,  \n Que ayuda al débil a triunfar,  \n Que todo sufre con amor,  \n Y puede en el dolor cantar.  \n Que puede al cielo escalar,  \n O aquí con Cristo, caminar.  \n ",track:"1XVNx12JhPO6Q9XU60MSPaXJXQEgd1W8J",demo:"1fHbssW8Hb6tuA0Lc4UDdHAHAUfINJIRD"},
-{id:65,title:"  65 .- DEL SOL SOMOS RAYITOS  ",anthem:"       65.- DEL SOL SOMOS RAYITOS  \n  \n     Dios pone a los niñitos  \n En terrenal mansión,  \n Como sus favoritos  \n En excelsa misión.  \n Quiere que sean rayitos  \n De esperanza y de amor,  \n Que ahuyenten las tinieblas  \n Que causan el dolor.  \n     CORO  \n Del sol somos rayitos  \n Que al hombre Dios mandó,  \n Y en sus tristes conflictos  \n Brillamos con amor.  \n     -2-  \n Las nubes nos ocultan  \n La hermosa luz del sol,  \n La vida tiene angustias  \n Y pena el corazón  \n Pero si somos fieles  \n En nuestra gran misión,  \n Al triste le daremos  \n Consuelo en su aflicción.  \n     -3-  \n Cumplamos, pues, contentos  \n Nuestra misión de luz,  \n Calmando sufrimientos  \n En nombre de Jesús.  \n Las sombras de la vida  \n Disipe nuestro amor,  \n Y del alma afligida  \n Quitemos el dolor.  \n ",track:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe",demo:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe"},
-{id:66,title:"  66 .- DESPIERTATE MI CORAZON  ",anthem:"        66.- DESPIÉRTATE, MI CORAZÓN  \n  \n     Despiértate, mi corazón,  \n Bendice a tu Creador,  \n Cantando en himnos de loor  \n Que Dios es Dios de amor.  \n Inmenso amor, amor sin fin  \n Que quiso demostrar,  \n Buscando al pobre pecador  \n Dispuesto a perdonar.  \n     CORO  \n Despiértate, mi corazón,  \n Y alaba, alaba al Salvador.  \n Cantando en himnos de loor  \n Que Dios es Dios de amor.  \n     -2-  \n Amor que quiso quebrantar  \n A Cristo en mi lugar,  \n Amor que quiso en dura cruz  \n Su sangre derramar.  \n Amor que busca hasta encontrar  \n Al pobre pecador.  \n Amor divino, amor sin par,  \n Amor del Salvador.  \n     -3-  \n Comprado a precio tan real  \n La sangre del Señor,  \n ¿Dónde hallaré con qué pagar  \n Tal gracia, tal amor?  \n Si su bondad excede aún  \n Dignándose también  \n Tenerme a mí cercano a Sí  \n Siempre jamás, Amén.  \n ",track:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe",demo:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe"},
-{id:67,title:"  67 .- DIOS BENDIGA A LAS ALMAS UNIDAS ",anthem:"        67.- DIOS BENDIGA LAS ALMAS UNIDAS  \n  \n     Dios bendiga las almas unidas  \n Por los lazos de amor sacrosanto,  \n Y las guarde de todo quebranto  \n En el mundo de espinas erial.  \n Que el hogar que a formarse comienza  \n Por la unión de estos dos corazones  \n Goce siempre de mil bendiciones  \n Al amparo del Dios de Israel.  \n      -2-  \n Que los dos que al altar se aproximan  \n A jurarse su fe mutuamente,  \n Busquen siempre de Dios en la fuente  \n El secreto de dicha inmortal.  \n Y si acaso de duelo y tristeza  \n Se empañasen sus sendas un día,  \n En Jesús hallarán dulce guía  \n Que otra senda les muestre mejor.  \n     -3-  \n Que el Señor, con su dulce presencia,  \n Cariñoso estas bodas presida,  \n Y conduzca por sendas de vida  \n A los que hoy se han jurado lealtad.  \n Les recuerde que nada en el mundo  \n Es eterno, que todo termina  \n Y, por tanto, con gracia divina,  \n Cifrar deben la dicha en su Dios.  \n ",track:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe",demo:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe"},
-{id:68,title:"  68 .- DIOS ME CUIDARA ",anthem:"       68.- DIOS ME CUIDARÁ  \n    Somos unos pequeñuelos  \n Y de humilde condición,  \n Mas, hacer podemos mucho  \n Por Jesús el buen Señor.  \n     -2-  \n Un fiel niño cada día  \n  Lucha con la tentación  \n Vela y ora y es paciente  \n Cual soldado del Señor.  \n     -3-  \n Cuando impulsos de soberbia  \n Nacen en el corazón,  \n A ser mansos aprendamos  \n Como alumnos del Señor.  \n     -4-  \n Con miradas sonrientes  \n De apacible buen humor,  \n Como luces brillaremos  \n Para gloria del Señor.  \n     -5-  \n Aun el más pequeño tiene  \n Su misión de paz y amor,  \n Y también su cruz pequeña  \n Que llevar de Cristo en pos.  \n ",track:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe",demo:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe"},
+{id:65,title:"  65 .- DEL SOL SOMOS RAYITOS  ",anthem:"       65.- DEL SOL SOMOS RAYITOS  \n  \n     Dios pone a los niñitos  \n En terrenal mansión,  \n Como sus favoritos  \n En excelsa misión.  \n Quiere que sean rayitos  \n De esperanza y de amor,  \n Que ahuyenten las tinieblas  \n Que causan el dolor.  \n     CORO  \n Del sol somos rayitos  \n Que al hombre Dios mandó,  \n Y en sus tristes conflictos  \n Brillamos con amor.  \n     -2-  \n Las nubes nos ocultan  \n La hermosa luz del sol,  \n La vida tiene angustias  \n Y pena el corazón  \n Pero si somos fieles  \n En nuestra gran misión,  \n Al triste le daremos  \n Consuelo en su aflicción.  \n     -3-  \n Cumplamos, pues, contentos  \n Nuestra misión de luz,  \n Calmando sufrimientos  \n En nombre de Jesús.  \n Las sombras de la vida  \n Disipe nuestro amor,  \n Y del alma afligida  \n Quitemos el dolor.  \n ",track:"1yxcQUt0v7iDlMQyFWQmixD7quNrHmtvD",demo:"191WraVqtneDk6scfACHlQCMuUkKUr3rX"},
+{id:66,title:"  66 .- DESPIERTATE MI CORAZON  ",anthem:"        66.- DESPIÉRTATE, MI CORAZÓN  \n  \n     Despiértate, mi corazón,  \n Bendice a tu Creador,  \n Cantando en himnos de loor  \n Que Dios es Dios de amor.  \n Inmenso amor, amor sin fin  \n Que quiso demostrar,  \n Buscando al pobre pecador  \n Dispuesto a perdonar.  \n     CORO  \n Despiértate, mi corazón,  \n Y alaba, alaba al Salvador.  \n Cantando en himnos de loor  \n Que Dios es Dios de amor.  \n     -2-  \n Amor que quiso quebrantar  \n A Cristo en mi lugar,  \n Amor que quiso en dura cruz  \n Su sangre derramar.  \n Amor que busca hasta encontrar  \n Al pobre pecador.  \n Amor divino, amor sin par,  \n Amor del Salvador.  \n     -3-  \n Comprado a precio tan real  \n La sangre del Señor,  \n ¿Dónde hallaré con qué pagar  \n Tal gracia, tal amor?  \n Si su bondad excede aún  \n Dignándose también  \n Tenerme a mí cercano a Sí  \n Siempre jamás, Amén.  \n ",track:"1qaxyvyQABbfVNKrJS039vlevbDZQXiSC",demo:"1lv_6zbOyWG-_hcq-A1v2lcRKQI-ISS2y"},
+{id:67,title:"  67 .- DIOS BENDIGA A LAS ALMAS UNIDAS ",anthem:"        67.- DIOS BENDIGA LAS ALMAS UNIDAS  \n  \n     Dios bendiga las almas unidas  \n Por los lazos de amor sacrosanto,  \n Y las guarde de todo quebranto  \n En el mundo de espinas erial.  \n Que el hogar que a formarse comienza  \n Por la unión de estos dos corazones  \n Goce siempre de mil bendiciones  \n Al amparo del Dios de Israel.  \n      -2-  \n Que los dos que al altar se aproximan  \n A jurarse su fe mutuamente,  \n Busquen siempre de Dios en la fuente  \n El secreto de dicha inmortal.  \n Y si acaso de duelo y tristeza  \n Se empañasen sus sendas un día,  \n En Jesús hallarán dulce guía  \n Que otra senda les muestre mejor.  \n     -3-  \n Que el Señor, con su dulce presencia,  \n Cariñoso estas bodas presida,  \n Y conduzca por sendas de vida  \n A los que hoy se han jurado lealtad.  \n Les recuerde que nada en el mundo  \n Es eterno, que todo termina  \n Y, por tanto, con gracia divina,  \n Cifrar deben la dicha en su Dios.  \n ",track:"1r-HogSCPuFuwpq00x4lldOqkXOuIaybQ",demo:"109OdonQhPVDHdfpITCvMAGu8Hozp4CwS"},
+{id:68,title:"  68 .- DIOS ME CUIDARA ",anthem:"       68.- DIOS ME CUIDARÁ  \n    Somos unos pequeñuelos  \n Y de humilde condición,  \n Mas, hacer podemos mucho  \n Por Jesús el buen Señor.  \n     -2-  \n Un fiel niño cada día  \n  Lucha con la tentación  \n Vela y ora y es paciente  \n Cual soldado del Señor.  \n     -3-  \n Cuando impulsos de soberbia  \n Nacen en el corazón,  \n A ser mansos aprendamos  \n Como alumnos del Señor.  \n     -4-  \n Con miradas sonrientes  \n De apacible buen humor,  \n Como luces brillaremos  \n Para gloria del Señor.  \n     -5-  \n Aun el más pequeño tiene  \n Su misión de paz y amor,  \n Y también su cruz pequeña  \n Que llevar de Cristo en pos.  \n ",track:"1L_RP58Ise2P2ws8S-_QoNhwRm7y4SQjR",demo:"1A96gUbGC-xkwzMZ8EaHL2Ij52_4iCHS3"},
 {id:69,title:"  69 .- DIOS OS GUARDE  ",anthem:"        69.- DIOS OS GUARDE  \n  \n     Dios os guarde en su santo amor  \n Hasta el día en que lleguemos,  \n A la patria do estaremos  \n Para siempre con el Salvador.  \n     CORO  \n Al venir Jesús nos veremos  \n A los pies de nuestro Salvador  \n Reunidos todos seremos  \n Un redil con nuestro buen Pastor.  \n  -2- \n Dios os guarde en su santo amor  \n En la senda peligrosa  \n De esta vida tormentosa,  \n Os conserve en paz y sin temor.  \n     -3-\n Dios os guarde en su santo amor  \n Os conduzca su bandera,  \n Y os esfuerce en gran manera  \n Con su Espíritu consolador.  \n     -4-  \n Dios os guarde en su santo amor;  \n Con su gracia Él os sostenga, \n  Hasta que el Maestro venga  \n A fundar su reino en esplendor.  \n ",track:"1KOF_p9i0IOjk5cE-tKtTrHKHmgB7zKRr",demo:"1un3gBq6xw1Sok75mZcQgGlF15EVylz_9"},
-{id:70,title:"  70 .- DISTRIBUID MENSAJEROS  ",anthem:"        70.- DISTRIBUID MENSAJEROS  \n  \n     Hablad del Mensajero,  \n Santo y fiel predicador,  \n Decid al mundo entero  \n Que habla de salvación.  \n    CORO  \n Luchad, luchad,  \n Feliz distribuidor;  \n Luchad, luchad,  \n Que contigo va  \n El buen Pastor.  \n     -2-  \n Pregona el Mensajero,  \n No temas, siervo de Dios  \n Pues guía tu sendero  \n Jesús, el Salvador.  \n     -3-  \n Escucha al Mensajero  \n Pueblo prevaricador,  \n Mas si eres obstinado  \n No irás con el Señor.  \n ",track:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe",demo:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe"},
-{id:71,title:"  71 .- DIVINA LUZ  ",anthem:"                 71.- DIVINA LUZ  \n  \n     Divina luz, con tu esplendor benigno  \n Guarda mi pie,  \n La noche es densa y áspero el camino;  \n Mi guía sé.  \n Harto distante de mi hogar estoy,  \n Que al dulce hogar de las alturas voy.  \n     -2-  \n Amargos tiempos hubo en que tu gracia  \n No supliqué,  \n De mi valor fiando en la  eficacia  \n No tuve fe.  \n Mas hoy deploro aquella ceguedad.  \n Préstame, ¡oh Luz! tu grata claridad.  \n     -3-  \n Guiando Tú, la noche es esplendente,  \n Y cruzaré  \n El valle, el monte, el risco y el torrente,  \n Con firme pie;  \n Hasta que empiece el día a despuntar.  \n Y entre al abrigo de mi dulce hogar.  \n ",track:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe",demo:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe"},
+{id:70,title:"  70 .- DISTRIBUID MENSAJEROS  ",anthem:"        70.- DISTRIBUID MENSAJEROS  \n  \n     Hablad del Mensajero,  \n Santo y fiel predicador,  \n Decid al mundo entero  \n Que habla de salvación.  \n    CORO  \n Luchad, luchad,  \n Feliz distribuidor;  \n Luchad, luchad,  \n Que contigo va  \n El buen Pastor.  \n     -2-  \n Pregona el Mensajero,  \n No temas, siervo de Dios  \n Pues guía tu sendero  \n Jesús, el Salvador.  \n     -3-  \n Escucha al Mensajero  \n Pueblo prevaricador,  \n Mas si eres obstinado  \n No irás con el Señor.  \n ",track:"1srvThAlfXmbI9IS3cJFDaXzpjP_l7bEc",demo:"1eaEkjzyRliYuVAovyss_a1-Iq5uNSttG"},
+{id:71,title:"  71 .- DIVINA LUZ  ",anthem:"                 71.- DIVINA LUZ  \n  \n     Divina luz, con tu esplendor benigno  \n Guarda mi pie,  \n La noche es densa y áspero el camino;  \n Mi guía sé.  \n Harto distante de mi hogar estoy,  \n Que al dulce hogar de las alturas voy.  \n     -2-  \n Amargos tiempos hubo en que tu gracia  \n No supliqué,  \n De mi valor fiando en la  eficacia  \n No tuve fe.  \n Mas hoy deploro aquella ceguedad.  \n Préstame, ¡oh Luz! tu grata claridad.  \n     -3-  \n Guiando Tú, la noche es esplendente,  \n Y cruzaré  \n El valle, el monte, el risco y el torrente,  \n Con firme pie;  \n Hasta que empiece el día a despuntar.  \n Y entre al abrigo de mi dulce hogar.  \n ",track:"1VootD-jKW3OwF2t0koHinGx_ZpeuLKDI",demo:"1XdOo7qP42aEvCMseI4IDLUOHxX52YSP6"},
 {id:72,title:"  72 .- DO TU NECESITES QUE VAYA IRE ",anthem:"        72.- DO TÚ NECESITES QUE VAYA, IRÉ  \n  \n     En la montaña podrá no ser,  \n Ni sobre el rugiente mar;  \n Podrá no ser en la ruda lid  \n Do Cristo me quiere emplear;  \n Mas, si Él me ordenare seguir aquí  \n Senderos que yo ignoré, \n  Confiando en Él le diré: «Señor,  \n Do Tú quieras que vaya, iré».  \n     CORO  \n Do Tú necesites que vaya, iré,  \n A los valles, los montes o el mar  \n Decir lo que quieras, Señor, podré.  \n Lo que quieras que sea, seré.  \n     -2-  \n Quizá hay palabras de santo amor  \n Que Cristo me ordena hablar,  \n Y en los caminos que reina el mal,  \n Algún pecador salvar.  \n Señor, si quieres mi guía ser,  \n Mi oscura senda andaré;  \n Tu fiel mensaje podré anunciar,  \n Y así lo que quieras, diré.  \n     -3-  \n El vasto mundo lugar tendrá  \n Do pueda con noble ardor.  \n Gastar la vida que Dios me da,  \n Por Cristo, mi Salvador;  \n Y siempre confiando en tu gran bondad,  \n Tus dones todos tendré,  \n Y alegre, haciendo tu voluntad  \n Lo que quieras que sea, seré.  \n ",track:"1qUxXiVT3EkOGdQGPF7kYvVvqknHRdYRc",demo:"1XucBaTzJ5o_yml25hrt7jzBl6jTwYYyL"},
 {id:73,title:"  73 .- DULCE CONSUELO  ",anthem:"        73.- DULCE CONSUELO  \n     En Jesucristo, mártir de paz,  \n En horas negras de tempestad,  \n Hallan las almas dulce solaz,  \n Grato consuelo, felicidad.  \n     CORO  \n Gloria cantemos al Redentor  \n Que por nosotros quiso morir.  \n Y que la gracia del Salvador  \n Siempre dirija nuestro vivir.  \n     -2-  \n En los peligros y en el dolor,  \n A cada paso su protección;  \n Calma le infunde, santo vigor,  \n Nuevos alientos al corazón.  \n     -3-  \n Cuando en la lucha falta la fe,  \n Y el alma siente desfallecer,  \n Cristo nos dice: «Yo os colmaré  \n De rica gracia, santo poder».  \n ",track:"1xBAJic6ToksQeaFs6JV3nNxqhJuYd_C9",demo:"1bi48zc-kYyNkgKbIdQJznlqI890kYdit"},
 {id:74,title:"  74 .- DULCE COMUNION  ",anthem:"        74.- DULCE COMUNIÓN  \n  \n     Dulce comunión la que gozo ya  \n En los brazos de mi Salvador;  \n ¡Qué gran bendición en su paz me da!  \n ¡Oh, yo siento en mí su tierno amor!  \n     CORO  \n ¡Libre, salvo,  \n De cuidados y temor!  \n ¡Libre, salvo,  \n Amparado por mi Salvador!  \n     -2-  \n ¡Cuán dulce es vivir, cuán dulce es gozar  \n En los brazos de mi Salvador!  \n Quiero estar con Él y a su lado andar,  \n Siendo objeto de su tierno amor.  \n     -3-  \n En la tentación siempre triunfaré  \n Yendo al lado de mi Salvador,  \n Nada me podrá apartar de Él,  \n En sus brazos no tendré temor.  \n ",track:"1xBAJic6ToksQeaFs6JV3nNxqhJuYd_C9",demo:"1gtFbNrJEKBxvsQ5F6n8ww7YqELKVhT8L"},
@@ -77,25 +77,25 @@ export const hymnal = [
 {id:76,title:"  76 .- DULCE ORACION  ",anthem:"        76.- DULCE ORACIÓN  \n  \n     Dulce oración, dulce oración,  \n De toda influencia mundanal  \n Elevas tú mi corazón  \n Al tierno Padre celestial.  \n ¡Oh, cuántas veces tuve en ti  \n Auxilio en ruda tentación!  \n // : Y cuántos bienes recibí  \n Mediante ti, dulce oración : //  \n     -2-  \n Dulce oración, dulce oración,  \n Al trono excelso de bondad  \n Tú llevarás mi petición  \n A Dios, que escucha con piedad.  \n Por fe espero recibir  \n La gran divina bendición,  \n // : Y siempre a mi Señor servir  \n Por tu virtud, dulce oración : //  \n     -3-  \n Dulce oración, dulce oración,  \n Qué aliento y gozo al alma das;  \n En esta tierra de aflicción,  \n Consuelo siempre me serás.  \n Hasta el momento en que veré  \n Francas las puertas de Sión,  \n // : Entonces, me despediré  \n Feliz de ti, dulce oración : //  \n ",track:"1yAuY_b_zZ3eu2kiBXAIQ2Co4yxo-QlCJ",demo:"1kVXPVvRUOY4DncYAVDL9B3Keb-ACjwbm"},
 {id:77,title:"   77 .- EL AMOR DE DIOS  ",anthem:"        77.- EL AMOR DE DIOS  \n  \n     ¡Oh, amor de Dios! Tu inmensidad  \n El hombre no podrá contar,  \n Ni comprender la gran verdad  \n Que Dios, al hombre pudo amar.  \n Al primer par de su hogar  \n Echados, compadeció;  \n Y les vistió, les perdonó  \n Y un Redentor prometió.  \n     CORO  \n ¡Oh amor de Dios! Brotando está  \n Inmensurable, eternal.  \n Por las edades durará  \n Inagotable raudal.  \n     -2-  \n Si fuera tinta todo el mar  \n Y todo el cielo un gran papel,  \n Y cada hombre un escritor  \n Y cada hoja un pincel.  \n Nunca podrían describir  \n El gran amor de Dios,  \n Que al hombre pudo redimir  \n De su pecado atroz.  \n     -3-  \n Y cuando el tiempo pasará  \n Con cada reino mundanal,  Y cada trono caerá  \n Con cada trama y plan carnal.  \n El gran amor del Redentor  \n Por siempre durará.  \n La gran canción de salvación  \n Su pueblo cantará. ",track:"1UUvSXq8sqJwQOl21IpOVjOMJhcDzx1Hv",demo:"1pYdALp_XgKJHUa5-OCwFUE1xyhp6jvfH"},
 {id:78,title:"  78 .- EL APOSENTO ALTO  ",anthem:"        78.- EL APOSENTO ALTO  \n  \n     En un aposento alto  \n Con unánime fervor,  \n Ciento veinte esperaban  \n La promesa del Señor.  \n     CORO  \n // : ¡Dios, manda tu gran poder! : //  \n A cada corazón.  \n    -2-  \n Con estruendo de los cielos  \n Descendió la gran virtud,  \n Todos fueron bautizados  \n Con el Santo Espíritu.  \n     -3-  \n Este gran poder antiguo  \n Es el fiel celeste don;  \n Prometido a los creyentes  \n De humilde corazón.  \n     -4-  \n Dios está restituyendo  \n Este gran Pentecostés,  \n Y el Espíritu, sus dones  \n Nos reparte otra vez.  \n ",track:"1ryhpAOdXeBVYs9FCvwBDeNHBHNVmxVkD",demo:"15P998qP9koFAkLbIs-eTokdEQknkR9cy"},
-{id:79,title:"  79 .- EL CRUCIFICADO ",anthem:"            79.- EL CRUCIFICADO  \n     Rey de los cielos, que viniste a dar  \n Ofrenda eterna por la humanidad;  \n Un holocausto tu cuerpo,  \n Tu rostro manso y sereno;  \n De aquel costado que traspasaron,  \n Fluye la sangre que lava del mal.  \n ¡Bendito Pacto que nos da perdón!  \n ¡A los enfermos, salud, bendición!  \n     -2-  \n Te maltrataron sin más compasión,  \n Menospreciado como un malhechor,  \n Tus manos fueron clavadas  \n En aquel tosco madero,  \n ¡Tan solo y triste! ¡Tan despreciado!  \n «De la cruz baja si Tú eres de Dios»,  \n Así clamaba la turba infernal,  \n Cual llama ardiente sobre aquel altar.  \n     -3-  \n Tus labios buenos resecos de sed  \n Fueron mojados con vinagre, hiel,  \n «¿Por qué me has desamparado?»  \n «¿Por qué te vas de mi lado?»  \n Clamaba al Padre que no escuchaba  \n El triste ruego de nuestro Señor.  \n Víctima santa que con gran dolor  \n Dios ofreciera por la redención.  \n ¡Infinito amor!  \n ",track:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe",demo:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe"},
-{id:80,title:"  80 .- EL DIA DE LAS MADRES  ",anthem:"        80.- EL DÍA DE LAS MADRES  \n  \n     Un cántico de gracias  \n Queremos elevar,  \n Por nuestras buenas madres  \n Que Tú, ¡Oh Dios! nos das.  \n Nos tienen tanto amor,  \n Tan fieles ellas son  \n Y día y noche, sin cesar  \n Nos cuidan con bondad.  \n     -2-  \n Palabras cariñosas  \n Nos dan con dulce voz;  \n Las amaremos siempre  \n De todo corazón.  \n Debieran de gozar  \n Salud, felicidad;  \n Reciban toda bendición  \n De Ti, ¡Oh santo Dios!  \n ",track:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe",demo:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe"},
+{id:79,title:"  79 .- EL CRUCIFICADO ",anthem:"            79.- EL CRUCIFICADO  \n     Rey de los cielos, que viniste a dar  \n Ofrenda eterna por la humanidad;  \n Un holocausto tu cuerpo,  \n Tu rostro manso y sereno;  \n De aquel costado que traspasaron,  \n Fluye la sangre que lava del mal.  \n ¡Bendito Pacto que nos da perdón!  \n ¡A los enfermos, salud, bendición!  \n     -2-  \n Te maltrataron sin más compasión,  \n Menospreciado como un malhechor,  \n Tus manos fueron clavadas  \n En aquel tosco madero,  \n ¡Tan solo y triste! ¡Tan despreciado!  \n «De la cruz baja si Tú eres de Dios»,  \n Así clamaba la turba infernal,  \n Cual llama ardiente sobre aquel altar.  \n     -3-  \n Tus labios buenos resecos de sed  \n Fueron mojados con vinagre, hiel,  \n «¿Por qué me has desamparado?»  \n «¿Por qué te vas de mi lado?»  \n Clamaba al Padre que no escuchaba  \n El triste ruego de nuestro Señor.  \n Víctima santa que con gran dolor  \n Dios ofreciera por la redención.  \n ¡Infinito amor!  \n ",track:"1VH2TB8IJxYhqDvl8lxq7q6Xo5Hw1avRB",demo:"1gpp4ZagG9k3CwvrwYXlNwY91ip0esTGg"},
+{id:80,title:"  80 .- EL DIA DE LAS MADRES  ",anthem:"        80.- EL DÍA DE LAS MADRES  \n  \n     Un cántico de gracias  \n Queremos elevar,  \n Por nuestras buenas madres  \n Que Tú, ¡Oh Dios! nos das.  \n Nos tienen tanto amor,  \n Tan fieles ellas son  \n Y día y noche, sin cesar  \n Nos cuidan con bondad.  \n     -2-  \n Palabras cariñosas  \n Nos dan con dulce voz;  \n Las amaremos siempre  \n De todo corazón.  \n Debieran de gozar  \n Salud, felicidad;  \n Reciban toda bendición  \n De Ti, ¡Oh santo Dios!  \n ",track:"1O5erAvy_GgiAZOmhcPBSEodITyU50S5d",demo:"1jFuc4LX52N3L85HQ0cwLOD5_Q1pvpenp"},
 {id:81,title:"  81 .- EL ETERNO AMOR DEL PADRE ",anthem:"        81.- EL ETERNO AMOR DEL PADRE \n \n     El eterno amor del Padre \n Brilla como un faro allá, \n Mas, las luces de la costa \n Él, al fiel el cargo da. \n     CORO \n Dejad, pues, que vuestras luces \n Den sus rayos sobre el mar; \n Hay un náufrago sufriendo \n Que tal vez podéis salvar. \n     -2- \n Viene noche cruel en males, \n Ruge horrendo el bravo mar, \n Los ansiosos tripulantes \n Quieren luces divisar. \n     -3- \n Que Dios brille en ti, hermano, \n Pues los náufragos están \n Hoy buscando el santo puerto, \n Como asilo allí ellos van. \n ",track:"1i1WCpW3wqEiWoGJNU52w5a6sLEksujpA",demo:"1DI_tjUus0I1dyInxVepmFGgpyIa6E-a0"},
 {id:82,title:"  82 .- EL GRAN DIA DEL JUICIO  ",anthem:"         82.- EL GRAN DÍA DEL JUICIO \n \n     Soñé que el gran día del juicio \n Llegó y sonó el clarín; \n Soñé ver los pueblos reunidos \n Para oír de su suerte sin fin. \n Del cielo bajó un gran ángel \n Y parado en tierra y mar, \n Juró, con su diestra alzada, \n Que el tiempo ya no más será. \n     CORO \n Con llanto y duelo, entonces, \n Los perdidos su cuenta darán; \n Clamarán a las rocas: «¡Cubridnos!» \n Orarán, pero tarde será. \n     -2- \n El rico llegó, mas su oro \n Se fue y se desvaneció. \n Cual pobre paróse ante el trono, \n De sus deudas a Dios se acordó. \n El grande también, mas la muerte, \n Le había quitado su honor \n Y el ángel, abriendo los libros \n No halló nada en su favor. \n      -3- \n Vino el moralista al juicio, \n Mas, vana fue su pretensión; \n También los que a Cristo mataron, \n Hicieron moral profesión. \n Y el alma que daba la excusa: \n «Hoy no, otro día mejor». \n Halló que por siglos eternos \n Sufriría por su gran error. \n ",track:"15fuCpNTKHoSFW6kOpnH6Q-o2VGMOMluV",demo:"1J6U7iZiUQeArdm_s3jrKpMzT-tmH4F3q"},
 {id:83,title:"  83 .- EL MAESTRO DE LAS AGUAS ",anthem:"        83.- EL MAESTRO DE LAS AGUAS \n \n     Una tarde en el mar se encontraban \n Los discípulos con el Maestro, \n Mientras ellos bogando se hallaban \n El Señor descansaba su cuerpo. \n Mas la mar luego fue azotada \n Por una tempestad y los vientos, \n El abismo les amenazaba, \n Mas, recuerdan que duerme el Señor. \n     CORO \n «¡Maestro, Maestro, despierta tu sueño, \n Reprende los vientos \n Que perece nuestra embarcación!» \n      -2- \n El Señor les miró tiernamente \n Y les dice con voz dulce y suave: \n «Si tuvieran fe en mí plenamente, \n Aunque duerma, seguros se hallasen». \n A la mar le habló en el momento, \n A los vientos les manda que callen. \n Calma el mar, enmudecen los vientos, \n Porque habla el divino Creador. \n        -3- \n Cuántas almas se encuentran perdidas \n Naufragando en el mar del pecado, \n Sin saber que Jesús es la vida, \n Y sin Él, no podrán ser salvadas. \n Ven a Cristo a entregarte enseguida \n Y salvarte podrá del pecado, \n Porque tu alma será redimida \n Por la sangre del Hijo de Dios. \n ",track:"1UzyE7VdvnilInVt5sJIUW4csBRJUKyqU",demo:"1Dw2dPZKorC2tGm_hBjCYy5BcKtAXYjoj"},
 {id:84,title:"  84 .- EL MEJOR AMIGO ",anthem:"        84.- EL MEJOR AMIGO \n \n     Es Jesucristo mi amigo mejor, \n Tierno y amante cual otro no habrá; \n Toda mi vida descansa en su amor, \n Tan sólo en Él, segura estará. \n      CORO \n ¡Oh dulce amigo! cerca de Ti, \n Mi senda quiero firme seguir; \n Sentir yo quiero que mora en mí \n Tu santa gracia para vivir. \n     -2- \n Él en mis pruebas desciende hasta mí \n Y hace en mi pecho la dicha nacer; \n Nunca por Él olvidado me vi, \n Nunca faltó su amor en mi ser. \n     -3- \n Él en mis dudas me inunda de luz, \n Y hallo el sendero que debo seguir; \n Todo en mi vida lo debo a Jesús, \n Sólo por Él yo puedo vivir. \n     -4- \n Él me conduce cual tierno Pastor, \n Lleva mi vida por sendas de paz; \n Él me rescata de todo temor, \n Dándome el gozo de ver su faz. \n ",track:"1LlQRGhrUJNiT8g1GDkIv-iA_RN_Ije8g",demo:"1rKLLRbWHuuSLiz9QOd0pSb5tLQo9FcKp"},
-{id:85,title:"  85 .- EL MENSAJERO  ",anthem:"        85.- EL MENSAJERO \n \n      El Mensajero en las manos tomad, \n Su grande esfuerzo en alto alzad; \n Hasta la victoria poder alcanzar, \n Y al vil enemigo poder derrotar. \n  CORO \n Vamos marchando, tengamos valor, \n Armas nos sobran nos dice el Señor, \n Conflicto terrible Satán provocó, \n Las armas tomemos que ya comenzó. \n     -2- \n El Mensajero al mundo anunciad, \n Mil luchas y pruebas nos ha de costar; \n Con Cristo por jefe, ¿quién se ha de cansar? \n Cantando marchemos soldados del Señor. \n     -3- \n El Mensajero es voz del Señor, \n Que anuncia el camino de vida inmortal; \n Es Dios nuestra fuerza, es nuestra canción, \n Resueltos marchemos alzando pendón. \n ",track:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe",demo:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe"},
+{id:85,title:"  85 .- EL MENSAJERO  ",anthem:"        85.- EL MENSAJERO \n \n      El Mensajero en las manos tomad, \n Su grande esfuerzo en alto alzad; \n Hasta la victoria poder alcanzar, \n Y al vil enemigo poder derrotar. \n  CORO \n Vamos marchando, tengamos valor, \n Armas nos sobran nos dice el Señor, \n Conflicto terrible Satán provocó, \n Las armas tomemos que ya comenzó. \n     -2- \n El Mensajero al mundo anunciad, \n Mil luchas y pruebas nos ha de costar; \n Con Cristo por jefe, ¿quién se ha de cansar? \n Cantando marchemos soldados del Señor. \n     -3- \n El Mensajero es voz del Señor, \n Que anuncia el camino de vida inmortal; \n Es Dios nuestra fuerza, es nuestra canción, \n Resueltos marchemos alzando pendón. \n ",track:"1-_d7y0syBi9eEsPSZXeXEA8TKI021g3i",demo:"1y6M9jga0b0q1RFsAA7mmYUqVVAXiht05"},
 {id:86,title:"  86 .- EL MUNDO NO ES MI HOGAR ",anthem:"        86.- EL MUNDO NO ES MI HOGAR  \n \n     La senda ancha dejaré, \n Yo quiero por la angosta andar, \n Y muchos no sabrán por qué, \n Mas, voy a mi celeste hogar. \n     CORO \n No puede el mundo ser mi hogar, \n No puede el mundo ser mi hogar; \n En gloria tengo mi mansión, \n No puede el mundo ser mi hogar. \n    -2- \n Algunos quieren verme ir, \n Por el sendero de maldad; \n Oír no puedo su llamar, \n Mas voy a mi celeste hogar. \n     -3- \n ¡Oh, ven conmigo, pecador, \n Y sigue en pos del Salvador! \n ¿Por qué no quieres tú buscar \n La hermosa tierra más allá? \n ",track:"1a7OWCHGWrCC86uqSndTcYbZ-eikWrQCp",demo:"164Z9LGAwJERh-fhYX7QNwPE4CBazpptI"},
 {id:87,title:"  87 .- EL NOMBRE DE JESUS  ",anthem:"        87.- EL NOMBRE DE JESÚS \n \n     ¡Tan dulce el nombre de Jesús! \n Sus bellas notas cantaré, \n Que mi alma llena al proclamar \n El nombre de Jesús. \n      CORO \n Cristo, ¡Oh, qué dulce es! \n Cristo, para siempre es: \n Cristo, yo te aclamaré \n Por siempre, ¡Oh, mi Cristo! \n     -2- \n Adoro el nombre de Jesús, \n Jamás me faltará su amor, \n Y pone aparte mi dolor, \n El nombre de Jesús. \n     -3- \n Tan puro el nombre de Jesús, \n Que mi pesar pudo quitar, \n Y grata paz a mi alma da \n El nombre de Jesús. \n     -4- \n El dulce nombre de Jesús \n Por siempre quiero alabar, \n Y todos deben ensalzar \n El nombre de Jesús. \n ",track:"1K4NmWEj6IWHt4FGjQq9jDKhgw_pph9Rq",demo:"16dowbLfp7gVSvIkYc4C6kwg_TE5e9mLW"},
-{id:88,title:"  88 .- EL PASTOR  ",anthem:"        88.- EL PASTOR \n \n     Tengo lejanas ovejas \n Que no son de este redil, \n Y me conviene traerlas \n Para así juntos vivir. \n Lejos ya de las tinieblas, \n Rodeados de un gran amor, \n Donde sólo habrá un redil, \n Un redil y un Pastor. \n     CORO\n  Oíd la voz de Cristo que nos dice:\n  «Yo soy el Pastor, \n El buen Pastor, \n Mi vida doy por las ovejas. \n Yo soy la puerta, entrad por Mí \n Y al cielo todos pasarán». \n        -2- \n En estos últimos tiempos, \n Se deja oír el Pastor, \n Y nos enseña el camino \n Que nos conduce hasta Sión. \n Firmes luchemos hermanos, \n Perseverad hasta el fin, \n Para que el día de gloria \n Estemos en su redil. \n ",track:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe",demo:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe"},
-{id:89,title:"  89 .- EL RAPIDO FELIZ  ",anthem:"        89.- EL RÁPIDO FELIZ \n \n     Santo Espíritu, llena mi vida, \n Santo Espíritu, lléname hoy, \n Santo Espíritu, llena mi vida, \n  Por los perdidos danos compasión.\n  // : ¡Alabanzas, alabanzas, alabanzas, \n Al Señor Jesús! : // \n Nos vamos a palacio en el Rápido Feliz, \n Escrito lleva el nombre tan dulce de Jesús, \n El guardia grita: «¿Al cielo?» \n Y respondemos, «Sí». \n Nos vamos a palacio En el Rápido Feliz. \n ",track:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe",demo:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe"},
+{id:88,title:"  88 .- EL PASTOR  ",anthem:"        88.- EL PASTOR \n \n     Tengo lejanas ovejas \n Que no son de este redil, \n Y me conviene traerlas \n Para así juntos vivir. \n Lejos ya de las tinieblas, \n Rodeados de un gran amor, \n Donde sólo habrá un redil, \n Un redil y un Pastor. \n     CORO\n  Oíd la voz de Cristo que nos dice:\n  «Yo soy el Pastor, \n El buen Pastor, \n Mi vida doy por las ovejas. \n Yo soy la puerta, entrad por Mí \n Y al cielo todos pasarán». \n        -2- \n En estos últimos tiempos, \n Se deja oír el Pastor, \n Y nos enseña el camino \n Que nos conduce hasta Sión. \n Firmes luchemos hermanos, \n Perseverad hasta el fin, \n Para que el día de gloria \n Estemos en su redil. \n ",track:"1BNzhRWJdobMNOVlBQM3tmiK9xmiguTy7",demo:"1CuWK8P4REN87o_uIu2NEWSJaxYUXbBca"},
+{id:89,title:"  89 .- EL RAPIDO FELIZ  ",anthem:"        89.- EL RÁPIDO FELIZ \n \n     Santo Espíritu, llena mi vida, \n Santo Espíritu, lléname hoy, \n Santo Espíritu, llena mi vida, \n  Por los perdidos danos compasión.\n  // : ¡Alabanzas, alabanzas, alabanzas, \n Al Señor Jesús! : // \n Nos vamos a palacio en el Rápido Feliz, \n Escrito lleva el nombre tan dulce de Jesús, \n El guardia grita: «¿Al cielo?» \n Y respondemos, «Sí». \n Nos vamos a palacio En el Rápido Feliz. \n ",track:"1OO9LlXUXF8MOMrR5qjFfbVgAzTfTemR1",demo:"1s-bxJGd6qE7xc9RqUAlaKTwovW7_vMkP"},
 {id:90,title:"  90 .- EL VARON DEL GRAN DOLOR  ",anthem:"        90.- EL VARÓN DE GRAN DOLOR \n \n     El varón de gran dolor \n Es el Hijo del Señor, \n Vino al mundo por amor. \n ¡Aleluya! ¡Es mi Cristo! \n     -2- \n  Él llevó la cruenta cruz, \n Para darnos vida y luz, \n Ya mi cuenta Él pagó. \n ¡Aleluya! ¡Es mi Cristo! \n      -3- \n Él por mí quiso morir, \n Hoy por Él puedo vivir, \n Quiero sólo a Él servir. \n ¡Aleluya! ¡Es mi Cristo! \n     -4- \n Cuando venga nuestro Rey, \n Luego yo su faz veré, \n Y sus glorias cantaré. \n ¡Aleluya! ¡Es mi Cristo! \n ",track:"1vIpYzaSYLb816sNopZwQJ3s_LWoeEUpR",demo:"1NB7ETkiGH4FGuaLqOuim5uMFsEtrNnDF"},
 {id:91,title:"  91 .- EN BUSCA DE OBREROS  ",anthem:"        91.- EN BUSCA DE OBREROS \n \n     Cristo está buscando obreros hoy \n Que quieran ir con Él, \n ¿Quién dirá: «Señor, contigo voy, \n Yo quiero serte fiel»? \n     CORO \n ¡Oh, Señor, es mucha la labor! \n Y obreros faltan ya; \n Danos luz, ardiente fe y valor, \n Y obreros siempre habrá. \n      -2- \n Cristo quiere mensajeros hoy, \n Que anuncien su verdad; \n ¿Quién dirá: «Señor, yo listo estoy, \n Haré tu voluntad»? \n     -3- \n Hay lugar, si quieres trabajar, \n De Cristo en la labor; \n Puedes de su gloria al mundo hablar \n De su bondad y amor. \n     -4- \n ¿Vives ya salvado por Jesús? \n ¿Su amor conoces ya? \n Habla, pues, anuncia que en la luz \n De Cristo vives ya. \n ",track:"1ICYnQiOhreqraq6mn64r3JLdKTx5cRIZ",demo:"1T2hdzSI09oPkVtGVpr86_HfR59MPemZk"},
-{id:92,title:"  92 .- EN CALVARIO  ",anthem:"        92.- EN CALVARIO \n \n     En Calvario murió Jesús, \n Crucificado en una cruz, \n Su sangre derramó por mí \n Comprándome perdón allí. \n     CORO \n En Calvario, en Calvario, \n Donde Jesús sangre vertió, \n En Calvario, en Calvario, \n El Salvador por mí murió. \n     -2- \n En medio de la oscuridad, \n Sufrió Jesús en humildad, \n Y al morir el velo abrió, \n La gloria así nos reveló. \n     -3- \n Diste tu vida oh Señor, \n Por mí un pobre pecador, \n La agonía, la triste cruz, \n Sufriste Tú por mí, Jesús. \n ",track:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe",demo:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe"},
+{id:92,title:"  92 .- EN CALVARIO  ",anthem:"        92.- EN CALVARIO \n \n     En Calvario murió Jesús, \n Crucificado en una cruz, \n Su sangre derramó por mí \n Comprándome perdón allí. \n     CORO \n En Calvario, en Calvario, \n Donde Jesús sangre vertió, \n En Calvario, en Calvario, \n El Salvador por mí murió. \n     -2- \n En medio de la oscuridad, \n Sufrió Jesús en humildad, \n Y al morir el velo abrió, \n La gloria así nos reveló. \n     -3- \n Diste tu vida oh Señor, \n Por mí un pobre pecador, \n La agonía, la triste cruz, \n Sufriste Tú por mí, Jesús. \n ",track:"1NhRiLTACi4lpyGWehdWJiax25MLTXhuL",demo:"1H-GLLxewR3qcUNuqlzEdsmdC44kKIaK3"},
 {id:93,title:"  93 .- EN JESUS ENCONTRE DULCE PAZ ",anthem:"        93.- EN JESÚS, MI SEÑOR, ENCONTRÉ DULCE PAZ \n \n     En Jesús, mi Señor, encontré dulce paz, \n En Jesús, quien por mí se entregó; \n Si acudieres a El este don tú tendrás, \n Ve, que a nadie jamás rechazó. \n     CORO \n ¡Sublime don! ¡Don sin igual! \n Solamente Él podrá conceder; \n Es un rayo de luz, de su luz celestial \n Que en nosotros Él quiere encender. \n     -2- \n En Jesús encontré inefable perdón \n Cuando a Él suplicante acudí; \n En amor encendió mi falaz corazón, \n Y por Él nueva fe recibí. \n     -3- \n En Jesús nueva vida tendrás, pecador, \n Sin tardanza dirígete a Él; \n En tu pecho pondrá nueva fe, nuevo amor, \n Y después, siempre sírvele fiel. \n ",track:"1NP15lnyuA-dAmGA9-IHSdsWonGSPyePa",demo:"1ERhvl1smD86ocptqjj7dzQOId2rclUXU"},
-{id:94,title:"  94 .- EN LA CELICA MORADA  ",anthem:"        94.- EN LA CÉLICA MORADA \n \n     En la célica morada, \n De las cumbres del Edén, \n Donde cada voz ensalza \n Al Autor de todo bien, \n ¿El pesar recordaremos \n Y la triste nublazón? \n ¿Tantas luchas del espíritu \n Con el débil corazón? \n     CORO \n ¡Oh, allí será gratísimo \n En el proceder pensar, \n Del Pastor fiel y benéfico \n Que nos ayudó a llegar! \n     -2- \n Oración, deberes, penas, \n Vías que anduvimos ya, \n Poseyendo las riquezas \n Que Jesús nos guarda allá. \n ¿La memoria retendremos \n A cubierto del dolor, \n Del camino largo, aspérrimo \n Con sus luchas, su temor? \n     -3- \n La bondad con que nos mira \n Sin cansarse, cuando ve \n Poco fruto en nuestra vida, \n Y tan débil nuestra fe. \n ¿Nos acordaremos de ella \n En aquel dichoso hogar \n De eternal aurora espléndida, \n E inefable bienestar? \n ",track:"1h2h02H8LeE6ISBzQq3ar3EY_CvX4OA7g",demo:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe"},
+{id:94,title:"  94 .- EN LA CELICA MORADA  ",anthem:"        94.- EN LA CÉLICA MORADA \n \n     En la célica morada, \n De las cumbres del Edén, \n Donde cada voz ensalza \n Al Autor de todo bien, \n ¿El pesar recordaremos \n Y la triste nublazón? \n ¿Tantas luchas del espíritu \n Con el débil corazón? \n     CORO \n ¡Oh, allí será gratísimo \n En el proceder pensar, \n Del Pastor fiel y benéfico \n Que nos ayudó a llegar! \n     -2- \n Oración, deberes, penas, \n Vías que anduvimos ya, \n Poseyendo las riquezas \n Que Jesús nos guarda allá. \n ¿La memoria retendremos \n A cubierto del dolor, \n Del camino largo, aspérrimo \n Con sus luchas, su temor? \n     -3- \n La bondad con que nos mira \n Sin cansarse, cuando ve \n Poco fruto en nuestra vida, \n Y tan débil nuestra fe. \n ¿Nos acordaremos de ella \n En aquel dichoso hogar \n De eternal aurora espléndida, \n E inefable bienestar? \n ",track:"1h2h02H8LeE6ISBzQq3ar3EY_CvX4OA7g",demo:"1KNiijq77ZjcuRzuZAh2Sox5OZbvgZp5N"},
 {id:95,title:"  95 .- EN LA NUEVA JERUSALEM  ",anthem:"        95.- EN LA NUEVA JERUSALEM \n \n    Cuando cesen los conflictos \n De la vida terrenal, \n Y dejemos este mundo de aflicción, \n Entraremos por las puertas \n De la patria celestial \n En la nueva Jerusalem. \n     CORO \n Cantaremos con los santos \n La canción de redención \n En Jerusalem, en Jerusalem. \n Con acentos de alegría, \n Alabando al Salvador \n En la gran Jerusalem. \n        -2- \n Aunque el mar embravecido \n Y las olas del turbión \n Siempre agiten nuestra \n Pobre embarcación, \n Fiando en Cristo llegaremos \n A la playa celestial \n En la nueva Jerusalem. \n     -3- \n Consagremos nuestras vidas \n Al servicio del Señor, \n Siempre hablemos \n De su grande salvación, \n Si en su viña trabajamos \n Nos espera galardón \n En la nueva Jerusalem. \n     -4- \n En aquel país hermoso \n Do jamás se dice adiós, \n Gozaremos el descanso sin afán; \n Cara a cara allá veremos \n A Jesús quien nos salvó, \n En la nueva Jerusalem. \n ",track:"1_RcAwAlJ8A-dn8u5eLitEuSmYvZTNnM7",demo:"1wuokbzJ14STYv6ifqDqkF1VSmsfAEgdf"},
 {id:96,title:"   96 .- EN LA CRUZ  ",anthem:"        96.- EN LA CRUZ \n \n     Me hirió el pecado, fui a Jesús \n Mostréle mi dolor; \n Perdido, errante, vi su luz, \n Bendíjome en su amor. \n     CORO \n En la cruz, en la cruz, \n Do primero vi la luz \n Y las manchas de mi alma yo lavé.\n  Fue allí por fe, do vi a Jesús \n Y siempre feliz con Él seré. \n     -2- \n Sobre una cruz, mi buen Señor, \n Su sangre derramó \n Por este pobre pecador, \n A quien así salvó. \n           -3- \n Venció la muerte con poder \n Y al cielo se exaltó; \n Confiar en Él es mi placer, \n Morir, no temo yo. \n     -4- \n Aunque Él se fue, solo no estoy \n Mandó al Consolador. \n Divino Espíritu que hoy \n Me da perfecto amor. \n ",track:"1ccIZ9FusR4t1ieANnHs2Ig6Jo0foacQD",demo:"1kPXb38LFnH07MijlJjcUI1ojMRlpRRQM"},
-{id:97,title:"  97 .- EN LA VIÑA DEL SEÑOR  ",anthem:"        97.- EN LA VIÑA DEL SEÑOR \n \n     Yo quiero trabajar por el Señor, \n Confiando en su palabra y en su amor \n Quiero yo cantar y orar, \n Y ocupado siempre estar \n En la viña del Señor. \n     CORO \n Trabajar, y orar \n En la viña, en la viña del Señor \n Sí, mi anhelo es orar \n Y ocupado siempre estar, \n En la viña del Señor. \n     -2- \n Yo quiero cada día trabajar \n Y esclavos del pecado libertar, \n Conducirlos a Jesús, \n Nuestro guía, nuestra luz, \n En la viña del Señor. \n     -3- \n Yo quiero ser obrero de valor \n Confiando en el poder del Salvador, \n Y el que quiera trabajar \n Hallará también lugar, \n En la viña del Señor. ",track:"1HwRDjte4kEqOAn-OcwShPkygslp8zlwt",demo:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe"},
+{id:97,title:"  97 .- EN LA VIÑA DEL SEÑOR  ",anthem:"        97.- EN LA VIÑA DEL SEÑOR \n \n     Yo quiero trabajar por el Señor, \n Confiando en su palabra y en su amor \n Quiero yo cantar y orar, \n Y ocupado siempre estar \n En la viña del Señor. \n     CORO \n Trabajar, y orar \n En la viña, en la viña del Señor \n Sí, mi anhelo es orar \n Y ocupado siempre estar, \n En la viña del Señor. \n     -2- \n Yo quiero cada día trabajar \n Y esclavos del pecado libertar, \n Conducirlos a Jesús, \n Nuestro guía, nuestra luz, \n En la viña del Señor. \n     -3- \n Yo quiero ser obrero de valor \n Confiando en el poder del Salvador, \n Y el que quiera trabajar \n Hallará también lugar, \n En la viña del Señor. ",track:"1HwRDjte4kEqOAn-OcwShPkygslp8zlwt",demo:"qOMwnzwpVuG54xiNcG7zlkP9nn"},
 {id:98,title:"  98 .- EN LAS AGUAS DEL BAUTISMO",anthem:"        98.- EN LAS AGUAS DEL BAUTISMO \n \n     En las aguas de la muerte \n Sumergido fue Jesús, \n Mas su amor no fue apagado \n Por sus penas en la cruz; \n Levantóse de la tumba \n Sus cadenas quebrantó, \n Y triunfante y victorioso \n A los cielos ascendió. \n     -2- \n En las aguas del bautismo, \n Hoy, confieso yo mi fe, \n Jesucristo me ha salvado \n Y en su amor me gozaré. \n En las aguas humillantes \n A Jesús siguiendo estoy; \n Desde ahora para el mundo \n Y el pecado, muerto soy. \n     -3- \n Ya que estoy crucificado, \n ¿Cómo más podré pecar? \n Ya que soy resucitado, \n Santa vida he de llevar. \n Son las aguas del bautismo \n Mi señal de salvación, \n Y yo quiero consagrarme \n Al que obró mi redención. ",track:"1aDmAzwUq7wVaSwVmddGhWNsU91gRPF7d",demo:"1vRUr-Qj9rBqZ8ESa8gsQ-_VlFgzlv6jJ"},
 {id:99,title:"  99 .- EN LAS MONTAÑAS ",anthem:"        99.- EN LAS MONTAÑAS \n \n     Id a traer el alma perdida, \n Y señalar a Cristo Jesús, \n Que puede dar eterna la vida \n Al caminar por sendas de luz. \n     CORO \n Id a buscar en las montañas, \n A los errantes, regresad, \n «A mi redil», dice el Maestro, \n «Donde tendrán seguridad». \n     -2- \n Id a buscar con santo cuidado \n A los que van muy lejos de Dios, \n «Venid a mí, perdidos, cansados» \n Que del Maestro dulce es la voz. \n     -3- \n Yo quiero ir con Cristo siguiendo \n Por todas partes con la misión, \n De levantar al que va cayendo \n Al señalar de Dios la misión. \n ",track:"1QxDLRtsX0IBL02cyyL3F9teocGMM82SG",demo:"1kAcpg4r8wCGzfAs3q4V-6S9RDRvIimU8"},
 {id:100,title:"  100.- EN MEDIO DEL MORTAL DOLOR",anthem:"        100.- EN MEDIO DEL MORTAL DOLOR \n \n     En medio de mortal dolor, \n La cruenta cruz yo vi; \n Y allí raudal de gracia hallé \n Bastante para mí. \n     CORO \n En la cruz fluye sin cesar, \n Insondable cual es el mar, \n Esta gracia que brota allí \n Basta para mí. \n     -2- \n Sufriendo fue mi corazón \n Y apenas pude allí, \n Creer que gracia habría de hallar \n Bastante para mí. \n     -3- \n Cuando en la cruz clavadas ya \n Mis culpas yo sentí, \n Raudal de gracia a mi alma entró \n Bastante para mí. \n     -4- \n Cuando en el cielo con Jesús \n Alegre cante allí, \n Diré que aquella gracia fue \n Bastante para mí. \n ",track:"1t6tE9JZCmUNXtI7_b3OsgBKdSZ9wPDks",demo:"10LdMD5VUO8EbLdBrHVwtUANfheKT5_wq"},
@@ -337,6 +337,781 @@ export const categ = {
     UNIDAD:[30,152,230],
     VOTOS:[19,39,63,72]};
 
+export const motto = { PRIMERA_PARTE: `PRIMERA PARTE
+Ap. Daddy John
+1938
+Cada miembro un obrero
+1939
+Solo soy uno, pero soy uno, no lo puedo hacer todo, pero algo puedo hacer, lo que puedo hacer 
+lo debo hacer y lo que debo hacer, con la ayuda de Dios lo haré.
+1940
+¡Oh, Señor! Ayúdame a ganar un alma para Jesús hoy
+1941
+Piense antes de hablar. Hable del bien y ore contra el mal.
+1942
+Llevad siempre en la mano derecha, dulce paz, para silenciar las lenguas viciosas.
+1943
+¡FIJESE EN LA LUZ ROJA!
+Cuando uno cree que ha llegado a un punto tan alto en la vida que piensa que no puede caer, ese 
+es el tiempo cuando caerá.
+1944
+Todo en acción para Dios. Buscar al perdido. Un esfuerzo mejor organizado. ¡Evangelizar al 
+mundo!
+1945
+Vivir la vida de amor: la vida de Cristo; para poder ser cristiano en semejanza de Cristo.`,
+SEGUNDA_PARTE: `SEGUNDA PARTE
+1946
+Vive en santidad, sin la cual nadie verá al Señor. Para vivir en santidad y no gustar la muerte 
+eterna, vive las palabras de Jesús, según San Juan 8:51,52
+1947
+LEMA DOBLE
+¡Ganar discípulos para Cristo! Ninguno ha sido ganado para Cristo, hasta que esté deseoso de 
+dedicar su vida y todo lo que posee, a la causa de Cristo.
+Recibir el Espíritu Santo, porque sin el Espíritu de Cristo no somos de Él. Rom. 8:9 y con Él, 
+redargüir al mundo de pecado. San Juan 16: 8
+1948
+Volver a la imagen de Dios en la que fue creado el hombre al principio, porque como Él es, así 
+somos nosotros en este mundo, si somos sus hijos (1 Juan 4:17) Y los que fueren tenidos por 
+dignos de aquel siglo, son iguales a los ángeles (San Lucas 20: 35,36)
+1949
+El amor debe gobernar y reinar la paz o estamos perdidos.
+1950
+Hable suave, despacio y dulcemente, porque la blanda respuesta quita la ira. (Proverbios 15:1)
+1951
+Donde no hay fuego, hay poco Espíritu Santo. Manténgase en oración.
+1952
+Despertar a justicia y dejar el pecado, ya que el pecado destruye el cuerpo y el alma.
+1953
+No piense mal, no hable mal, no haga mal. Venza con el bien el mal.`,
+TERCERA_PARTE: `TERCERA PARTE
+Ap. Ángel M. Hernández
+1954
+“Acordaos de las palabras que os hablé, estando aún con vosotros” y aceptar las que el Espíritu 
+Santo se ha dignado hablar después de estas. No aceptar las últimas es rechazar las primeras.
+1955
+Deje la soberbia. Limpie su corazón. Contender con los superiores y murmurar, es sorprenderle, 
+Apocalipsis 22:11
+1956
+Triple Lema.
+Estudie, conozca y esté seguro de la voluntad de Dios, y déjese llevar por ella. No vaya solo a 
+ninguna parte. Deje que el Señor le lleve seguro y sin tropiezo por el escabroso camino cristiano.
+Alcance la superación espiritual, viviendo, orando y esperando la orden divina, no directamente, 
+sino a través de quien le dirige.
+Hablar mal de un ungido de Dios es hablar de sí mismo. Antes de deshonrarle, perdónele si le ha 
+ofendido.
+1957
+Como la segunda venida del Señor se acerca a paso por día, conduzcamos al pueblo santo con la 
+humildad que es según la justicia de Dios. En todos los actos de justicia, una actitud humilde y 
+compasiva, pero firme y ordenada. Ame al hermano pero haga algo por su pecado, de otra 
+manera está odiando su alma.
+1958
+Año nuevo: vida nueva. Comience con el año pero no envejezca con él. Renueve su vida de día 
+en día. Viva la vida de Cristo, misteriosa y verdadera, encubierta para el mundo y revelada al 
+hombre espiritual, quien goza y gozará de sus riquezas aquí y allá.
+1959
+Evite accidentes espirituales, no diga pecado, diga: peligro espiritual, para que con toda 
+precaución, escrúpulos y responsabilidad, lo pueda rechazar cuando fuere tentado. ¡Peligro!
+1960
+Los tiempos son peligrosos. Averiguad con diligencia vuestro estado espiritual. Examinaos a 
+vosotros mismos si estáis en fe. La indiferencia: vuestra peor enemiga. Reconocimiento y 
+confesión: éxito y triunfo.
+1961
+La causa de Dios en la tierra es invalorable. Con todo el oro del mundo no se compra un alma. 
+Para una causa grande, una defensa grande! Coraza espiritual: “verdad, apresto, yelmo, escudo, la 
+espada del Espíritu” y, ¡a luchar!
+`,
+CUARTA_PARTE: `CUARTA PARTE
+Ap. Arturo Rangel
+1962
+El Espíritu Santo ha hecho distintas manifestaciones en distintos hombres y en distintas épocas. 
+Sea tan entendido que las futuras manifestaciones desconocidas para usted, las crea tan ciertas 
+como las primeras.
+1963
+El heroísmo cristiano consiste en levantar a Cristo. Doblegarse ante las imposiciones es acto de 
+cobardía. Los valientes heredarán el reino de los cielos.
+1964
+Las grandes pruebas prodigan grandes bendiciones. Cuando se encuentre con ellas, no las 
+rehúse: ellas hacen el examen de su vida espiritual y le dicen si usted tiene acceso al cielo. La 
+prueba hará la prueba.
+1965
+Cada nuevo año que aparece en la peregrinación cristiana, es un eslabón más en nuestra cadena 
+de esfuerzo. Evite que se quiebre. Dele su temple para que alcance la consistencia y pueda 
+trabarse del próximo.
+1966
+Cuando vea obstáculos y oposiciones en su camino, diga: una señal de triunfo se aproxima. Las 
+grandes batallas tienen horas decisivas que obligan a usar todas las reservas. Use las suyas hasta 
+adueñarse del triunfo que es la coronación de sus aspiraciones.`,
+QUINTA_PARTE:`QUINTA PARTE
+Junta de Arzobispos
+1967
+Más unidos en fe y oración, más unidos en prueba y bendición, unidos en el gozo y en el dolor. 
+Unidos en la tierra, unidos en el cielo. Unidos siempre. Siempre unidos.
+1968
+Con sinceridad mantengamos nuestra fidelidad. Siempre decididos, pues ahora más que nunca 
+ampliaremos nuestros horizontes espirituales, cruzaremos fronteras e iremos a otros continentes, 
+con la verdad sublime y redentora. Siempre con Cristo.
+1969
+Mantengamos en alto nuestra profesión de fe, reteniendo siempre la doctrina que hemos aprendido. 
+Cumplamos unidos con nuestro deber y no permitamos que otros hagan lo que nosotros podemos 
+hacer.
+1970
+Crucificados con Cristo, imitándole cada día con humildad de corazón, cumpliremos siempre
+con los deberes sagrados de la santa vocación.
+1971
+¡Perdonar! ¡Siempre perdonar! Si perdonamos, seremos perdonados. Vivir una vida sin ofensas, 
+es vivir en el temor de Dios, y con visión del futuro. Pues en este camino que me lleva al cielo, 
+me conduciré con el temor de Dios en mi corazón para tener sabiduría espiritual “porque el 
+temor de Dios es el principio de la sabiduría”.
+1972
+Llevaré siempre en mi alma la paz de Cristo, y la practicaré con todos cada día. En paz me 
+levantaré y en paz me acostaré, para que el Príncipe de paz habite en mí; porque donde no hay 
+paz, allí Cristo no está.
+1973
+Como nuestra obra es hacer el bien a todos los hombres, principalmente a los domésticos en la 
+fe, trataré cada día de hacer un bien a mis hermanos para provocarles al amor, porque si no amo 
+a mi hermano. ¿Cómo podré amar a Dios?
+1974
+Conciencia sin remordimiento. Mente limpia. Corazón puro, para vencer las dificultades del 
+camino. Pues la pureza vale más que la vida.`,
+SEXTA_PARTE:`SEXTA PARTE
+1975
+¡Oh padre! Pon guarda a nuestra boca y nuestra lengua hable sólo lo bueno. Ayúdame a publicar 
+tu alabanza y llegar a ser como fue el Nazareno.
+1976
+Renunciando a la vanidad ilusoria de esta vida como Cristo renunció, viviremos puros y limpios 
+con la aprobación de Dios.
+1977
+Gracias, Señor, por el año que ha terminado. Y para el nuevo año que ha comenzado te pedimos 
+que nos enseñes de tal modo a contar nuestros días, que traigamos al corazón sabiduría.
+1978
+Amo a esta iglesia, porque amo a Dios. Si amas a Dios, debes amar a esta iglesia, porque esta es 
+la iglesia de Dios. Di siempre: esta iglesia es mi vida, y mi vida es la iglesia del Señor.
+1979
+Confianza en el Señor. Teniendo vestido y sustento, estaremos alegres sin afán ni temor, pues 
+nuestros negocios son del Señor.
+1980
+Cumple con tu deber y huye de la ociosidad, porque ella es madre de la indigencia material y 
+espiritual. Trabaja para Dios y tu pago será la eterna felicidad.
+1981
+En la obediencia está la bendición, como en el murmurar la destrucción. Porque la obediencia es 
+mejor que el sacrificio, y como pecado de adivinación la rebelión.
+1982
+Ayúdame, Señor, para estar preparado para el encuentro contigo. Que pueda tener tal 
+consagración en mi vida, como si fuera el último día de mi partida.`,
+SEPTIMA_PARTE:`SÉPTIMA PARTE
+1983
+Mi salvación vale más que todas las cosas de este mundo. Por tanto, renovaré mis votos cada día, 
+delante de Dios, para cumplir lo que he prometido. Pues si aquí soy fiel, viviré allá con Él.
+1984
+Como mis frutos dan testimonio de mi estado espiritual, oraré para ser justo y llevar frutos ante 
+Dios y mis hermanos. Y el fruto de justicia se siembra en paz para aquellos que hacen paz.
+1985
+Soy humano, débil y flaco, pero no descansaré en mi flaqueza, sino en la fortaleza de Dios, 
+quien ha dicho que “su potencia en la flaqueza se perfecciona”
+1986
+Señor, en las pruebas haznos vencedores; en las luchas conquistadores. Y en las tribulaciones 
+haznos victoriosos, para que en nuestro sueño y en nuestro despertar estemos junto a Ti, nuestro 
+Creador y Dios.
+1987
+Estando perdido me encontraste. Siendo pobre me escogiste. Cuando nadie me miraba me 
+llamaste. Y estando muerto, vida me diste. Por eso Tú eres Salvador y Dios para mí; y nada ni 
+nadie me podrá apartar de Ti
+1988
+Ayúdame, Señor en la mañana cuando va a aclarar el nuevo día. Dame paz y fe, y llena mi alma 
+de amor y compasión por las almas que se pierden. Así mi día terminará lleno de felicidad.`,
+OCTAVA_PARTE:`                    OCTAVA PARTE
+Ap. Florentino Almeida
+1989
+Para morir bien; hay que vivir bien. En paz con Dios y con los hombres. Perdonando para ser 
+perdonados. Caminando siempre con la doctrina en el alma.
+1990
+Si testificas por Jesús, Él también testificará por ti. Tu testimonio es muy importante. Di como Él 
+dijo: “yo para esto he nacido, y para esto he venido al mundo, para dar testimonio a la verdad” Yo 
+siempre testificaré por Jesús!
+1991
+Mi lealtad para mi Maestro y Salvador Jesús. ¡Siempre! Mi lealtad para su iglesia Santa. ¡Siempre! 
+Mi lealtad para mis hermanos fieles. ¡Siempre! Con tu ayuda, oh Señor, te seré fiel y leal hasta el 
+final.
+1992
+Trabaja no por la comida que perece, sino por la que a vida eterna permanece. Y lo que haces, de 
+hecho o de palabra, hazlo para el Señor. Trabajando por Cristo y por su iglesia, nos sentiremos 
+llenos de felicidad y todo el Señor lo recompensará.
+1993
+Si renuncias al mundo y sus glorias, la gloria de Dios ganarás. La negación propia, por Cristo 
+recompensada será. Llega a la medida del hombre de fe, de todo tu corazón has una completa 
+renunciación.
+1994
+Ama a tu iglesia, lucha por tu iglesia, trabaja por tu iglesia. Cristo compró la iglesia con su sangre. 
+Por su sangre eres salvo y tendrás vida eterna. Tu lema de ayer, hoy y siempre, mantenlo actual: 
+“Por Cristo y por su iglesia, lucharé hasta el final”.
+1995
+Con Cristo estoy juntamente crucificado, y ya no vivo yo sino Cristo en mí. Y si Él vive en mí, 
+mis palabras y mis obras serán como las de Él. Todos verán a Cristo en mí, porque yo ando junto 
+a Él y de su mano iré hasta el fin.
+1996
+Es de sabios rectificar. Rectifiquemos ahora con toda la fe y con gran valor. Volvamos a nuestro 
+primer amor.
+`,
+NOVENA_PARTE:`NOVENA PARTE
+Ap Santiago Mata
+1997
+Id y predicad es el mandato del gran Maestro. Estamos en los últimos tiempos, y hoy más que 
+nunca debemos levantar nuestra antorcha de fe: ¡Por Cristo!,! Por su iglesia!¡Por las almas! 
+Trabajemos sin cesar: ¡Vamos a evangelizar!
+1998
+Doble lema.
+No hables mal de tu hermano. Quizás posea una virtud que tú no tienes. Ayúdalo con una de tus 
+virtudes, orando y ayunando por él hasta que veas que es fiel.
+Recuerda: Hay tanto mal en los mejores de nosotros y tanto bien en los peores de nosotros, que a 
+veces, nos falta el tiempo para hablar del resto de nosotros.
+1999
+¿Por qué tanta preocupación? ¿Por qué tanto afán?
+Las cosas vienen y se van. Confía en el que todo lo puede y vencerás. Pues tu futuro en Cristo 
+seguro está.
+2000
+Mi servicio con integridad para mi Dios. Mi fidelidad para su santa Iglesia; mi perdón para mis 
+hermanos y para mi prójimo. Mi gozo será siempre con este pueblo esforzado, porque las 
+cuerdas me cayeron en lugares deleitosos y es hermosa la heredad que me ha tocado.
+2001
+¡Oh Dios! Que tu Espíritu Santo siga siendo siempre, nuestro director eterno.
+2002
+Juntos con Jesucristo, trabajaremos mirando el futuro de la Iglesia.
+2003
+Frente a un mundo que se desmorona a causa de la incredulidad, nuestro único refugio es 
+Jesucristo, quien ha dicho: “mas confiad, yo he vencido al mundo”
+2004
+Que nuestra gran tarea sea esta: “Desarraigar de nuestros corazones toda raíz de amargura, para 
+que Dios los llene de humildad, así como nos lo enseñó el Divino Nazareno”
+2005
+Al acercarnos a los tiempos del fin crecen las corrientes que amenazan con destruir a los fieles, 
+pidamos al Señor Jesucristo valor y fortaleza para que podamos vencer todas las obras del mal.
+2006
+Nuestro objetivo siempre ha sido alcanzar la santidad, para lograr esta es imprescindible la unidad 
+espiritual. El fruto de ambas cosas traerá total restauración y sanidad a la iglesia.
+2007
+Restaurar los valores morales y espirituales dados por el Espíritu Santo a su iglesia es construir un 
+futuro seguro. Vivamos pues a la altura de los próceres del cristianismo y así enseñaremos a otros 
+hombres la verdad del Evangelio.
+2008
+Nuestra iglesia necesita fortaleza espiritual, pidamos a Dios que nos de mas fe, mas obediencia, 
+mas espíritu misionero, mas alabanza, y adoración para lograr nuestra realización como pueblo 
+escogido de Dios.
+2009
+Fidelidad, consagración y abnegación son pruebas inconfundibles de nuestro agradecimiento al 
+Señor por el privilegio de pertenecer a una iglesia fundada por la obra del Espíritu Santo. Hagamos 
+firme nuestra elección, confirmemos nuestra vocación.
+2010
+Para vivir una vida cristiana victoriosa con evidencia de la plenitud del Espíritu Santo hay una sola 
+demanda: consagración.
+2011
+Yo existo y mi razón de ser es traer almas al conocimiento de Jesucristo. Evangelizar es mi 
+profesión, ganar alguno para Cristo es mi gran empeño. M amor y gratitud lo manifestaré 
+rescatando a otros para el reino.
+2012
+¡Despierta, Iglesia, Despierta!, que Cristo está por regresar. Volvamos al Ayuno y Oración, 
+Lectura Bíblica y Devoción; esto dará Vida Espiritual, Amor y Valor para la Evangelización.
+2013
+Señor, las muchas ocupaciones y el afán de la vida nos hacen perder de vista la cercanía de tu 
+regreso. Abre mis ojos espirituales, oh Jesús, al cumplimiento de las señales, y así vivir en santidad, 
+consciente de tu venida.
+2014
+Los días del fin han llegado. Es tiempo de estar definidos, no confundidos. Hagamos a un lado la 
+apatía y la inapetencia espiritual que acarrean muerte. Examinemos si nuestras lámparas 
+espirituales conservan suficiente aceite y están encendidas. Busquemos confirmación.
+2015
+La línea de separación entre el mundo y la iglesia debe estar bien definida y mantenerse 
+inviolable. Las modas y costumbres de esta sociedad caída no pueden ser las nuestras. Cuidado 
+con el amor y el apego a las cosas terrenas que pronto perecerán. Di siempre: yo soy peregrino 
+aquí, estoy de paso, mi verdadero hogar y mis bienes están seguros en el cielo con mi Señor 
+Jesús.
+2016
+Para que el avivamiento siga renovando vidas y el fuego del Espíritu Santo siga purificando a su 
+iglesia, hay una demanda: ¡VIVIR EN SANTIDAD!
+2017
+Los campos están blancos para la siega. ¡Es tiempo de cosechar! Hagamos un esfuerzo más por 
+salvar a los perdidos. Ancianos, jóvenes y niños, ¡vamos todos a evangelizar!
+2018
+Jesús ya viene, Las escrituras lo validan, Los acontecimientos mundiales lo confirman, Por lo 
+tanto, Ocupado en la salvación de los perdidos, Como principal negocio de mi vida, quiero 
+siempre estar. ¡Voy a evangelizar!
+2019
+Soy un creyente comprometido con la justa causa de mi Salvador Jesús, Sus intereses están 
+sobre los míos; su agenda es mi agenda, mis dones y talentos suyos son, y se los devuelvo a Él y 
+a donde me necesite con gozo responderé: ¡Cuenta conmigo mi buen Señor, a tus órdenes 
+siempre estaré!
+2020
+La incertidumbre se adueña de aquellos que dudan. Los cristianos verdaderos, llenos de fe, 
+mantendrán en alto la antorcha encendida del fuego del Espíritu Santo que nunca se apagará. Con 
+Cristo en tu vida, te podrás levantar para decirle al mundo que la Iglesia de Dios proclama la 
+verdad.
+2021
+Enseñanza, obediencia, trabajo y consagración, nos traerán crecimiento y bendición`}
+
+export const DOCTRINA_FUNDAMENTAL= `DECLARACIÓN DE FE
+Iglesia Soldados de la Cruz de Cristo
+1. La biblia
+Creemos que las Escrituras del Antiguo y del Nuevo Testamento son la verdad eterna, la Santa Palabra de Dios que permanece para siempre, el mensaje del Creador al hombre, la autoridad completa y final en todo el ámbito de la fe cristiana y su práctica. Aunque la Biblia fue escrita por hombres, estos lo hicieron completamente inspirados por el Espíritu Santo: por lo tanto, las Sagradas Escrituras, en su totalidad, son inspiradas por Dios. Las Escrituras son infalibles e inerrantes en sus escritos originales. La biblia es una auto-revelación de Dios al hombre; ella expresa cada uno de los principios de su voluntad divina para la humanidad.
+
+La verdad eterna: Salmos 119:89; 1 Pedro 1:24-25; Mateo 5:18; Marcos 13:31
+La autoridad completa y final en todo el ámbito de la fe cristiana y su práctica: Deuteronomio 4:2; 12:32; Proverbios 30:5,6; Juan 5:39; 20:31; Gálatas 1:8,9; Apocalipsis 22:18,19
+Infalible e inerrante: Salmos 33:4; Juan 10:34-35; Juan 17:17; Tito 1:2; Hebreos 6:18
+Escrita por inspiración divina: 2 Timoteo 3:16; Hechos 1:16; 2 Pedro 1:19-21 Hebreos 4:12
+
+2. La trinidad
+Creemos en la Trinidad: Aunque hay solo un Dios, en la unidad de la Divinidad existen tres distintas personas: el Padre, el Hijo y el Espíritu Santo, quienes comparten la misma naturaleza o esencia y los mismos atributos. Estos tres constituyen el único Dios verdadero.
+
+Hay solo un Dios: Deuteronomio 6:4-5; Marcos 12:29; Isaías 45:22; Gálatas 3:20
+
+En la Divinidad existen tres distintas personas: el Padre, el Hijo y el Espíritu Santo. Génesis 1:26,27; 3:22; Mateo 3:16,17; 28:19; 2 Corintios 13:14
+
+Las tres personas de la Trinidad comparten la misma naturaleza o esencia y los mismos atributos: 2 Corintios 13:14; 1Pedro 1:2
+
+Dios el Padre
+Creemos en uno y solo Dios viviente, quien es el Ser supremo. Es espiritual, es decir, sin cuerpo material y, por lo tanto, invisible a los ojos físicos. Tiene existencia propia y es eterno, nunca dejará de ser; de su presencia nadie puede esconderse, porque está en todas partes. No está sujeto a cambio alguno en su Ser, sus atributos o propósitos, porque es inmutable. Él es Creador de todas las cosas y Salvador del hombre. Nadie puede frustrar ni detener sus propósitos, porque Él es soberano. En el Padre se encuentra todo poder, todo conocimiento, todo amor, toda misericordia, toda sabiduría y absolutas justicia y perfección.
+
+Uno y solo Dios viviente: Deuteronomio 6:4; Salmo 86:10; 1 Corintios 8.5-6; 1Timoteo 2:5
+
+Tiene existencia propia y es eterno: Isaías 43:10-11; 44:6; Jeremías 10:10
+
+Él es Creador de todas las cosas: Génesis 1:1; Juan 1:1-4; Juan 5:26
+
+Su naturaleza es espiritual: Juan 4:24; Hechos 17:24-29
+
+En Él se encuentra absolutas justicia y perfección: Salmo 145:17; Mateo 5:48
+
+Dios el Hijo
+Creemos que Jesús es el Cristo, el Hijo de Dios, Salvador, Redentor y único mediador entre Dios y los hombres, es el único camino para llegar a Dios y alcanzar la vida eterna. Él es uno con el Padre y con el Espíritu Santo y, por lo tanto, posee todos los atributos divinos. Aunque es verdadero hombre sin pecado, es también verdadero Dios. Jesucristo murió en la cruz por toda la humanidad, resucitó al tercer día, ascendió al cielo y está a la diestra del Padre intercediendo por la humanidad. Pronto vendrá nuevamente a la tierra, como el gran juez, para recompensar a cada uno según sean sus obras.
+
+El Cristo, el Hijo de Dios, Salvador y Redentor del hombre: Mateo 16:16; Lucas 1:35; Gálatas 4:4,5
+
+El único camino para llegar a Dios: Juan 14:6; Hechos 4:10-12; 1Timoteo 2:5
+
+Posee todos los atributos divinos: Colosenses 2:9; Eterno (Miqueas 5:2); Creador (Juan 1:3); Omnisciente (Juan 16:30; 21:17); Omnipresente (Mateo 28:20); Omnipotente (Apocalipsis 1:8); Santo (Hechos 3:14)
+
+Verdadero hombre sin pecado y también verdadero Dios: Juan 1:1; Juan 20:28; 2 Corintios 5:21; Tito 2:13; 1 Juan 4:2-3; Hebreos 4:15; 1 Juan 3:5; 1 Pedro 2:22
+
+Murió en la cruz por toda la humanidad, resucitó al tercer día, ascendió al cielo, pronto regresará a la Tierra a recompensar a cada uno según sus obras: Mateo 25:31-32; 26:64; Marcos 16:6; Lucas 24:6-7; Colosenses 1:22; Hebreos 10:10; Apocalipsis 22:12
+
+Dios el Espíritu Santo
+Creemos que el Espíritu Santo es un ser personal; es uno con el Padre y con el Hijo, teniendo todas las características y atributos divinos, por lo cual, las Sagradas Escrituras lo reconocen como Dios. Él habita en los creyentes que han tenido limpieza de sus pecados a través de su santo bautismo, sellándolos para el día de la redención. El Espíritu Santo consuela y guía al creyente a toda verdad; también lo faculta con su poder divino y diferentes dones espirituales, con el propósito de edificar su iglesia y testificar al mundo del poder de Dios.
+
+Es un ser personal: Mateo 28:19; Juan 16:13
+
+Habita en los creyentes que han tenido limpieza de sus pecados: Hechos 2:2-4; 2:33; Juan 14:16,17; Joel 2:28
+
+Sella a los creyentes para el día de la redención: Efesios 1:13,14; Efesios 4:30
+
+Faculta con su poder divino y diferentes dones espirituales: 1 Corintios 12:1,4-11; 1 Corintios14:12
+
+3. El hombre
+Creemos que Dios creó al hombre a su imagen, conforme a su semejanza. Dios le ha dotado de libre albedrío y de la facultad del intelecto, haciéndole capaz de tomar decisiones por sí mismo. Todo hombre, desde su nacimiento, tiene una herencia de pecado; pero cuando escoge el camino de salvación ofrecido por Jesucristo, puede ser separado y libre del dominio del pecado, por la obra de la redención y el poder del Espíritu Santo en su vida. Todos los hombres son iguales, con las mismas responsabilidades y los mismos privilegios ante Dios.
+
+Creado a imagen de Dios, conforme a su semejanza: Génesis 1:26-27
+
+Todo hombre, desde su nacimiento, tiene una herencia de pecado: Salmo 51:5; Romanos 5:12; Romanos 3:10.
+
+Cuando escoge el camino de salvación, puede ser separado y libre del dominio del pecado: Romanos 6:18; 2 Corintios 6:17-18.
+
+Todos los hombres son iguales, con las mismas responsabilidades y privilegios ante Dios: Hechos 2:39; 10:34-35; Gálatas 3:28; Colosenses 3:11
+
+El matrimonio
+Creemos que el matrimonio es creación divina y no del hombre; fue ordenado por Dios en la creación y es confirmado en el Nuevo Testamento por Jesucristo. Debe ser una relación entre un hombre y una mujer, incluye un compromiso voluntario y sin reserva del uno para el otro, y es sobre todas las relaciones humanas. El matrimonio es una unión reconocida y validada por Dios, ya sea en un contrato solemnizado por la iglesia o por el estado, y aunque los contrayentes sean creyentes o no.
+
+El matrimonio es creación divina, ordenado en la creación: Génesis 2:21-24.
+
+Es confirmado por Jesucristo: Mateo 19:3-6.
+
+Debe ser una relación entre un hombre y una mujer: Marcos 10:6-7
+
+ 
+
+4. La salvación
+Creemos que la salvación solo se obtiene por medio de Jesucristo, quien ofreció su vida sin pecado como sustituto por el culpable. La salvación es por gracia, por la fe y el arrepentimiento es imprescindible para recibirla. Las buenas obras y la obediencia a los preceptos que Dios ha establecido en su Palabra son el resultado y el testimonio de haberla alcanzado. El hombre es libre para aceptar o rechazar la oferta de salvación que Cristo le hace. El hombre que acepta a Cristo como su Salvador, y después le diere la espalda y no perseverare en el camino de salvación, pierde dicho privilegio.
+
+La salvación solo se obtiene por medio de Jesucristo: Juan 14:6; Hechos 4:10-12; 1Timoteo 2:5,6.
+
+Es por gracia, por la fe en Cristo Jesús: Juan 3:16; Efesios 2:8,9.
+
+El arrepentimiento es imprescindible: 2 Crónicas 7:14; Isaías 55:7; Jonás 3:5-10; Mateo 4:17; Lucas 12:3-5; Hechos 17:30; 2 Corintios 7:10,11; 1 Juan 1:9; 2 Pedro 3:9
+
+Las buenas obras y la obediencia a los preceptos que Dios ha establecido son el resultado y el testimonio de haberla alcanzado: Santiago 2:17,18; Mateo 19:16-19
+
+El hombre que diere la espalda a Cristo y no perseverare en el camino de salvación, pierde dicho privilegio: Ezequiel 18:24-26; Mateo 24:13; Juan 15:2-6; Romanos 11:22; Hebreos 10:38,39
+
+Bautismo de agua por inmersión
+Creemos en el bautismo de agua por inmersión del creyente, en el nombre del Padre, del Hijo y del Espíritu Santo. Es un acto voluntario de obediencia, que simboliza la fe del creyente en su Salvador, la muerte de sí mismo al pecado, la sepultura de las viejas normas de vida y la resurrección a una vida nueva en Cristo Jesús, afirmando su salvación. Toda persona, antes de ser bautizada, debe haber experimentado un despertar espiritual a través de su fe en Cristo y manifestar arrepentimiento de sus obras pasadas.
+
+Bautismo por inmersión: Mateo 3:5,6,16; Marcos 1:5
+
+En el nombre del Padre, del Hijo y del Espíritu Santo: Mateo 28:19,20
+
+Es un símbolo: Romanos 6:1-6; Colosenses 2:12,13.
+
+Afirma nuestra salvación: Marcos 16:16; Juan 3:3-7
+
+Se debe experimentar un despertar espiritual antes de ser bautizado: Hechos 2:36-39; 16:30-33
+
+Se debe dar pruebas de un arrepentimiento sincero: Mateo 3:8; Lucas 3:8, 10-13;
+
+Bautismo del Espíritu Santo
+Creemos que a todos los creyentes se les ha conferido el derecho y el deber de esperar en la promesa de ser bautizados con el Espíritu Santo. Cuando una persona recibe el bautismo del Espíritu Santo, experimenta en su plenitud la sublimidad del nuevo nacimiento. Una de las evidencias del bautismo del Espíritu Santo es el hablar en lenguas. Los resultados de este bautismo en el creyente, además de constituir un sello para el día de la redención, deben reflejar una mayor reverencia hacia Dios, más consagración y dedicación a su obra, ferviente amor al Señor y a su Palabra, una mayor capacitación, más poder para testificar de Jesús, y el recibimiento de diferentes dones del Espíritu para ejercer un ministerio eficaz.
+
+Todos los creyentes pueden recibir el bautismo del Espíritu Santo: Joel 2:28; Hechos 2:38,39
+
+Es cuando se experimenta en su plenitud la sublimidad del nuevo nacimiento: Juan 3:6-8
+
+Una de las evidencias del bautismo es hablar en lenguas: Hechos 2:1-4; 10:44-46
+
+Constituye un sello para el día de la redención, por lo cual el creyente debe reflejar una mayor consagración: Efesios 1:13-14; 4:30
+
+Por sus frutos los conoceréis: Mateo 7:16-20
+
+Proporciona una mayor capacitación, más poder para testificar y el recibimiento de diferentes dones espirituales: Lucas 4:18,19; Hechos 1:8; 1 Corintios 12:1, 4, 7-11
+
+Los dones espirituales
+Creemos que cada miembro del cuerpo de Cristo ha sido capacitado con dones espirituales, concedidos mediante la operación del Espíritu Santo, quien los imparte según su voluntad. Los dones proveen todos los ministerios y habilidades necesarios para que la iglesia cumpla su misión en la tierra. Cuando los miembros emplean los dones espirituales como fieles siervos de Dios, la iglesia es edificada y crece en fe y amor.
+
+ 
+
+Creemos que cada miembro del cuerpo de Cristo ha sido capacitado con dones espirituales: Hechos 1:4-8; 1 Corintios 12:11; 7:7
+
+Los dones proveen todos los ministerios y habilidades necesarios para que la iglesia cumpla su misión en la tierra: 1 Corintios 12:8-10,28; Efesios 4:11; Romanos 12:6-8
+
+Cuando los miembros emplean los dones espirituales como fieles siervos de Dios, la iglesia es edificada y crece en fe y amor: 1 Pedro 4:10; Efesios 4:16
+
+La santidad
+Creemos en la santidad, que es libertad de pecado. El creyente debe vivir conforme a ella, es decir, vivir apartado y separado del pecado, consagrado a Dios, libre de las costumbres del mundo. La santidad es un suceso progresivo que se inicia con la conversión, continúa con el bautismo del Espíritu Santo y se extiende hasta el fin de la existencia misma. El grado de santidad se demuestra y se pone de manifiesto por los frutos, el carácter y la conducta del creyente.
+
+El creyente debe vivir conforme a ella, apartado y separado del pecado: Lucas 1:75; Juan 17:17; Romanos 6:19,22; 12:1; Gálatas 5:22-24; 1Tesalonicenses 3:13; Hebreos 12:14
+
+Se pone de manifiesto por los frutos: Mateo 7:16-20; Juan 15:1-8
+
+Es un suceso progresivo: 2 Corintios 7:1; Filipenses 1:6; 3:12-13
+
+La conducta del cristiano
+Creemos que el cristiano debe adoptar un estilo de vida diferente al mundo, en consonancia con los principios de Dios. Esta conducta que adopta el cristiano es una evidencia de la salvación por medio de Cristo. Todo creyente es llamado a alejarse del pecado, por lo tanto, debe abstenerse de practicar todo vicio o actividad que debilite la razón y perjudique la sensibilidad de la conciencia.
+
+El cristiano debe adoptar un estilo de vida diferente al mundo: 1 Juan 2:15-17; Mateo 5:14-16; Juan 17:14-16
+
+Esta conducta que adopta el cristiano es una evidencia de la salvación por medio de Cristo: Efesios 2.8-10; Romanos 6:22
+
+Todo creyente es llamado a alejarse del pecado: 1 Corintios 6:19,20; 2 Corintios 6:14-18
+
+La iglesia
+Creemos que la iglesia es el cuerpo de Cristo. Es el organismo a través del cual el Salvador opera los negocios del reino de los cielos. Esta iglesia tiene como característica que sus miembros guardan los mandamientos de Dios, tienen la fe de Jesús y se manifiesta en ellos el Espíritu Santo. La iglesia existe para brindar fraternidad, unir en lazos de amor a todos los miembros del cuerpo de Cristo y que de una manera organizada trabajen a favor de Él, cumpliendo con la gran comisión dada por Cristo de llevar el evangelio a todo el mundo y preparar un pueblo para su glorioso retorno.
+
+Es el cuerpo de Cristo: 1 Corintios 12:12-27
+
+Sus miembros guardan los mandamientos de Dios, tienen la fe de Jesús y se manifiesta en ellos el Espíritu Santo: Apocalipsis 12:17; 19:10
+
+Existe para brindar fraternidad: Filipenses 4:1-9
+
+Existe para cumplir la gran comisión dada por Cristo: Mateo 28:19,20
+
+El mensaje universal
+Creemos en el mensaje universal, la buena noticia que proclama la salvación de Dios a través de la vida, muerte y resurrección de Jesucristo, ofrecida a todos los hombres y mujeres sin acepción de persona, ni distinción de raza, nacionalidad o escala social. La iglesia es la encargada de llevar este mensaje por todo el mundo, y cada cristiano está comprometido a colaborar con esta misión.
+
+La buena noticia que proclama la salvación de Dios a través de Jesucristo: Lucas 2:10-11; Hechos 10:36; 2 Corintios 5:18-20
+
+No hay acepción de personas: Romanos 2:10-11; Gálatas 3:28; Santiago 2:1.
+
+La iglesia es la encargada de llevar este mensaje por todo el mundo: Mateo 24:14; 28:19-20; Marcos 16:15-20; Hechos 1:8
+
+Cada cristiano está comprometido a colaborar con la misión: Marcos 5:18-20; Lucas 15:8-10; Juan 4:39
+
+El discipulado
+Creemos que el discipulado cristiano consiste en un llamamiento especial y directo del creyente para dedicarse por entero al servicio de Dios. El discipulado cristiano es más que ser un creyente, es responder al llamado especial del Señor a una entrega total e incondicional a la tarea misionera de predicar las buenas nuevas de salvación. El discípulo cristiano coloca todo lo que es y todo lo que tiene a la permanente disposición de Dios.
+
+Consiste en un llamamiento especial y directo de parte de Dios: Génesis 12:1-4; Mateo 4:18,19, 21,22
+
+Es una entrega total e incondicional a la labor misionera: Mateo 19:20-29; Lucas 9:23,24, 57-62; 2 Timoteo 2:2
+
+El ministro y la política
+Creemos que toda autoridad en el mundo es puesta por Dios. Debemos cumplir con los deberes civiles y de ciudadanos sin que estos estorben nuestros deberes para con Dios. El ministro no debe involucrarse en actos de propaganda política ni tratar de influenciar a los feligreses bajo su responsabilidad en el momento de votar por algún candidato político.
+
+Toda autoridad en el mundo es puesta por Dios: Daniel 2:21; Juan 19:11; Romanos 13:1
+
+Debemos cumplir con los deberes civiles y de ciudadanos: Marcos 12:14-17; Romanos 13:2-7; 1 Pedro 2:13-17
+
+Sin que estos estorben nuestros deberes para con Dios: Daniel 3:14-18; Hechos 4:19; 5:29
+
+El ministro no debe involucrarse en actos de propaganda política: Juan 18:36; 2 Timoteo 2:4
+
+El ayuno y la oración
+Creemos que el ayuno y la oración son medios que fortalecen al cristiano. Son el ejercicio más eficiente que el cristiano pueda realizar para hacer resistencia a las obras o manifestaciones de la carne. La práctica del ayuno y de la oración, ofrecidos a Dios en forma sincera y genuina, son dos de las actitudes que con mayor efectividad le permiten obtener el auxilio divino en cualquier circunstancia.
+
+Son medios para fortalecer al cristiano: Lucas 4:1-4; Hechos 10:30-31
+
+Son medios eficientes para hacer resistencia a las manifestaciones de la carne: Lucas 2:37
+
+Permiten obtener el auxilio divino: Esther 4:15-17; Jonás 3:7-10
+
+5. El decálogo
+Creemos que los diez mandamientos revelan el patrón divino de conducta para la humanidad, por cuanto ellos encierran los principios morales más elevados y puros que la sociedad humana ha podido conocer. Ellos definen nuestra relación con nuestro Creador y Redentor, y nuestro deber para con nuestros semejantes. La desobediencia a los mandamientos es definida en la Biblia como pecado, por cuanto es transgresión de la ley de Dios. En guardarlos hay grande galardón.
+
+Revelan el patrón divino de conducta para la humanidad: Éxodo 20:3-17; Eclesiastés 12:13.
+
+Definen nuestra relación con nuestro Creador y Redentor, y nuestro deber para con nuestros semejantes: Mateo 22:35-40; Juan 14:15,21
+
+La desobediencia a los mandamientos es pecado: 1 Juan 3:4
+
+En guardarlos hay grande galardón: Salmo 19:7-11; Apocalipsis 22:14
+
+No adorar dioses ajenos
+Creemos que debemos adorar solamente al Dios eterno, el no creado sino Creador de todo lo que existe y que todo lo sustenta, pues es el único Dios verdadero. Ninguna figura de pintura o escultura alcanza a representarle.
+
+Debemos adorar solamente al Dios eterno: Éxodo 20:3; Juan 4:21-24; 1 Juan 5:21
+
+Ninguna figura alcanza a representarle: Salmo 115:1-9; 1 Corintios 8:4-6
+
+No hacer imágenes
+Creemos que el segundo mandamiento del Decálogo prohíbe hacer imágenes o alguna representación de las cosas creadas por Dios en el cielo, en la tierra y en la mar; tanto para sí mismo, como el tener de otros. No debemos inclinarnos, ni honrar dichas imágenes, y semejanzas. El segundo mandamiento no es una extensión del primero.
+
+Prohíbe hacer para sí mismo imágenes: Éxodo 20:4; Deuteronomio 4:15-19; 5:8
+
+Prohíbe inclinarnos a ellas u honrarlas: Éxodo 20:5-7; Deuteronomio 5:9,10
+
+El segundo mandamiento no es una extensión del primero. Éxodo 20:3,4
+
+No tomar el nombre de Dios en vano
+Creemos que el nombre de Dios no debe ser tomado en vano; esto abarca mencionar su nombre de forma irrespetuosa, informal y descuidada por asuntos sin mayor importancia o repetirlo con frecuencia y sin reflexión. Este mandamiento también condena los juramentos.
+
+El nombre de Dios no debe ser tomado en vano: Éxodo 20:7; Deuteronomio 5:11
+
+Jesús prohibió los juramentos: Mateo 5:33-37; Santiago 5:12; Deuteronomio 6:13; Deuteronomio 10:20; Gálatas 1:20; Apocalipsis 10:5-6
+
+La observancia del sábado
+Creemos que el sábado, el séptimo día de la semana, es el día de reposo establecido por Dios desde la fundación del mundo como un símbolo de conmemoración a su obra creadora. El sábado, como día de reposo, fue ratificado por Dios como una demanda para la humanidad cuando lo inscribió con su propio dedo, y lo declaró el cuarto mandamiento del Decálogo. Dios bendijo y santificó este día con el propósito de que sus hijos hicieran un alto en sus labores y se acordaran de su Creador y de su grandiosa obra, por lo tanto, debe ser un día de adoración colectiva y encuentro personal con Él. Se debe observar según la pauta bíblica, atendiendo a las especificaciones que esta revela.
+
+Es el día de reposo establecido por Dios desde la fundación del mundo: Génesis 2:2-3; Éxodo 20:8-11; Hebreos 4:4-9
+
+Es una demanda para la humanidad: Éxodo 20:8-10; Marcos 2:27-28
+
+Debe ser un día de adoración colectiva y encuentro personal con Dios: Lucas 4:16; Hechos 13:42-44
+
+Se debe observar según la pauta bíblica: Éxodo 16:21-30; 35:1-3; Levítico 23:32; Nehemías 13:15-22; Lucas 23:56
+
+Honrar a los padres
+Creemos que honrar a los padres es un deber sagrado de los hijos. El amor, el respeto y la obediencia son tres características que ineludiblemente debe poseer todo hijo que quiera honrar a sus padres. La obediencia al quinto mandamiento redunda en la edificación de buenos hábitos y excelencia de carácter, que tienden a prolongar la vida. Auxiliar a los padres cuando fuere posible, física y económicamente, es parte del mandamiento. El hogar y la unidad de la familia son las bases de toda sociedad decente. Las relaciones de los hijos hacia los padres es un tipo exacto de las relaciones espirituales entre los verdaderos cristianos y Dios.
+
+Se debe tener amor, respeto y obediencia a los padres: Proverbios 1:8; 13:1; 30:17; Colosenses 3:20
+
+Es un deber sagrado de los hijos: Éxodo 20:12; Proverbios 23:22; Colosenses 3:20
+
+La honra a los padres redunda en excelencia de carácter que prolonga la vida: Deuteronomio 5:16; Efesios 6:1-3
+
+Auxiliar a los padres física y económicamente es parte del mandamiento: Mateo 15:3-9; 1 Timoteo 5:4
+
+El hogar y la unidad familiar son las bases de toda sociedad decente: Marcos 7:10-13
+
+No matar
+Creemos que la vida le pertenece únicamente a Dios. Nadie tiene derecho de privar de la vida a alguien, ni a sí mismo. Todo acto que contribuya a abreviar una vida, el espíritu de odio y venganza, o cualquier palabra que lleve a desearle mal a nuestros semejantes, constituye una violación en mayor o menor grado del sexto mandamiento.
+
+La vida pertenece a Dios y nadie tiene derecho a privar de la vida a alguien: Génesis 2:7; 4:8-12; 9:5-6; Éxodo 20:13
+
+Todo acto que contribuya a abreviar la vida constituye violación al sexto mandamiento: Mateo 5:21-26; 1 Juan 3:15; Apocalipsis 21:8
+
+No adulterar
+Creemos que el adulterio es una actitud voluntaria, de toda actividad sexual desordenada, ya sea física o del corazón, con otra persona que no sea el cónyuge legal. El adulterio es considerado pecado por Dios y, por lo tanto, la Biblia afirma que los adúlteros no entrarán en el reino de los cielos. Este mandamiento tiene como propósito preservar la primera institución que Dios estableció sobre la tierra “el matrimonio”.
+
+Es una actitud voluntaria, de toda actividad sexual desordenada, ya sea física o del corazón, con otra persona que no sea el cónyuge legal: Mateo 5:27; Lucas 16:18
+
+Es considerado pecado por Dios y, por lo tanto, la Biblia afirma que los adúlteros no entrarán en el reino de los cielos: Malaquías 2:14; Proverbios 6:32-33; 1 Corintios 6:13,18.
+
+Este mandamiento tiene como propósito preservar el matrimonio: 1 Tesalonicenses 4:2-5; Hebreos 13:4; Proverbios 5:1-20
+
+No hurtar
+Creemos que Dios prohíbe en este mandamiento toda forma de apropiación de un objeto o un bien que pertenece a otra persona, ya sea por la fuerza, sutileza o por apariencia de legitimidad, como son el peso falso, la mala mercadería, la moneda falsa, la usura, o cualquier otro medio fraudulento. Igualmente se incumple con el mandato cuando no se devuelve lo prestado o encontrado, o no se paga a tiempo las deudas, rentas y salarios. Se roba también cuando no se paga el diezmo.
+
+Se prohíbe todo robo: Éxodo 20:15; Levítico 19:11,13
+
+Se hurta cuando se excede en los precios, en la calidad de los artículos, peso falso, moneda falsa, usura, etc.: Levítico 19:35-36; Proverbios 11:1; 16:11; Ezequiel 45:9-10; Deuteronomio 19:14; 25:13; Salmos 15:5; San Lucas 6:35
+
+Se roba cuando no se paga el diezmo: Malaquías 3:8-10
+
+No hablar falso testimonio
+Creemos que el noveno mandamiento se refiere a salvaguardar el buen nombre de la persona. Prohíbe hablar falsamente, mentir o planear cualquier engaño contra el prójimo; hablar injustamente de él, perjudicar su reputación, dar falso testimonio, difamarlo, calumniarlo, contar chismes o exagerar algo mal hecho por él. El mandamiento incluye la prohibición de mentir en cualquier forma.
+
+No se debe levantar falso testimonio contra el prójimo: Éxodo 20:16; 23:1; Salmos 27:12; Proverbios 12:22
+
+No se debe hablar falsamente, mentir o planear cualquier engaño contra el prójimo: Proverbios 12:17; 19:5
+
+No se debe hablar injustamente, difamar, calumniar o contar chismes contra el prójimo, etc.: Levítico 19:16
+
+Prohíbe toda mentira: Salmos 34:13; Juan 8:44; Efesios 4:25
+
+No codiciar
+Creemos que este mandamiento prohíbe el deseo incontrolado y egoísta por algo que le pertenece a otro. Este deseo no siempre es perceptible, ni se limita a cosas materiales o tangibles, sino que puede llegar a sobrecoger todo el rango de emociones, pensamientos y acciones de un ser humano, resultando en muchos males. Los deseos íntimos, desordenados, para nuestra propia satisfacción, son la verdadera causa de toda acción perjudicial que hagamos contra el prójimo.
+
+La codicia es condenada por la biblia: Éxodo 20:17; Deuteronomio 5:21; Romanos 7:7
+
+La codicia es la raíz de muchos males: Marcos 4:19; 1 Timoteo 6:9; Santiago 4:1-3
+
+Los deseos íntimos desordenados son la causa perjudicial contra nuestro prójimo: Job 5:2; 1 Corintios 10:5,6
+
+6. Ley de salubridad referente a los animales trinidad
+Creemos que la ley de salubridad bíblica, referente a los alimentos, debe ser observada por los hijos de Dios. Los animales que se designan como “inmundos” por Dios en Levítico 11 y Deuteronomio 14, no se deben comer. Esta ley está vigente pues tiene que ver con la salud y el bienestar y revela cuán obedientes o desobedientes somos.
+
+Dios permitió el uso de ciertos animales para la alimentación, mientras otros no: Génesis 7:2
+
+Todos los animales que se designan como “inmundos” por Dios no se deben comer: Levítico 11; Deuteronomio 14
+
+Esta ley tiene vigencia plena, pues son mandatos que tienen que ver con la salud y la obediencia: Levítico 26:3-5
+
+7. El diezmo
+Creemos que Dios es el Creador y Dueño de todas las cosas. El diezmo es la décima parte de todos los ingresos con que Dios bendice al hombre y estos deben ser regresados a Dios por medio de la iglesia. El diezmo ha sido entregado a Dios aun antes de que existiera el sacerdocio levítico. Dios ha dado el diezmo del pueblo para el sustento de sus ministros.
+
+Dios es el Creador y Dueño de todas las cosas: Hageo 2:8
+
+El diezmo es la décima parte de todos los ingresos y debe ser regresado a Dios: Levítico 27:30
+
+El diezmo ha sido entregado a Dios aun antes de que existiera el sacerdocio levítico: Génesis 14:17-20; 28:20-22; Hebreos 7:1-10
+
+Dios ha dado el diezmo del pueblo para el sustento de sus ministros: Números 18:24-28; 1 Corintios 9:9-14
+
+8. La cubierta de la mujer
+Creemos que la Palabra de Dios declara que la mujer debe cubrir su cabeza cuando ora o profetiza, lo cual puede ocurrir en cualquier lugar, momento y circunstancia, dentro y fuera del templo. Esta acción sirve como símbolo del orden de autoridad que Dios ha establecido entre ella y el hombre. Así también, la mujer debe abstenerse de cortarse el cabello y el hombre no debe dejárselo crecer. De esa manera, se define una distinción entre ambos.
+
+La Palabra de Dios declara que la mujer cristiana debe cubrir su cabeza: 1 Corintios 11:5,6
+
+Esa cobertura es símbolo del orden de autoridad que Dios ha establecido entre el hombre y la mujer: 1 Corintios 11:1-16
+
+2. La santa comunión y lavamiento de pies
+Creemos que la Cena del Señor constituye un símbolo que expresa nuestra comunión con el Señor Jesucristo y con los demás creyentes. Es un memorial del sacrificio de Jesús en la cruz del Calvario, donde se ofreció a sí mismo como el cordero pascual. Los elementos del pan y el jugo de la vid representan, simbólicamente, el cuerpo y la sangre de Cristo, que fue derramada como señal del nuevo pacto. Cada creyente puede y debe participar de esta ceremonia, teniendo su conciencia limpia y estando en comunión con el Señor y sus hermanos. Creemos en el lavamiento de pies, como señal de servicio, amor y humildad.
+
+La santa comunión constituye un símbolo de nuestra identificación con la naturaleza divina del Señor: Juan 6:35-58
+
+Un recuerdo de sus sufrimientos y su muerte: 1 Corintios 11:23-26
+
+Es un memorial del sacrificio de Jesús como el cordero pascual, en un solo sacrificio por toda la humanidad: Hebreos 7:26-28
+
+Los elementos del pan y el jugo de la vid representan el cuerpo y la sangre de Cristo, que fue derramada como señal del nuevo pacto: Mateo 26:26-28
+
+Cada creyente puede y debe participar teniendo su conciencia limpia: 1 Corintios 11:27-31
+
+El lavamiento de pies es una señal de servicio, amor y humildad: Juan 13:1-17
+
+10. La profecía y revelación divina
+Creemos en la profecía y la revelación divina por medio de sueños, éxtasis o visiones, como obra del Espíritu Santo. La manifestación de Dios permanece vigente para su pueblo fiel en todo tiempo. El Señor da entendimiento del significado de la revelación o sueño, iluminando la verdad y señalando la aplicación de ellas a los que le buscan en humildad, oración y ayuno, para hacer su voluntad. El espíritu de la profecía debe ser acorde a la doctrina bíblica.
+
+La profecía y revelación divina por medio de sueños, éxtasis o visiones, es obra del Espíritu Santo: Números 12:6; Job 33:14-16; Joel 2:28; 2 Pedro 1:21
+
+La manifestación de Dios permanece vigente en todo tiempo: Isaías 46:9,10; 1 Corintios 14:1
+
+El Señor da entendimiento del significado de la revelación o sueño a los que le buscan en humildad: Lucas 24:44,45; 1 Juan 2:27
+
+El espíritu de la profecía debe ser acorde a la doctrina bíblica: 1 Corintios 14:32,37; Gálatas 1:6-9; 1 Juan 4:1
+
+11. La santidad divina
+Creemos en la sanidad divina, es decir, en los milagros de sanidad del cuerpo humano, realizados por Jesucristo a través de la oración y la fe depositada en el poder de Dios. Dios efectúa el milagro de la sanidad en la mente y el cuerpo humano cuando es su voluntad hacerlo. Jesucristo legó esta autoridad a su iglesia, la cual continúa ejerciéndola. Los que han sido investidos con el Espíritu Santo, son llamados a orar por el enfermo, ungiéndole con aceite.
+
+Milagros realizados por Jesucristo a través de la oración de sus discípulos: Hechos 3:12-16; 4:8-10
+
+Se efectúa el milagro cuando es su voluntad hacerlo: Mateo 8:1-3; 15:21-28
+
+Bajo el tiempo de Dios: Juan 9:1-7
+
+Jesucristo legó esta autoridad a su iglesia: Mateo 10:7,8; Marcos 16:17,18; Lucas 10:19
+
+El ungimiento de los enfermos con aceite: Marcos 6:12,13; Santiago 5:14,15
+
+12. La segunda venida de cristo
+Creemos en el segundo advenimiento de Jesús a la tierra. Entendemos que su venida será visible y audible para todo el mundo, con poder y gran gloria, acompañada por sus ángeles. Viene para dar la recompensa a cada uno, según fueren sus obras. Es inminente y será el acontecimiento de mayor proporción mundial en la historia de la humanidad. Esta es la más grande y bendita esperanza que tiene la iglesia de Jesucristo. Nadie sabe el día ni la hora de este acontecimiento, sino solo Dios.
+
+Jesús vendrá por segunda vez a la tierra: Juan 14:1-3; Juan 16:20-22; Hechos 1:10-11; 3:20-21; 1Timoteo 6:14; 2 Timoteo 4:7-8; Santiago 5:7-8
+
+Su venida será visible y audible para todo el mundo: Mateo 24:30-31; 1Tesalonicenses 4:16; 2 Pedro 3:10; Apocalipsis 1:7
+
+Viene para dar la recompensa a cada uno, según fueren sus obras: Mateo 16:27; 25:31,32,46; Apocalipsis 22:12
+
+Es la más grande y bendita esperanza que tiene la iglesia: Tito 2:13
+
+Solo Dios sabe el día y la hora de la segunda venida de Jesucristo: Mateo 24:37-39; Marcos 13:32-36; 1Tesalonicenses 5:2-4
+
+13. La muerte
+Creemos que Dios creó al hombre y le dio el regalo de la vida; el hombre lo rechazó, y al comer del fruto prohibido, se acarreó la muerte. Cuando el hombre muere, su cuerpo vuelve al polvo de la tierra, del cual fue creado originalmente; mientras que el espíritu o el aliento de vida vuelve a Dios que lo dio.
+
+Dios creó al hombre y le dio el regalo de la vida: Génesis 1:17; 2:7
+
+El hombre rechazó la vida, y al comer del fruto prohibido, se acarreó la muerte: Génesis 2:16,17; 3:6; Romanos 5:12
+
+Cuando el hombre muere, su cuerpo vuelve al polvo de la tierra: Génesis 3:19; Eclesiastés 12:7
+
+El espíritu o el aliento de vida vuelve a Dios que lo dio: Salmo 104:29; 146:4
+
+El alma
+Creemos que el alma es el factor que siente, piensa y determina en el ser humano. Toda vida, recuerdos y pensamientos cesan en la muerte. La muerte del hombre es integral porque, aunque el alma no posee elementos físicos, si el cuerpo no está vivo, el alma tampoco puede vivir.
+
+El alma es el factor que siente, piensa y determina en el ser humano: Job 23:13; Esther 4:13; 1 Reyes 11:37
+
+Toda vida, recuerdos y pensamientos cesan en la muerte: Salmo 6:5; Eclesiastés 9:5,6,10
+
+La muerte del hombre es integral; al morir el hombre, el alma queda en un estado de inactividad hasta el día final: Salmo 146:4; Eclesiastés 9:5,6, 10; Daniel 12:2,3. Juan 6:39,40
+
+La resurrección de los muertos
+Creemos en la resurrección de todos los muertos cuando Cristo aparezca en gloria, en su segunda venida a la tierra. Los fieles que están en los sepulcros serán levantados y, juntamente con los fieles vivientes, serán arrebatados en el aire para recibir al Señor en las nubes y estar para siempre con Él. Los que sean levantados con Cristo serán transformados en semejanza al cuerpo de su gloria. Los infieles también resucitarán, serán juzgados y lanzados al infierno eterno.
+
+La resurrección de los muertos será cuando Cristo aparezca en gloria, en su segunda venida a la tierra: Juan 5:28-29; 6:40; 11:23-24
+
+Los fieles que están en los sepulcros serán levantados y, juntamente con los fieles vivientes, serán arrebatados en el aire para recibir al Señor en las nubes: 1 Tesalonicenses 4:13-18
+
+Los que sean levantados con Cristo serán transformados en semejanza al cuerpo de su gloria: Marcos 12:24,25; 1 Corintios 15:35-55; 1Juan 3:2
+
+14. El juicio final
+Creemos que el juicio final será llevado a efecto por Cristo. De todas las naciones y de todas las épocas de la historia humana, todos los hombres serán reunidos en la presencia del gran juez, Jesucristo, para ser recompensados o condenados según hayan sido sus obras. En el juicio final Dios mostrará su justicia a todos los hombres.
+
+El juicio final será llevado a efecto por Cristo: Mateo 25:31-33
+
+Todas las naciones serán reunidas en presencia de Jesucristo para ser juzgadas y recompensadas: Hechos 17:31; 2 Corintios 5:10; Hebreos 10:26,27
+
+En el juicio final Dios mostrará su justicia a todos los hombres: Romanos 12:19; Colosenses 3:25
+
+El castigo eterno
+Creemos que el infierno, o lugar de castigo, es real y eterno. Está preparado para el diablo, sus ángeles y todos aquellos que han vivido en incredulidad, rebeldía y desobediencia a Dios, en rechazo a la soberanía de su gobierno divino y a los principios de su santa voluntad, rechazando así también el plan de salvación ofrecido por Cristo.
+
+El infierno, lago de fuego o lugar de castigo, es real y eterno: Mateo 22:13; 2 Pedro 2:9
+
+Está preparado para el diablo y sus ángeles y todos aquellos que han vivido en impiedad: Salmos 9:17; Mateo 25:41; Marcos 9:48; Romanos 2:6-9; Apocalipsis 19:20
+
+La vida eterna
+Creemos en la gloria o vida eterna para los fieles que creyeron en Cristo. La vida eterna consiste en estar con Dios disfrutando de su presencia en toda su plenitud, por toda la eternidad. Será en un lugar preparado por Jesucristo.
+
+La gloria o vida eterna es para los fieles: Romanos 6:23; Colosenses 1:4-5; Apocalipsis 21:1-5; 22:1-5
+
+Consiste en estar con Dios disfrutando de su presencia en toda su plenitud: Juan 14:2,3; 2 Timoteo 2:10; Apocalipsis 7:9-17
+
+Será en un lugar nuevo creado por Dios: Isaías 65:17; 66:22`
+
+export const HISTORIA = `En la primavera del año 1922 nació en Cuba el Bando Evangélico Gedeón, conocido posteriormente como la Iglesia Soldados de la Cruz de Cristo. Fue fundada por el estadounidense Ernest William Sellers, un hombre de Dios que decidió desprenderse de todo cuanto tenía con el fin de llevar a cabo una intensa labor misionera. Durante gran parte de su vida, Ernest se consagró a la prédica del evangelio, a orar por los enfermos y ganar nuevos seguidores para la obra de Jesucristo. Gracias al respaldo constante del Espíritu de Dios, la institución que había iniciado con unos pocos voluntarios fue ganando en estructura y organización. El 25 de marzo de 1930, la Iglesia fue inscrita legalmente como Bando Evangélico Gedeón y estableció su oficina principal en la Avenida Primera, Calle 36, en el reparto Miramar en La Habana.
+
+Muchos fueron los logros de la naciente Iglesia, entre los cuales destaca la fundación de la revista El Mensajero de los Postreros Días, órgano de difusión oficial de esta institución cristiana. Su primer número salió a la luz el día 15 de septiembre de 1939 y su distribución, en un inicio, fue totalmente gratuita. En apenas 10 años el Bando Evangélico Gedeón pudo establecerse en 200 lugares, gracias a lo cual logró reunir en sus filas cerca de cuatro mil miembros. Ya para 1953 (año en el que murió el fundador), la Iglesia contaba con una escuela de instrucción para los nuevos militantes de la fe, y cientos de misioneros voluntarios desplegados en todo el territorio nacional, México y Panamá.
+
+Tras la muerte de Daddy John (nombre con el que se conocía cariñosamente al fundador), asumió la dirección de la Iglesia el Obispo Ángel María Hernández Esperón. Durante su administración, la Iglesia logró alcanzar un desarrollo considerable, pues se le dio un gran impulso al establecimiento de nuevos templos y misiones, así como al mejoramiento de los ya existentes. En estos años fueron enviados misioneros a fundar congregaciones en varios países de Latinoamérica y el Caribe, por lo cual la institución comenzó a consolidar su impacto internacional.
+
+Al fallecer el Apóstol Ángel María Hernández, la dirección provisional de la Iglesia fue representada por una Junta, compuesta por los Obispos Florentino Almeida Morales, Samuel Mendiondo García y José Rangel Sosa. En una reunión celebrada el día 31 de diciembre de 1961, la junta de Obispos anunció que el nuevo director de la Iglesia sería Arturo Rangel Sosa. Sin embargo, pocos años después, en 1966, los Obispos Florentino Almeida y Samuel Mendiondo se vieron obligados a integrar nuevamente una junta que asumiera la dirección de la Iglesia con carácter provisional, debido a la inesperada y misteriosa desaparición del Apóstol Arturo Rangel junto al Obispo José Rangel y al Evangelista Eliodoro Castillo.
+
+Debido a los cambios económicos y políticos que tuvieron lugar en Cuba a partir de la década de 1960, y ante la dificultad de mantener comunicación con la Iglesia en otros países, la Junta de Obispos decidió trasladar la Oficina Central hacia los Estados Unidos, específicamente a Tampa, en el estado de Florida. En 1971, la oficina sería trasladada hacia la ciudad de Miami, donde radica actualmente.
+
+Ese mismo año, por requerimiento de Los Gedeones Internacionales -una organización cristiana formada por hombres de negocios- el nombre de la Iglesia tuvo que ser cambiado de Bando Evangélico Gedeón Internacional a Bando Evangélico Gilgal Internacional, y más adelante, en 1974, a Iglesia Evangélica Internacional Soldados de la Cruz de Cristo. Este nombre permaneció intacto durante 44 años hasta que, a finales de 2018, el Concilio Superior de la Iglesia decidió suprimir las palabras “Evangélica” e “Internacional”, así que el nombre actual de la institución cristiana es Iglesia Soldados de la Cruz de Cristo. Cuba es la única excepción a estos cambios, puesto que no había Gedeones Internacionales reconocidos antes del registro de la Iglesia, por lo cual se mantuvo el antiguo nombre para preservar el valor histórico y tradicional.
+
+Cada día la Iglesia iba expandiéndose en el ámbito internacional: en la década del setenta fueron enviados misioneros a España, Alemania, República Dominicana, Brasil y Paraguay. Para los ochenta se estableció la obra en Argentina y en Bolivia, se enviaron exploradores a Portugal, Inglaterra y Nigeria, y se extendió mucho más la labor en suelo norteamericano, donde se crearon hermosos templos y casas pastorales.
+
+Los años noventa llegaron con la publicación mensual del primer devocionario oficial de la Iglesia, bajo el nombre Mesa de Fe. La obra no se detenía. Se enviaron exploradores a Filipinas y embajadores al África. En el año 1998 el Arzobispo Luis Cruz Lara fue electo como presidente del Concilio Superior y Apóstol-Director, tomando posesión de sus funciones a principios del año 2000. El Apóstol Cruz Lara promovió ampliamente la evangelización, presidiendo personalmente dos campañas internacionales, una en Europa y otra en México, y dedicó grandes esfuerzos a la educación.
+
+El 3 de enero de 2004, Cecilio García Santana recibió la investidura apostólica y su dirección se extendió hasta 2009, año en que comenzó su tarea como presidente del Concilio Superior el Apóstol Miguel Rodríguez. Miguel, luego de nueve años de arduo trabajo para la expansión y consolidación de la institución, concluyó se gestión frente al liderazgo de la iglesia. De ese modo, el Obispo David López García fue designado para ocupar la presidencia interina desde el 26 de abril de 2019. El 10 de agosto de ese mismo año fue investido como Apóstol Director el Obispo Santiago Mata Solano, quien actualmente preside la Iglesia.
+
+En el presente se trabaja en los siguientes países del continente americano: Estados Unidos, México, Guatemala, Belice, El Salvador, Honduras, Nicaragua, Costa Rica, Panamá, Cuba, República Dominicana, Haití, Puerto Rico, Colombia, Venezuela, Ecuador, Perú, Chile, Bolivia, Argentina, Paraguay, Uruguay y Brasil. En Europa la obra está reconocida en España, pero hay presencia de misioneros en Inglaterra y miembros en Suiza, Italia y Bélgica. En el continente africano la Iglesia está representada en la República de Mozambique y en Guinea Ecuatorial.
+
+La Iglesia Soldados de la Cruz de Cristo sigue activa. No cesa en su empeño de llevar a cabo la misión que le dio su verdadero fundador, el Espíritu Santo. Vence, contra todo pronóstico, cualquier adversidad que se levante en su contra y espera, firme, el retorno victorioso de Jesucristo.`
+
+
+
+
+
+
+
+
+
 
 /*https://drive.google.com/uc?alt=media&id=1RpIKNtiXF5rPSPKUcIMMD3Ivnnsijdep
 https://drive.google.com/uc?export=download&id=1RpIKNtiXF5rPSPKUcIMMD3Ivnnsijdep
@@ -384,4 +1159,76 @@ https://drive.google.com/uc?export=play&id=1RpIKNtiXF5rPSPKUcIMMD3Ivnnsijdep*/
       </div>
     </div>
 style="display: block; padding-left: 0px;"
+████████████████████████████████████████████████████
+ejemplo lector pdf
+████████████████████████████████████████████████████
+import React, {useState} from 'react'
+import { Document,Page } from 'react-pdf/dist/esm/entry.webpack';
+import './App.css';
+function App() {
+
+  const [numPages, setNumPages] = useState(null);
+  const [pageNumber, setPageNumber] = useState(1);
+
+  function onDocumentLoadSuccess({numPages}){
+    setNumPages(numPages);
+    setPageNumber(1);
+  }
+
+  function changePage(offSet){
+    setPageNumber(prevPageNumber => prevPageNumber + offSet);
+  }
+
+  function changePageBack(){
+    changePage(-1)
+  }
+
+  function changePageNext(){
+    changePage(+1)
+  }
+
+  return (
+    <div className="App">
+      <header className="App-header">
+        <Document file="/sample.pdf" onLoadSuccess={onDocumentLoadSuccess}>
+          <Page height="600" pageNumber={pageNumber} />
+        </Document>
+        <p> Page {pageNumber} of {numPages}</p>
+        { pageNumber > 1 && 
+        <button onClick={changePageBack}>Previous Page</button>
+        }
+        {
+          pageNumber < numPages &&
+          <button onClick={changePageNext}>Next Page</button>
+        }
+      </header>
+      <center>
+        <div>
+          <Document file="/sample.pdf" onLoadSuccess={onDocumentLoadSuccess}>
+            {Array.from(
+              new Array(numPages),
+              (el,index) => (
+                <Page 
+                  key={`page_${index+1}`}
+                  pageNumber={index+1}
+                />
+              )
+            )}
+          </Document>
+        </div>
+      </center>
+    </div>
+  );
+}
+
+export default App;
+
+
+
+
+
+
+
+
+
 */
