@@ -338,7 +338,25 @@ const HymnalList = () => {
         <h4>Libros</h4>
         <ul className="list-group">
           <li className="list-group-item d-flex justify-content-between align-items-center" data-bs-toggle="modal" data-bs-target="#staticPDF" onClick={() => setDocument(manual)}>
-          Familia
+          La Familia Cristiana
+          </li>
+          <li className="list-group-item d-flex justify-content-between align-items-center" data-bs-toggle="modal" data-bs-target="#staticPDF" onClick={() => setDocument(manual)}>
+          Biografía de Cristianos
+          </li>
+          <li className="list-group-item d-flex justify-content-between align-items-center" data-bs-toggle="modal" data-bs-target="#staticPDF" onClick={() => setDocument(manual)}>
+          Fortalece tu Fe
+          </li>
+          <li className="list-group-item d-flex justify-content-between align-items-center" data-bs-toggle="modal" data-bs-target="#staticPDF" onClick={() => setDocument(manual)}>
+          Liderazgo con Propósito
+          </li>
+          <li className="list-group-item d-flex justify-content-between align-items-center" data-bs-toggle="modal" data-bs-target="#staticPDF" onClick={() => setDocument(manual)}>
+          Lo Hizo Por Tí
+          </li>
+          <li className="list-group-item d-flex justify-content-between align-items-center" data-bs-toggle="modal" data-bs-target="#staticPDF" onClick={() => setDocument(manual)}>
+          El Sermón del Monte
+          </li>
+          <li className="list-group-item d-flex justify-content-between align-items-center" data-bs-toggle="modal" data-bs-target="#staticPDF" onClick={() => setDocument(manual)}>
+          Actitud de Vencedor
           </li>
         </ul>
       </div>
