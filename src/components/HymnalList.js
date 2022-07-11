@@ -13,7 +13,6 @@ import vence from '../resources/vence.pdf';
 import mesa from '../resources/Mesa_de_Fe.pdf';
 //import regla from '../resources/ReglamentoOperativo.pdf';
 import Profile from './Profile'
-
 const HymnalList = () => {
 
   const { getAnthem} = useContext(HymnalContext);
@@ -67,15 +66,15 @@ const HymnalList = () => {
   }
 
   return (
-    <>
-    <div className="btn-group" role="group" aria-label="Basic example">
+    <>   
+    <div className="btn-group btn-group-lg" role="group" aria-label="Basic example">
       <button className="btn btn-primary" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasExample" aria-controls="offcanvasExample">
         Ver Categorías
       </button>
       <button className="btn btn-primary" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasReading" aria-controls="offcanvasReading">
         Ver Lemas y Otros
       </button>
-    </div>
+    </div>  
     <div className="form-floating mb-3">
       <input className="form-control" id="myInput" type="text" onChange={text => setsearch(text.target.value)} placeholder="Search.."/>
       <label htmlFor="floatingInput">Buscar por número de himno o título</label>

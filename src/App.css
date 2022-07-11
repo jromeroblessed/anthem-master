@@ -26,6 +26,31 @@ pre {
   white-space: pre-wrap;
 }
 
+.indx{
+  z-index: 11
+}
+
+.tinyl {  
+  width:60px;
+  height:60px;
+  position: static;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+.top-area {
+  font-family: 'Open Sans', sans-serif;	
+  font-size: 18px;  
+	-webkit-transition: all .4s ease-in-out;
+  -moz-transition: all .4s ease-in-out;
+  transition: all .4s ease-in-out;
+	width: 100%;
+	color: #fff;
+	padding-top: 10px;	
+  background:#299dcc;
+}
+
 .pdf-container {
   width: 100vw;
   height: 100vh;
