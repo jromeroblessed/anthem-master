@@ -6,7 +6,9 @@
   left: 0;
   bottom: 0
 }
-
+.list-group-item {
+  cursor: pointer;
+}
 .react-player {
   position: absolute;
   top: 0;
