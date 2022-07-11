@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/anthem-master/static/css/main.68f0103b.css",
+    "main.js": "/anthem-master/static/js/main.51381c94.js",
+    "static/js/787.63908c7c.chunk.js": "/anthem-master/static/js/787.63908c7c.chunk.js",
+    "static/media/Mesa_de_Fe.pdf": "/anthem-master/static/media/Mesa_de_Fe.0c5432f00d7666de97cb.pdf",
+    "static/media/familia.pdf": "/anthem-master/static/media/familia.7a3cad44ad4b53a9f3ae.pdf",
+    "static/media/liderazgo.pdf": "/anthem-master/static/media/liderazgo.ada2c236316f25a9e2a5.pdf",
+    "pdf.worker.js": "/anthem-master/e7e915313973ba1d49f9bb2a1998626e.js",
+    "static/media/sermon.pdf": "/anthem-master/static/media/sermon.f9b733b984ba28d9eb2f.pdf",
+    "static/media/fe.pdf": "/anthem-master/static/media/fe.52ba5586d6517ef7f49d.pdf",
+    "static/media/biografia.pdf": "/anthem-master/static/media/biografia.b1bd2d53465ec5a1ef75.pdf",
+    "static/media/vence.pdf": "/anthem-master/static/media/vence.51a8d2fb223b8627ea4b.pdf",
+    "static/media/LoHizo.pdf": "/anthem-master/static/media/LoHizo.90e87e5a731a732460a8.pdf",
+    "index.html": "/anthem-master/index.html",
+    "main.68f0103b.css.map": "/anthem-master/static/css/main.68f0103b.css.map",
+    "main.51381c94.js.map": "/anthem-master/static/js/main.51381c94.js.map",
+    "787.63908c7c.chunk.js.map": "/anthem-master/static/js/787.63908c7c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68f0103b.css",
+    "static/js/main.51381c94.js"
+  ]
+}
