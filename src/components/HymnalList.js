@@ -1,8 +1,16 @@
 import React, {useEffect, useContext, useState} from 'react'
 import HymnalContext from '../context/Hymnal/HymnalContext'
 import { Document,Page } from 'react-pdf/dist/esm/entry.webpack';
-import {categ, hymnal,motto,DOCTRINA_FUNDAMENTAL,HISTORIA} from "../resources/himn";
-import manual from '../resources/ManualProvicional.pdf';
+import {categ, hymnal,motto,DOCTRINA_FUNDAMENTAL,HISTORIA,pages} from "../resources/himn";
+import manual from '../resources/biografia.pdf';
+import familia from '../resources/familia.pdf';
+import biografia from '../resources/biografia.pdf';
+import fe from '../resources/fe.pdf';
+import liderazgo from '../resources/liderazgo.pdf';
+import lohizo from '../resources/LoHizo.pdf';
+import sermon from '../resources/sermon.pdf';
+import vence from '../resources/vence.pdf';
+import mesa from '../resources/Mesa_de_Fe.pdf';
 //import regla from '../resources/ReglamentoOperativo.pdf';
 import Profile from './Profile'
 
@@ -16,7 +24,10 @@ const HymnalList = () => {
   const [numPages, setNumPages] = useState(null);
   const [pageNumber, setPageNumber] = useState(1);
   const [doc, setDocument] = useState(null);
-
+  const dayOfYear = () => {
+    let date = new Date();
+    return Math.floor(( date- new Date(date.getFullYear(), 0, 0)) / (1000 * 60 * 60 * 24));
+  }
   function onDocumentLoadSuccess({numPages}){
     setNumPages(numPages);
     setPageNumber(1);
@@ -286,10 +297,16 @@ const HymnalList = () => {
     </div>
     <div className="offcanvas offcanvas-start" tabIndex="-1" id="offcanvasReading" aria-labelledby="offcanvasReadingLabel">
       <div className="offcanvas-header">
-        <h5 className="offcanvas-title" id="offcanvasReadingLabel">Himnos por categoría</h5>
+        <h5 className="offcanvas-title" id="offcanvasReadingLabel">Extras Himnario</h5>
         <button type="button" className="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
       </div>
       <div className="offcanvas-body">
+        <h4>Mesa de Fe</h4>
+        <ul className="list-group">
+          <li className="list-group-item d-flex justify-content-between align-items-center" data-bs-toggle="modal" data-bs-target="#staticPDF" onClick={() => {setPageNumber(pages[dayOfYear().toString()]);setDocument(mesa);}}>
+          Devocional
+          </li>                   
+        </ul>
         <h4>Lemas</h4>
         <ul className="list-group">
           <li className="list-group-item d-flex justify-content-between align-items-center" data-bs-toggle="modal" data-bs-target="#staticReading" onClick={() => setReadin(motto.PRIMERA_PARTE)}>
@@ -337,25 +354,25 @@ const HymnalList = () => {
         </ul>
         <h4>Libros</h4>
         <ul className="list-group">
-          <li className="list-group-item d-flex justify-content-between align-items-center" data-bs-toggle="modal" data-bs-target="#staticPDF" onClick={() => setDocument(manual)}>
+          <li className="list-group-item d-flex justify-content-between align-items-center" data-bs-toggle="modal" data-bs-target="#staticPDF" onClick={() => setDocument(familia)}>
           La Familia Cristiana
           </li>
-          <li className="list-group-item d-flex justify-content-between align-items-center" data-bs-toggle="modal" data-bs-target="#staticPDF" onClick={() => setDocument(manual)}>
+          <li className="list-group-item d-flex justify-content-between align-items-center" data-bs-toggle="modal" data-bs-target="#staticPDF" onClick={() => setDocument(biografia)}>
           Biografía de Cristianos
           </li>
-          <li className="list-group-item d-flex justify-content-between align-items-center" data-bs-toggle="modal" data-bs-target="#staticPDF" onClick={() => setDocument(manual)}>
+          <li className="list-group-item d-flex justify-content-between align-items-center" data-bs-toggle="modal" data-bs-target="#staticPDF" onClick={() => setDocument(fe)}>
           Fortalece tu Fe
           </li>
-          <li className="list-group-item d-flex justify-content-between align-items-center" data-bs-toggle="modal" data-bs-target="#staticPDF" onClick={() => setDocument(manual)}>
+          <li className="list-group-item d-flex justify-content-between align-items-center" data-bs-toggle="modal" data-bs-target="#staticPDF" onClick={() => setDocument(liderazgo)}>
           Liderazgo con Propósito
           </li>
-          <li className="list-group-item d-flex justify-content-between align-items-center" data-bs-toggle="modal" data-bs-target="#staticPDF" onClick={() => setDocument(manual)}>
+          <li className="list-group-item d-flex justify-content-between align-items-center" data-bs-toggle="modal" data-bs-target="#staticPDF" onClick={() => setDocument(lohizo)}>
           Lo Hizo Por Tí
           </li>
-          <li className="list-group-item d-flex justify-content-between align-items-center" data-bs-toggle="modal" data-bs-target="#staticPDF" onClick={() => setDocument(manual)}>
+          <li className="list-group-item d-flex justify-content-between align-items-center" data-bs-toggle="modal" data-bs-target="#staticPDF" onClick={() => setDocument(sermon)}>
           El Sermón del Monte
           </li>
-          <li className="list-group-item d-flex justify-content-between align-items-center" data-bs-toggle="modal" data-bs-target="#staticPDF" onClick={() => setDocument(manual)}>
+          <li className="list-group-item d-flex justify-content-between align-items-center" data-bs-toggle="modal" data-bs-target="#staticPDF" onClick={() => setDocument(vence)}>
           Actitud de Vencedor
           </li>
         </ul>

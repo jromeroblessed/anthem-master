@@ -291,8 +291,8 @@ export const hymnal = [
 {id:290,title:"  290.- YO SE ",anthem:"        290.- YO SÉ \n \n     Yo sé en quien yo tengo fe, \n En quien confío yo. \n Yo sé que Cristo habita en mí, \n Y todo en Él, es paz. \n     CORO \n Yo sé en quien mi fe está, \n Tu sangre me libertó; \n Yo sé que Él me guardará, \n Y su amor, me basta a mí. \n     -2- \n Las burlas pueden continuar, \n Del santo amor de Dios. \n Pero jamás podrán robar, \n La paz del corazón. \n     -3- \n No pueden revivir el mal \n Que la sangre lavó; \n Ni hacer de nuevo un corazón \n De odio y de maldad. \n     -4- \n Yo sé, que lo que prometió, \n No fallará jamás; \n Por tanto el mundo pecador, \n Jamás me vencerá. \n ",track:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe",demo:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe"},
 {id:291,title:"  291.- YO TENGO UNA ESPERANZA ",anthem:"        291.- YO TENGO UNA ESPERANZA \n \n     // :Yo tengo una esperanza \n Muy grande y muy firme, \n Que allá en las mansiones \n Nos hemos de ver : // \n El día ya se acerca, señales ya se ven; \n Que Cristo está a las puertas, \n Diciendo: Ven y ve. \n     CORO \n Cristo bendito del cielo, \n Es el que me ha de ayudar, \n Para yo ir a la gloria, \n Donde yo quiero morar; \n Yo soy embajador \n De Cristo, el Salvador, \n Me voy a preparar, \n A predicar su amor. \n Que Cristo está a las puertas \n Diciendo: Ven y ve. \n     -2- \n // : Pero, si algún día \n Me llegara mi cita, \n Que Dios me necesita, \n Yo tengo que ir :// \n Por eso he confiado \n Como un fiel soldado, \n Que allá en las mansiones \n Nos hemos de ver. \n     -3- \n // : Cuando yo me vaya \n De este triste mundo, \n Con gozo profundo \n Lo voy a dejar : // \n Y un grato recuerdo \n De mis aflicciones, \n Que allá en la mansiones \n Nos hemos de ver. \n     -4- \n // : Doy gracias a Cristo, \n Por esta esperanza, \n Que sólo la alcanzan \n Los que creen en Él : // \n Y henchidos de gozo \n Nuestros corazones, \n Allá en las mansiones \n Nos hemos de ver. \n ",track:"16xmIQf7m5MLHJHjw3Tr-7r7e7YePAn8Q",demo:"1k45x0vfPtA1TW6ALVy5W0CDtAHF5WxHN"},
 {id:292,title:"  292.- YO TE SEGUIRE  ",anthem:"            292.- YO TE SEGUIRÉ \n \n     Yo te seguiré, Maestro, \n Donde quieras que guíes, \n Do Tú vayas, yo te sigo, \n Sí, Jesús, te seguiré. \n     CORO \n Yo te seguiré, Maestro. \n Pues tu sangre me salvó; \n Y aunque todos te desprecien, \n Siempre, fiel, yo te seré. \n     -2- \n Do la senda sea dura, \n Yo te seguiré, Jesús, \n Tú marcaste el camino, \n Y feliz lo seguiré. \n     -3- \n Aunque sea muy oscuro, \n El camino a seguir, \n Si tu voz escucho guiando \n Sin temor avanzaré. \n     -4- \n Y si el mundo me desprecia, \n No me importa, Salvador, \n Pues recuerdo el desprecio \n Que tuviste, Tú, Señor. \n ",track:"1z1cBzgtWW2V1leM_VPc3IbrZb4VsxOXL",demo:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe"},
-{id:293,title:"  293.- YO VAGABA EN EL PECADO ",anthem:"        293.- YO VAGABA EN EL PECADO \n \n     Yo vagaba en el pecado, \n Sin esperanza y sin Dios; \n Mas, Jesús, me ha salvado \n De este mundo tan atroz. \n     CORO \n Y yo sé, sí, yo sé \n Mi Jesús acoge, al más vil pecador. \n Y yo sé, sí, yo sé \n Mi Jesús acoge, al más vil pecador. \n     -2- \n Pecador, Jesús te llama, \n Él te quiere perdonar; \n Con amor su voz te invita: \n Ven, te haré yo descansar. \n  -3- \n Aunque seas tú muy malo, \n Salvación hay para ti; \n Pues salvó al más malvado, \n Cuando me salvo a mí. \n     -4- \n Hallarás perdón en Cristo, \n Él es vida; Él es luz. \n Pecador, no te detengas, \n Ven al buen tierno Jesús. \n",track:"1tZAFTC6mgUhXxnewwKdov8OI8xIMf3sQ",demo:"1e2o08al--6fpadcTXQJHCN5gMBoLRVQM"}]
-
+{id:293,title:"  293.- YO VAGABA EN EL PECADO ",anthem:"        293.- YO VAGABA EN EL PECADO \n \n     Yo vagaba en el pecado, \n Sin esperanza y sin Dios; \n Mas, Jesús, me ha salvado \n De este mundo tan atroz. \n     CORO \n Y yo sé, sí, yo sé \n Mi Jesús acoge, al más vil pecador. \n Y yo sé, sí, yo sé \n Mi Jesús acoge, al más vil pecador. \n     -2- \n Pecador, Jesús te llama, \n Él te quiere perdonar; \n Con amor su voz te invita: \n Ven, te haré yo descansar. \n  -3- \n Aunque seas tú muy malo, \n Salvación hay para ti; \n Pues salvó al más malvado, \n Cuando me salvo a mí. \n     -4- \n Hallarás perdón en Cristo, \n Él es vida; Él es luz. \n Pecador, no te detengas, \n Ven al buen tierno Jesús. \n",track:"1tZAFTC6mgUhXxnewwKdov8OI8xIMf3sQ",demo:"1e2o08al--6fpadcTXQJHCN5gMBoLRVQM"},
+{id:'salida',title:"  SALIDA DEL SOL ",anthem:"        SALIDA DEL SOL \n \n     Yo vagaba en el pecado, \n Sin esperanza y sin Dios; \n Mas, Jesús, me ha salvado \n De este mundo tan atroz. \n     CORO \n Y yo sé, sí, yo sé \n Mi Jesús acoge, al más vil pecador. \n Y yo sé, sí, yo sé \n Mi Jesús acoge, al más vil pecador. \n     -2- \n Pecador, Jesús te llama, \n Él te quiere perdonar; \n Con amor su voz te invita: \n Ven, te haré yo descansar. \n  -3- \n Aunque seas tú muy malo, \n Salvación hay para ti; \n Pues salvó al más malvado, \n Cuando me salvo a mí. \n     -4- \n Hallarás perdón en Cristo, \n Él es vida; Él es luz. \n Pecador, no te detengas, \n Ven al buen tierno Jesús. \n",track:"1tZAFTC6mgUhXxnewwKdov8OI8xIMf3sQ",demo:"1e2o08al--6fpadcTXQJHCN5gMBoLRVQM"}]
 export const categ = {
     AVIVAMIENTO:[13,42,112,132,168],
     ALABANZAS:[10,15,28,34,35,36,45,51],
@@ -1104,13 +1104,110 @@ En el presente se trabaja en los siguientes países del continente americano: Es
 
 La Iglesia Soldados de la Cruz de Cristo sigue activa. No cesa en su empeño de llevar a cabo la misión que le dio su verdadero fundador, el Espíritu Santo. Vence, contra todo pronóstico, cualquier adversidad que se levante en su contra y espera, firme, el retorno victorioso de Jesucristo.`
 
-
-
-
-
-
-
-
+export const pages = {
+  190:119,191:119,
+  192:120,193:120,
+  194:121,195:121,
+  196:122,197:122,
+  198:123,199:123,
+  200:124,201:124,
+  202:125,203:125,
+  204:126,205:126,
+  206:127,207:127,
+  208:128,209:128,
+  210:129,211:129,
+  212:130,
+  //AGOSTO
+  213:133,214:133,
+  215:134,216:134,
+  217:135,218:135,
+  219:136,220:136,
+  221:137,222:137,
+  223:138,224:138,
+  225:139,226:139,
+  227:143,
+  228:144,
+  229:145,
+  230:146,
+  231:147,
+  232:148,
+  233:149,
+  234:150,
+  235:151,
+  236:152,
+  237:153,
+  238:154,
+  239:155,
+  240:156,
+  241:157,
+  242:158,
+  243:159,
+  //SEPTIEMBRE
+  244:163,245:163,
+  246:164,247:164,
+  248:165,249:165,
+  250:166,251:166,
+  252:167,253:167,
+  254:168,255:168,
+  256:169,257:169,
+  258:170,259:170,
+  260:171,261:171,
+  262:172,263:172,
+  264:173,265:173,
+  266:174,267:174,
+  268:175,269:175,
+  270:176,271:176,
+  272:177,273:177,
+  //OCTUBRE
+  274:181,275:181,
+  276:182,277:182,
+  278:183,279:183,
+  280:184,281:184,
+  282:185,283:185,
+  284:186,285:186,
+  286:187,287:187,
+  288:188,289:188,
+  290:189,291:189,
+  292:190,293:190,
+  294:191,295:191,
+  296:192,297:192,
+  298:193,299:193,
+  300:194,301:194,
+  302:195,303:195,
+  304:196,
+  //NOVIEMBRE
+  305:199,306:199,
+  307:200,308:200,
+  309:201,310:201,
+  311:202,312:202,
+  313:203,314:203,
+  315:204,316:204,
+  317:205,318:205,
+  319:206,320:206,
+  321:207,322:207,
+  323:208,324:208,
+  325:209,326:209,
+  327:210,328:210,
+  329:212,330:212,
+  331:213,332:213,
+  //DICIEMBRE
+  333:217,334:217,
+  335:218,336:218,
+  337:219,338:219,
+  339:220,340:220,
+  341:221,342:221,
+  343:222,344:222,
+  345:223,346:223,
+  347:224,348:224,
+  349:225,350:225,
+  351:226,352:226,
+  353:227,354:227,
+  355:228,356:228,
+  357:229,358:229,
+  359:230,360:230,
+  361:231,362:231,
+  363:232
+  }
 
 
 /*https://drive.google.com/uc?alt=media&id=1RpIKNtiXF5rPSPKUcIMMD3Ivnnsijdep
