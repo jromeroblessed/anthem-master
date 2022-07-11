@@ -16,7 +16,7 @@ import Profile from './Profile'
 
 const HymnalList = () => {
 
-  const { getHymnal, getAnthem} = useContext(HymnalContext);
+  const { getAnthem} = useContext(HymnalContext);
   const [textSize, setTextSize] = useState(18);
   const [Himnal, setHimnal] = useState(hymnal);
   const [search, setsearch] = useState(''); 
@@ -56,11 +56,7 @@ const HymnalList = () => {
     }else{
       setHimnal(hymnal)
     }
-  },[search])
-
-  useEffect(()=> {     
-    getHymnal();    
-  },[])
+  },[search]) 
 
   const fill = (arr) => {   
     setsearch('')
