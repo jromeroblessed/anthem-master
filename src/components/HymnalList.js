@@ -2,7 +2,7 @@ import React, {useEffect, useContext, useState} from 'react'
 import HymnalContext from '../context/Hymnal/HymnalContext'
 import { Document,Page } from 'react-pdf/dist/esm/entry.webpack';
 import {categ, hymnal,motto,DOCTRINA_FUNDAMENTAL,HISTORIA,pages} from "../resources/himn";
-import manual from '../resources/biografia.pdf';
+import manual from '../resources/ManualProvisional.pdf';
 import familia from '../resources/familia.pdf';
 import biografia from '../resources/biografia.pdf';
 import fe from '../resources/fe.pdf';
