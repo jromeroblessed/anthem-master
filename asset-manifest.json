@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/anthem-master/static/css/main.4c981ac2.css",
-    "main.js": "/anthem-master/static/js/main.6da1e90d.js",
+    "main.js": "/anthem-master/static/js/main.2e2bd384.js",
     "static/js/787.63908c7c.chunk.js": "/anthem-master/static/js/787.63908c7c.chunk.js",
     "static/media/Mesa_de_Fe.pdf": "/anthem-master/static/media/Mesa_de_Fe.0c5432f00d7666de97cb.pdf",
     "static/media/familia.pdf": "/anthem-master/static/media/familia.7a3cad44ad4b53a9f3ae.pdf",
@@ -16,11 +16,11 @@
     "static/media/sccc.png": "/anthem-master/static/media/sccc.914d6032eff7f65d0427.png",
     "index.html": "/anthem-master/index.html",
     "main.4c981ac2.css.map": "/anthem-master/static/css/main.4c981ac2.css.map",
-    "main.6da1e90d.js.map": "/anthem-master/static/js/main.6da1e90d.js.map",
+    "main.2e2bd384.js.map": "/anthem-master/static/js/main.2e2bd384.js.map",
     "787.63908c7c.chunk.js.map": "/anthem-master/static/js/787.63908c7c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c981ac2.css",
-    "static/js/main.6da1e90d.js"
+    "static/js/main.2e2bd384.js"
   ]
 }
