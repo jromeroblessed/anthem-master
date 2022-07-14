@@ -47,17 +47,17 @@ const HymnalList = () => {
   useEffect(()=> { 
     if(!!search){    
       setHimnal(hymnal.filter(
-        (coin) => 
+        (coin) =>
           coin.title.toLowerCase().includes(search) ||
           coin.id.toString().includes(search) ||
-          coin.anthem.toLowerCase().includes(search) 
+          coin.anthem.toLowerCase().includes(search)
       ));
     }else{
       setHimnal(hymnal)
     }
   },[search]) 
 
-  const fill = (arr) => {   
+  const fill = (arr) => {
     setsearch('')
     setHimnal(hymnal.filter(
       (coin) =>    
@@ -389,34 +389,34 @@ const HymnalList = () => {
       <div className="modal-dialog modal-fullscreen-xxl-down">
         <div className="modal-content">          
           <div className="modal-body p-0 m-0">
-          <center>
-            <p>
-              Page {pageNumber} of {numPages}
-            </p>
-            {pageNumber> 1 &&
-              <button onClick={changePageBack}>Previous Page</button>
-            }
-            {
-              pageNumber < numPages &&
-              <button onClick={changePageNext}>Next Page</button>
-            } 
-            <Document file={doc} onLoadSuccess={onDocumentLoadSuccess}>
-              <Page pageNumber={pageNumber} />
-            </Document> 
-            <p>
-              Page {pageNumber} of {numPages}
-            </p>
-            {pageNumber> 1 &&
-              <button onClick={changePageBack}>Previous Page</button>
-            }
-            {
-              pageNumber < numPages &&
-              <button onClick={changePageNext}>Next Page</button>
-            }            
-          </center>         
+            <center>
+              <p>
+                Page {pageNumber} of {numPages}
+              </p>
+              {pageNumber> 1 &&
+                <button className='btn btn-secondary ' onClick={changePageBack}>Previous Page</button>
+              }
+              {
+                pageNumber < numPages &&
+                <button className='btn btn-secondary' onClick={changePageNext}>Next Page</button>
+              } 
+              <Document file={doc} onLoadSuccess={onDocumentLoadSuccess}>
+                <Page pageNumber={pageNumber} />
+              </Document> 
+              <p>
+                Page {pageNumber} of {numPages}
+              </p>
+              {pageNumber> 1 &&
+                <button className='btn btn-secondary' onClick={changePageBack}>Previous Page</button>
+              }
+              {
+                pageNumber < numPages &&
+                <button className='btn btn-secondary' onClick={changePageNext}>Next Page</button>
+              }            
+            </center>         
           </div>
           <div className="modal-footer">
-            <button type="button" className="btn btn-secondary" data-bs-dismiss="modal">Close</button>            
+            <button type="button" className="btn btn-secondary btn-lg" data-bs-dismiss="modal">Close</button>            
           </div>
         </div>
       </div>
