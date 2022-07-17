@@ -14,7 +14,6 @@ import mesa from '../resources/Mesa_de_Fe.pdf';
 //import regla from '../resources/ReglamentoOperativo.pdf';
 import Profile from './Profile'
 const HymnalList = () => {
-
   const { getAnthem} = useContext(HymnalContext);
   const [textSize, setTextSize] = useState(18);
   const [Himnal, setHimnal] = useState(hymnal);
@@ -23,6 +22,7 @@ const HymnalList = () => {
   const [numPages, setNumPages] = useState(null);
   const [pageNumber, setPageNumber] = useState(1);
   const [doc, setDocument] = useState(null);
+
   const dayOfYear = () => {
     let date = new Date();
     return Math.floor(( date- new Date(date.getFullYear(), 0, 0)) / (1000 * 60 * 60 * 24));
@@ -43,19 +43,19 @@ const HymnalList = () => {
   function changePageNext(){
     changePage(+1)
   }
-
-  useEffect(()=> { 
-    if(!!search){    
+   
+  useEffect(()=> {
+    if(!!search){
       setHimnal(hymnal.filter(
         (coin) =>
-          coin.title.toLowerCase().includes(search) ||
+          coin.title.includes(search.toUpperCase()) ||
           coin.id.toString().includes(search) ||
           coin.anthem.toLowerCase().includes(search)
       ));
     }else{
       setHimnal(hymnal)
     }
-  },[search]) 
+  },[search])
 
   const fill = (arr) => {
     setsearch('')
@@ -77,7 +77,7 @@ const HymnalList = () => {
     </div>  
     <div className="form-floating mb-3">
       <input className="form-control" id="myInput" type="text" onChange={text => setsearch(text.target.value)} placeholder="Search.."/>
-      <label htmlFor="floatingInput">Buscar por número de himno o título</label>
+      <label htmlFor="floatingInput">Buscar por número de himno o título </label>
     </div>
     <div className='list-group h-100'>
       {

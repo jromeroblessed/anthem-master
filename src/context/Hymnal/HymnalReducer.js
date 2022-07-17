@@ -1,4 +1,4 @@
-import { GET_HYMNAL, GET_ANTHEM } from '../types';
+import { GET_HYMNAL, GET_ANTHEM, GET_SUNSET } from '../types';
 
 export default (state, action) => {
   const { payload, type } = action;
@@ -13,6 +13,11 @@ export default (state, action) => {
       return {
         ...state,
         selectedAnthem: payload,
+      };
+      case GET_SUNSET:
+      return {
+        ...state,
+        sunset: payload,
       };
     default:
       return state;

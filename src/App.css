@@ -31,8 +31,8 @@ pre {
 }
 
 .tinyl {  
-  width:60px;
-  height:60px;
+  width:80px;
+  height:80px;
   position: static;
     top: 0;
     bottom: 0;
@@ -61,14 +61,19 @@ pre {
   justify-content: center;
 }
 
+.red {
+  font-size: 22px;
+  
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
 
 @media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+  .tinyl {
+    animation: App-logo-spin infinite 2s linear;
   }
 }
 

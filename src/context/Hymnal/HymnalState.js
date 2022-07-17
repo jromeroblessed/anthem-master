@@ -2,7 +2,7 @@
 import React, {useReducer} from 'react'
 import HymnalReducer from './HymnalReducer'
 import HymnalContext from './HymnalContext'
-//import axios from "axios";
+import axios from "axios";
 import {hymnal} from "../../resources/himn";
 
 
@@ -10,6 +10,7 @@ import {hymnal} from "../../resources/himn";
 const HymnalState = (props) => {
   const initialState = {
     hymnal:[],
+    sunset: {},
     selectedAnthem: null
   }
 
@@ -31,12 +32,23 @@ const HymnalState = (props) => {
     })
   }
 
+  const getSunset = async (position) => {
+    const res = await axios.get(`https://api.sunrise-sunset.org/json?lat=${position.latitude}&lng=${position.longitude}`);   
+    const data = res.data.results;   
+    dispatch({
+      type: 'GET_SUNSET',
+      payload: data
+    })
+  }
+
   return (
     <HymnalContext.Provider value={{
       hymnal: state.hymnal,
+      sunset: state.sunset,
       selectedAnthem: state.selectedAnthem,
       getHymnal,
-      getAnthem 
+      getAnthem,
+      getSunset, 
     }}>
       {props.children}
     </HymnalContext.Provider>

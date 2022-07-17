@@ -292,7 +292,20 @@ export const hymnal = [
 {id:291,title:"  291.- YO TENGO UNA ESPERANZA ",anthem:"        291.- YO TENGO UNA ESPERANZA \n \n     // :Yo tengo una esperanza \n Muy grande y muy firme, \n Que allá en las mansiones \n Nos hemos de ver : // \n El día ya se acerca, señales ya se ven; \n Que Cristo está a las puertas, \n Diciendo: Ven y ve. \n     CORO \n Cristo bendito del cielo, \n Es el que me ha de ayudar, \n Para yo ir a la gloria, \n Donde yo quiero morar; \n Yo soy embajador \n De Cristo, el Salvador, \n Me voy a preparar, \n A predicar su amor. \n Que Cristo está a las puertas \n Diciendo: Ven y ve. \n     -2- \n // : Pero, si algún día \n Me llegara mi cita, \n Que Dios me necesita, \n Yo tengo que ir :// \n Por eso he confiado \n Como un fiel soldado, \n Que allá en las mansiones \n Nos hemos de ver. \n     -3- \n // : Cuando yo me vaya \n De este triste mundo, \n Con gozo profundo \n Lo voy a dejar : // \n Y un grato recuerdo \n De mis aflicciones, \n Que allá en la mansiones \n Nos hemos de ver. \n     -4- \n // : Doy gracias a Cristo, \n Por esta esperanza, \n Que sólo la alcanzan \n Los que creen en Él : // \n Y henchidos de gozo \n Nuestros corazones, \n Allá en las mansiones \n Nos hemos de ver. \n ",track:"16xmIQf7m5MLHJHjw3Tr-7r7e7YePAn8Q",demo:"1k45x0vfPtA1TW6ALVy5W0CDtAHF5WxHN"},
 {id:292,title:"  292.- YO TE SEGUIRE  ",anthem:"            292.- YO TE SEGUIRÉ \n \n     Yo te seguiré, Maestro, \n Donde quieras que guíes, \n Do Tú vayas, yo te sigo, \n Sí, Jesús, te seguiré. \n     CORO \n Yo te seguiré, Maestro. \n Pues tu sangre me salvó; \n Y aunque todos te desprecien, \n Siempre, fiel, yo te seré. \n     -2- \n Do la senda sea dura, \n Yo te seguiré, Jesús, \n Tú marcaste el camino, \n Y feliz lo seguiré. \n     -3- \n Aunque sea muy oscuro, \n El camino a seguir, \n Si tu voz escucho guiando \n Sin temor avanzaré. \n     -4- \n Y si el mundo me desprecia, \n No me importa, Salvador, \n Pues recuerdo el desprecio \n Que tuviste, Tú, Señor. \n ",track:"1z1cBzgtWW2V1leM_VPc3IbrZb4VsxOXL",demo:"1g1gYYMJaSGeDEx2dRy-0caXjr_RvWeCe"},
 {id:293,title:"  293.- YO VAGABA EN EL PECADO ",anthem:"        293.- YO VAGABA EN EL PECADO \n \n     Yo vagaba en el pecado, \n Sin esperanza y sin Dios; \n Mas, Jesús, me ha salvado \n De este mundo tan atroz. \n     CORO \n Y yo sé, sí, yo sé \n Mi Jesús acoge, al más vil pecador. \n Y yo sé, sí, yo sé \n Mi Jesús acoge, al más vil pecador. \n     -2- \n Pecador, Jesús te llama, \n Él te quiere perdonar; \n Con amor su voz te invita: \n Ven, te haré yo descansar. \n  -3- \n Aunque seas tú muy malo, \n Salvación hay para ti; \n Pues salvó al más malvado, \n Cuando me salvo a mí. \n     -4- \n Hallarás perdón en Cristo, \n Él es vida; Él es luz. \n Pecador, no te detengas, \n Ven al buen tierno Jesús. \n",track:"1tZAFTC6mgUhXxnewwKdov8OI8xIMf3sQ",demo:"1e2o08al--6fpadcTXQJHCN5gMBoLRVQM"},
-{id:'salida',title:"  SALIDA DEL SOL ",anthem:"        SALIDA DEL SOL \n \n     Yo vagaba en el pecado, \n Sin esperanza y sin Dios; \n Mas, Jesús, me ha salvado \n De este mundo tan atroz. \n     CORO \n Y yo sé, sí, yo sé \n Mi Jesús acoge, al más vil pecador. \n Y yo sé, sí, yo sé \n Mi Jesús acoge, al más vil pecador. \n     -2- \n Pecador, Jesús te llama, \n Él te quiere perdonar; \n Con amor su voz te invita: \n Ven, te haré yo descansar. \n  -3- \n Aunque seas tú muy malo, \n Salvación hay para ti; \n Pues salvó al más malvado, \n Cuando me salvo a mí. \n     -4- \n Hallarás perdón en Cristo, \n Él es vida; Él es luz. \n Pecador, no te detengas, \n Ven al buen tierno Jesús. \n",track:"1tZAFTC6mgUhXxnewwKdov8OI8xIMf3sQ",demo:"1e2o08al--6fpadcTXQJHCN5gMBoLRVQM"}]
+{id:294,title:"  DOXOLOGÍA  ",anthem:"       DOXOLOGÍA \n \n     A Dios el padre celestial, \n Al Hijo nuestro Redentor \n Al eternal consolador \n Unidos todos Alababad ! \n Amen !!! \n",track:"1kk6yfOzIkm_GFdrw1BDA1OOEK9n9NOiG",demo:"1kk6yfOzIkm_GFdrw1BDA1OOEK9n9NOiG"},
+{id:295,title:"  SALIDA DEL SOL ",anthem:
+`       SALIDA DEL SOL
+		
+  //Desde la salida del sol,
+Hasta su puesta en el atarcedecer,
+Alabado sea el nombre del señooor !//
+
+    Demos // gloria al señooor //
+
+    Desde la salida del sol,
+Hasta su puesta en el atarcedecer,
+Alabado sea el nombre del señooor ! `, track:"12OTM1rjL34KkJDJI25_Knbdl2g4ec7r2",demo:"12NP9S0sluGY08BrwUMdSjj600lImn9Lm"}]
+
 export const categ = {
     AVIVAMIENTO:[13,42,112,132,168],
     ALABANZAS:[10,15,28,34,35,36,45,51],
@@ -1224,15 +1237,15 @@ https://api.sunrise-sunset.org/json?lat=36.7201600&lng=-4.4203400 //api
 //TODO: ALABANZAS ADICIONALES
 //TODO: PUESTA DEL SOL
 // 
-		SALIDA DEL SOL
+		    SALIDA DEL SOL
 		
-//Desde la salida del sol,
+  //Desde la salida del sol,
 Hasta su puesta en el atarcedecer,
 Alabado sea el nombre del señooor !//
 
-Demos // gloria al señooor //
+    Demos // gloria al señooor //
 
-Desde la salida del sol,
+    Desde la salida del sol,
 Hasta su puesta en el atarcedecer,
 Alabado sea el nombre del señooor !
 
