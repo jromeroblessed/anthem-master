@@ -1214,118 +1214,85 @@ export const pages = {
 https://drive.google.com/uc?export=download&id=1RpIKNtiXF5rPSPKUcIMMD3Ivnnsijdep
 https://drive.google.com/uc?export=play&id=1RpIKNtiXF5rPSPKUcIMMD3Ivnnsijdep*/
 
-/*
+/* 
 
-<button type="button" className="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
-  Launch static backdrop modal
-</button>
+https://api.sunrise-sunset.org/json?lat=36.7201600&lng=-4.4203400 //api
+12OTM1rjL34KkJDJI25_Knbdl2g4ec7r2 // Salida del sol pista
+12NP9S0sluGY08BrwUMdSjj600lImn9Lm // Salida del sol demo
+1kk6yfOzIkm_GFdrw1BDA1OOEK9n9NOiG // doxologia
+//TODO: UPPERCASE BUSQUEDA 
+//TODO: ALABANZAS ADICIONALES
+//TODO: PUESTA DEL SOL
+// 
+		SALIDA DEL SOL
+		
+//Desde la salida del sol,
+Hasta su puesta en el atarcedecer,
+Alabado sea el nombre del señooor !//
+
+Demos // gloria al señooor //
+
+Desde la salida del sol,
+Hasta su puesta en el atarcedecer,
+Alabado sea el nombre del señooor !
 
 
-<div className="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabIndex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
-  <div className="modal-dialog modal-fullscreen-xxl-down">
-    <div className="modal-content">
-      <div className="modal-header">
-        <h5 className="modal-title" id="staticBackdropLabel">Modal title</h5>
-        <button type="button" className="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-      </div>
-      <div className="modal-body">
-        ...
-      </div>
-      <div className="modal-footer">
-        <button type="button" className="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-        <button type="button" className="btn btn-primary">Understood</button>
-      </div>
-    </div>
-  </div>
-</div>
 
-<div className="modal fade show" id="exampleModalFullscreenXxl" tabIndex="-1" aria-labelledby="exampleModalFullscreenXxlLabel" aria-modal="true" role="dialog">
-      <div className="modal-dialog modal-fullscreen-xxl-down">
-        <div className="modal-content">
-          <div className="modal-header">
-            <h5 className="modal-title h4" id="exampleModalFullscreenXxlLabel">Full screen below xxl</h5>
-            <button type="button" className="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-          </div>
-          <div className="modal-body">
-           
-          </div>
-          <div className="modal-footer">
-            <button type="button" className="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-          </div>
-        </div>
-      </div>
-    </div>
-style="display: block; padding-left: 0px;"
-████████████████████████████████████████████████████
-ejemplo lector pdf
-████████████████████████████████████████████████████
-import React, {useState} from 'react'
-import { Document,Page } from 'react-pdf/dist/esm/entry.webpack';
-import './App.css';
-function App() {
+import React, { useEffect, useState } from "react";
+import { Link } from "react-router-dom";
 
-  const [numPages, setNumPages] = useState(null);
-  const [pageNumber, setPageNumber] = useState(1);
+const Home = () => {
+  const [state, setState] = useState({
+    longitude: 0,
+    latitude: 0,
+  });
 
-  function onDocumentLoadSuccess({numPages}){
-    setNumPages(numPages);
-    setPageNumber(1);
-  }
-
-  function changePage(offSet){
-    setPageNumber(prevPageNumber => prevPageNumber + offSet);
-  }
-
-  function changePageBack(){
-    changePage(-1)
-  }
-
-  function changePageNext(){
-    changePage(+1)
-  }
+  useEffect(() => {
+    navigator.geolocation.getCurrentPosition(
+      function (position) {
+        // console.log(position);
+        setState({
+          longitude: position.coords.longitude,
+          latitude: position.coords.latitude,
+        });
+      },
+      function (error) {
+        console.error("Error Code = " + error.code + " - " + error.message);
+      },
+      {
+        enableHighAccuracy: true,
+      }
+    );
+  }, []);
 
   return (
-    <div className="App">
-      <header className="App-header">
-        <Document file="/sample.pdf" onLoadSuccess={onDocumentLoadSuccess}>
-          <Page height="600" pageNumber={pageNumber} />
-        </Document>
-        <p> Page {pageNumber} of {numPages}</p>
-        { pageNumber > 1 && 
-        <button onClick={changePageBack}>Previous Page</button>
-        }
-        {
-          pageNumber < numPages &&
-          <button onClick={changePageNext}>Next Page</button>
-        }
-      </header>
-      <center>
-        <div>
-          <Document file="/sample.pdf" onLoadSuccess={onDocumentLoadSuccess}>
-            {Array.from(
-              new Array(numPages),
-              (el,index) => (
-                <Page 
-                  key={`page_${index+1}`}
-                  pageNumber={index+1}
-                />
-              )
-            )}
-          </Document>
-        </div>
-      </center>
+    <div>
+      <h1>Geolocation</h1>
+      <p>Latitude: {state.latitude}</p>
+      <p>longitude: {state.longitude}</p>
+
+      <Link
+        to={{
+          pathname: "/map",
+          // state: {
+          //   hello: 'world'
+          // }
+          state,
+        }}
+      >
+        See marker
+      </Link>
     </div>
   );
-}
+};
 
-export default App;
-
-
-
-
-
-
-
-
+export default Home;
 
 */
+
+
+
+
+
+
+
