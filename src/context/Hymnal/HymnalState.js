@@ -33,7 +33,7 @@ const HymnalState = (props) => {
   }
 
   const getSunset = async (position) => {
-    const res = await axios.get(`https://api.sunrise-sunset.org/json?lat=${position.latitude}&lng=${position.longitude}`);   
+    const res = await axios.get(`https://api.sunrise-sunset.org/json?lat=${position.latitude}&lng=${position.longitude}&date=today`);   
     const data = res.data.results;   
     dispatch({
       type: 'GET_SUNSET',
