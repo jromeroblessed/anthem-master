@@ -4,13 +4,6 @@ import HymnalContext from '../context/Hymnal/HymnalContext'
 import moment from 'moment';
 
 export default function Header() {
-  //const hymnalContext = useContext(HymnalContext);
-  const hSunset = (hour) => {
-    
-    //let l = !!hour ? moment(hour,"HH:mm:ss").add(moment().utcOffset()/60,'hour').format("hh:mm:ss") : "Requiere Ubicación";
-    //return l;
-  }  
-
   const { sunset, getSunset} = useContext(HymnalContext);
   const [hour, setHour] = useState('Requiere Ubicacion');
   const [feelsLike, setFeelsLike] = useState('Requiere Ubicacion');
@@ -59,11 +52,11 @@ export default function Header() {
                         <small><div className="bold text-left pb-2 pt-0 mt-0">Ipis, Ciudadela Rodrigo Facio 350 mts, al este de la Cruz Roja </div></small>
                         <small><div className="bold text-left pb-2 pt-0 mt-0">Cel +506 8669 6523 | Tel +506 2229 4125</div></small>
                       </center>
-                    </div>
-                    <div className="col-sm-4 col-md-4 ">
+                    </div>                    
+                    <div className="col-sm-4 col-md-4 " id="temper">
                       <center >                        
                         <div className="bold p-0">Puesta del Sol: <b className='red'>{hour}</b></div>
-                        <div className="bold p-0">Temperatura: <b className='red'>{temperature}°</b><small>(Sensación: {feelsLike})</small></div>
+                        <div className="bold p-0">Temperatura: <b className='red'>{temperature}°</b><small>(Sen: {feelsLike}°)</small></div>
                       </center>
                     </div>
                   </div> 

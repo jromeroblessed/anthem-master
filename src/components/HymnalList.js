@@ -91,7 +91,7 @@ const HymnalList = () => {
               </h2>
               <div id={"collapse"+hymnal.id} className="accordion-collapse collapse" aria-labelledby={"heading"+hymnal.id} data-bs-parent={"accordion"+hymnal.id} >
                 <div className="accordion-body  p-0 m-0">
-                <label className="form-label">Tamaño de Letra</label>
+                <label className="form-label">(Pista) Dar click a la Letra</label>
                 <input type="range" className="form-range" min="14" max="28" onChange={e => setTextSize(+e.target.value)} id="customRange2" value={textSize} />
                   <a 
                       className='list-group-item list-group-item-action text-center' 
