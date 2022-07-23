@@ -6,22 +6,23 @@ import moment from 'moment';
 export default function Header() {
   //const hymnalContext = useContext(HymnalContext);
   const hSunset = (hour) => {
-    let l = !!hour ? moment(hour,"HH:mm:ss").add(moment().utcOffset()/60,'hour').format("hh:mm:ss") : "Requiere Ubicación";
-    return l;
-  }
+    
+    //let l = !!hour ? moment(hour,"HH:mm:ss").add(moment().utcOffset()/60,'hour').format("hh:mm:ss") : "Requiere Ubicación";
+    //return l;
+  }  
+
   const { sunset, getSunset} = useContext(HymnalContext);
-  const [location, setLocation] = useState({});
+  const [hour, setHour] = useState('Requiere Ubicacion');
+  const [feelsLike, setFeelsLike] = useState('Requiere Ubicacion');
+  const [temperature, setTemperature] = useState('Wait');
   useEffect(() => {
     const locat = async () => { 
        navigator.geolocation.getCurrentPosition(
-        async function (position) {
-          //console.log(position);
+        async function (position) {          
           await getSunset({
             longitude: position.coords.longitude,
             latitude: position.coords.latitude,
-          }).then(res => {
-            setLocation(res)
-          });           
+          })           
         },
         function (error) {
           console.error("Error Code = " + error.code + " - " + error.message);
@@ -33,7 +34,15 @@ export default function Header() {
     }
     locat();    
   }, []);
-
+  useEffect(() => {
+    if(!!sunset){
+      //console.log(sunset)
+      setHour(moment.unix(sunset.sys.sunset).format("hh:mm:ss"));
+      setTemperature(sunset.main.temp)
+      setFeelsLike(sunset.main.feels_like)
+    }    
+  }, [sunset]);
+  
   return (
     <nav className="navbar navbar-custom navbar-fixed-top" role="navigation">
         <div className="top-area">
@@ -46,14 +55,15 @@ export default function Header() {
                   <div className="row">
                     <div className="col-sm-8 col-md-8">                
                       <center>
-                        <p className="bold text-left">HIMNARIO SCC</p>
-                        <small><p className="bold text-left">Ipis, Ciudadela Rodrigo Facio 350 mts, al este de la Cruz Roja </p></small>
+                        <p className="bold text-left">HIMNARIO SCC COSTA RICA</p>
+                        <small><div className="bold text-left pb-2 pt-0 mt-0">Ipis, Ciudadela Rodrigo Facio 350 mts, al este de la Cruz Roja </div></small>
+                        <small><div className="bold text-left pb-2 pt-0 mt-0">Cel +506 8669 6523 | Tel +506 2229 4125</div></small>
                       </center>
                     </div>
                     <div className="col-sm-4 col-md-4 ">
-                      <center >
-                        <p className="bold">Cel +506 8669 6523 | Tel +506 2229 4125</p>
-                        <p className="bold">Puesta del Sol Hoy: <b className='red'>{hSunset(sunset.sunset)}</b></p>
+                      <center >                        
+                        <div className="bold p-0">Puesta del Sol: <b className='red'>{hour}</b></div>
+                        <div className="bold p-0">Temperatura: <b className='red'>{temperature}°</b><small>(Sensación: {feelsLike})</small></div>
                       </center>
                     </div>
                   </div> 

@@ -50,7 +50,7 @@ const HymnalList = () => {
         (coin) =>
           coin.title.includes(search.toUpperCase()) ||
           coin.id.toString().includes(search) ||
-          coin.anthem.toLowerCase().includes(search)
+          coin.anthem.toLowerCase().includes(search.toLowerCase())
       ));
     }else{
       setHimnal(hymnal)

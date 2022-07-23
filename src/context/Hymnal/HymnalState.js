@@ -10,7 +10,7 @@ import {hymnal} from "../../resources/himn";
 const HymnalState = (props) => {
   const initialState = {
     hymnal:[],
-    sunset: {},
+    sunset: null,
     selectedAnthem: null
   }
 
@@ -33,8 +33,9 @@ const HymnalState = (props) => {
   }
 
   const getSunset = async (position) => {
-    const res = await axios.get(`https://api.sunrise-sunset.org/json?lat=${position.latitude}&lng=${position.longitude}&date=today`);   
-    const data = res.data.results;   
+    //https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key}
+    const res = await axios.get(`https://api.openweathermap.org/data/2.5/weather?lat=${position.latitude}&lon=${position.longitude}&appid=2245a0fada26bc50c8658db58a601370&units=metric`);   
+    const data = res.data;   
     dispatch({
       type: 'GET_SUNSET',
       payload: data
