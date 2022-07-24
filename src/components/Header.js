@@ -2,6 +2,7 @@ import React, {useEffect, useContext, useState} from 'react'
 import logo from '../resources/sccc.png';
 import HymnalContext from '../context/Hymnal/HymnalContext'
 import moment from 'moment';
+import video from '../resources/city.mp4';
 
 export default function Header() {
   const { sunset, getSunset} = useContext(HymnalContext);
@@ -38,6 +39,10 @@ export default function Header() {
   
   return (
     <nav className="navbar navbar-custom navbar-fixed-top" role="navigation">
+       <div className="overlay"></div>
+        <video autoPlay muted loop id="myVideo">
+          <source src={video} type="video/mp4"/>
+        </video>
         <div className="top-area">
             <div className="container-fluid ">
               <div className="row p-2">

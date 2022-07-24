@@ -48,7 +48,7 @@ pre {
 	width: 100%;
 	color: #fff;
 	padding-top: 10px;	
-  background:#299dcc;
+  background: url('./resources/city.mp4') no-repeat center center scroll;
 }
 
 .pdf-container {
@@ -98,5 +98,56 @@ pre {
   }
   to {
     transform: rotate(360deg);
+  }
+}
+
+
+.navbar {
+  position: relative;
+  background-color: black;
+  height: 100%;
+  min-height: 180px;
+  width: 100%;
+  overflow: hidden;
+}
+
+.navbar video {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  min-width: 50%;
+  min-height: 50%;
+  width: auto;
+  height: auto;
+  z-index: 0;
+  -ms-transform: translateX(-50%) translateY(-50%);
+  -moz-transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+}
+
+.navbar .top-area {
+  position: relative;
+  z-index: 2;
+}
+
+.navbar .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  opacity: 0.5;
+  z-index: 1;
+}
+/*background: url('./resources/city.mp4') no-repeat center center/cover;*/
+@media (pointer: coarse) and (hover: none) {
+  .navbar {
+    background: url('./resources/city.mp4') black no-repeat center center scroll;
+  }
+
+  .navbar video {
+    display: none;
   }
 }

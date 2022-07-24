@@ -8,7 +8,7 @@ import HymnalState from './context/Hymnal/HymnalState'
 //BOOTSTRAPP
 import 'bootstrap/dist/css/bootstrap.min.css'
 import 'bootstrap/dist/js/bootstrap.min.js'
-import logo from './resources/sccc.png';
+import 'bootstrap-icons/font/bootstrap-icons.css'
 
 function App() { 
   return (    
