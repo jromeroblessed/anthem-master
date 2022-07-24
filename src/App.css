@@ -47,8 +47,9 @@ pre {
   transition: all .4s ease-in-out;
 	width: 100%;
 	color: #fff;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 	padding-top: 10px;	
-  background: url('./resources/city.mp4') no-repeat center center scroll;
+  background: url('./resources/bible2.jpg') no-repeat center center scroll;
 }
 
 .pdf-container {
@@ -100,7 +101,7 @@ pre {
     transform: rotate(360deg);
   }
 }
-
+/*
 
 .navbar {
   position: relative;
@@ -141,13 +142,12 @@ pre {
   opacity: 0.5;
   z-index: 1;
 }
-/*background: url('./resources/city.mp4') no-repeat center center/cover;*/
 @media (pointer: coarse) and (hover: none) {
   .navbar {
-    background: url('./resources/city.mp4') black no-repeat center center scroll;
+    background: url('') black no-repeat center center scroll;
   }
 
   .navbar video {
     display: none;
   }
-}
+}*/

@@ -2,7 +2,6 @@ import React, {useEffect, useContext, useState} from 'react'
 import logo from '../resources/sccc.png';
 import HymnalContext from '../context/Hymnal/HymnalContext'
 import moment from 'moment';
-import video from '../resources/city.mp4';
 
 export default function Header() {
   const { sunset, getSunset} = useContext(HymnalContext);
@@ -38,11 +37,7 @@ export default function Header() {
   }, [sunset]);
   
   return (
-    <nav className="navbar navbar-custom navbar-fixed-top" role="navigation">
-       <div className="overlay"></div>
-        <video autoPlay muted loop id="myVideo">
-          <source src={video} type="video/mp4"/>
-        </video>
+    <nav className="navbar navbar-custom navbar-fixed-top" role="navigation">          
         <div className="top-area">
             <div className="container-fluid ">
               <div className="row p-2">
@@ -53,7 +48,7 @@ export default function Header() {
                   <div className="row">
                     <div className="col-sm-8 col-md-8">                
                       <center>
-                        <p className="bold text-left">HIMNARIO SCC COSTA RICA</p>
+                        <p className="bold text-left"><b>HIMNARIO SCC COSTA RICA</b></p>
                         <small><div className="bold text-left pb-2 pt-0 mt-0">Ipis, Ciudadela Rodrigo Facio 350 mts, al este de la Cruz Roja </div></small>
                         <small><div className="bold text-left pb-2 pt-0 mt-0">Cel +506 8669 6523 | Tel +506 2229 4125</div></small>
                       </center>
