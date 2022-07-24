@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/anthem-master/static/css/main.d1b317b6.css",
-    "main.js": "/anthem-master/static/js/main.44a1ab67.js",
+    "main.css": "/anthem-master/static/css/main.1b356c06.css",
+    "main.js": "/anthem-master/static/js/main.2c1ebd1e.js",
     "static/js/787.63908c7c.chunk.js": "/anthem-master/static/js/787.63908c7c.chunk.js",
     "static/media/Mesa_de_Fe.pdf": "/anthem-master/static/media/Mesa_de_Fe.0c5432f00d7666de97cb.pdf",
+    "static/media/city.mp4": "/anthem-master/static/media/city.e7a82bc7e27632b94bcf.mp4",
     "static/media/familia.pdf": "/anthem-master/static/media/familia.7a3cad44ad4b53a9f3ae.pdf",
     "static/media/liderazgo.pdf": "/anthem-master/static/media/liderazgo.ada2c236316f25a9e2a5.pdf",
     "pdf.worker.js": "/anthem-master/e7e915313973ba1d49f9bb2a1998626e.js",
@@ -13,14 +14,16 @@
     "static/media/biografia.pdf": "/anthem-master/static/media/biografia.b1bd2d53465ec5a1ef75.pdf",
     "static/media/vence.pdf": "/anthem-master/static/media/vence.51a8d2fb223b8627ea4b.pdf",
     "static/media/LoHizo.pdf": "/anthem-master/static/media/LoHizo.90e87e5a731a732460a8.pdf",
+    "static/media/bootstrap-icons.woff?": "/anthem-master/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
     "static/media/sccc.png": "/anthem-master/static/media/sccc.914d6032eff7f65d0427.png",
+    "static/media/bootstrap-icons.woff2?": "/anthem-master/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
     "index.html": "/anthem-master/index.html",
-    "main.d1b317b6.css.map": "/anthem-master/static/css/main.d1b317b6.css.map",
-    "main.44a1ab67.js.map": "/anthem-master/static/js/main.44a1ab67.js.map",
+    "main.1b356c06.css.map": "/anthem-master/static/css/main.1b356c06.css.map",
+    "main.2c1ebd1e.js.map": "/anthem-master/static/js/main.2c1ebd1e.js.map",
     "787.63908c7c.chunk.js.map": "/anthem-master/static/js/787.63908c7c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1b317b6.css",
-    "static/js/main.44a1ab67.js"
+    "static/css/main.1b356c06.css",
+    "static/js/main.2c1ebd1e.js"
   ]
 }
