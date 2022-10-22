@@ -1,7 +1,7 @@
 import React, {useEffect, useContext, useState} from 'react'
 import HymnalContext from '../context/Hymnal/HymnalContext'
 import { Document,Page } from 'react-pdf/dist/esm/entry.webpack';
-import {categ, hymnal,motto,DOCTRINA_FUNDAMENTAL,HISTORIA,pages} from "../resources/himn";
+import {categ, hymnal,motto,DOCTRINA_FUNDAMENTAL,HISTORIA,pages, newT, oldT} from "../resources/himn";
 import manual from '../resources/ManualProvicional.pdf';
 import familia from '../resources/familia.pdf';
 import biografia from '../resources/biografia.pdf';
@@ -300,7 +300,10 @@ const HymnalList = () => {
         <ul className="list-group">
           <li className="list-group-item d-flex justify-content-between align-items-center" data-bs-toggle="modal" data-bs-target="#staticPDF" onClick={() => {setPageNumber(pages[dayOfYear().toString()]);setDocument(mesa);}}>
           DEVOCIONAL
-          </li>                   
+          </li>
+          <li className="list-group-item d-flex justify-content-between align-items-center" data-bs-toggle="modal" data-bs-target="#staticReading" onClick={() => setReadin(newT)}>
+              ESQUEMA BÍBLICO           
+          </li>
         </ul>
         <h4>Lemas</h4>
         <ul className="list-group">

@@ -1305,6 +1305,185 @@ export const pages = {
   363:232
   }
 
+  export const newT = 
+  `
+  𝗔𝗡𝗧𝗜𝗚𝗨𝗢 𝗧𝗘𝗦𝗧𝗔𝗠𝗘𝗡𝗧𝗢
+  39 libros en total
+
+  Pentateuco
+
+  1-  Génesis
+
+  2-  Exodo
+
+  3-  Levíticos
+
+  4-  Números
+
+  5-  Deuteronomio
+
+
+  Históricos
+
+  6-   Josúe
+
+  7-   Jueces
+
+  8-   Rut
+
+  9-   1ra Samuel
+
+  10- 2da Samuel
+
+  11- 1ra Reyes
+
+  12- 2da Reyes
+
+  13- 1ra Crónicas
+
+  14- 2da Crónicas
+
+  15- Esdras
+
+  16- Nehemias
+
+  17- Ester
+
+
+  Poéticos 
+
+  18- Job
+
+  19- Salmos
+
+  20- Proverbios
+
+  21- Eclesiastes
+
+  22- Cantar de los Cantares
+
+
+  Proféticos
+
+  Profetas Mayores
+
+  23- Isaías
+
+  24- Jeremías
+
+  25- Lamentaciones
+
+  26- Ezequiel
+
+  27-Daniel 
+
+
+  Profetas Menores
+
+  28- Oseas
+
+  29- Joel
+
+  30- Amos
+
+  31- Abdías
+
+  32- Jonás
+
+  33- Miquéas
+
+  34- Nahum
+
+  35- Habacuc
+
+  36- Sofonías
+
+  37- Hageo
+
+  38- Zacarías
+
+  39- Malaquias
+
+  ------
+
+  𝗡𝗨𝗘𝗩𝗢 𝗧𝗘𝗦𝗧𝗔𝗠𝗘𝗡𝗧𝗢
+  27 libros en total
+  
+  ✓ Evangelios
+  
+  Evangelios
+  
+  40- Mateo
+  
+  41- Marcos 
+  
+  42- Lucas
+  
+  43- Juan
+  
+  ✓Histórico
+  
+  44- Hechos
+  
+  
+  ✓Epístolas Paulinas
+  
+  45- Romanos
+  
+  46- 1ra Corintios
+  
+  47- 2da Corintios
+  
+  48- Gálatas
+  
+  49- Efesios
+  
+  50- Filipenses
+  
+  51- Colosenses
+  
+  52- 1ra. Tesalonicenses
+  
+  53- 2da. Tesalonicenses
+  
+  54- 1ra. Timoteo
+  
+  55- 2da. Timoteo
+  
+  56- Tito
+  
+  57- Filemón
+  
+  
+  ✓ Epístolas Generales
+  
+  58- Hebreos
+  
+  59- Santiago
+  
+  60- 1ra. Pedro
+  
+  61- 2da. Pedro
+  
+  62- 1ra. Juan
+  
+  63- 2da. Juan
+  
+  64- 3ra. Juan
+  
+  65- Judas
+  
+  
+  ✓ Profético
+  
+  66- Apocalipsis`
+
+  export const oldT = 
+  `
+  `
+
+
+
 
 /*https://drive.google.com/uc?alt=media&id=1RpIKNtiXF5rPSPKUcIMMD3Ivnnsijdep
 https://drive.google.com/uc?export=download&id=1RpIKNtiXF5rPSPKUcIMMD3Ivnnsijdep
