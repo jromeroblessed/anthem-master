@@ -71,11 +71,11 @@ const HymnalList = () => {
       <button className="btn btn-primary" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasExample" aria-controls="offcanvasExample">
         Ver Categorías
       </button>
-      <button className="btn btn-primary" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasReading" aria-controls="offcanvasReading">
+      <button className="btn btn-dark" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasReading" aria-controls="offcanvasReading">
         Ver Lemas y Otros
       </button>
     </div>  
-    <div className="form-floating mb-3">
+    <div className="form-floating mb-3" style={{zIndex:1000,position: 'sticky',top: 0}}>
       <input className="form-control" id="myInput" type="text" onChange={text => setsearch(text.target.value)} placeholder="Search.."/>
       <label htmlFor="floatingInput"><i className="bi bi-search"></i>    Buscar por número de himno o título</label>
     </div>
