@@ -485,11 +485,10 @@ const HymnalList = () => {
               }}>
               DEVOCIONAL 2022
             </li>
-            <li
-              className='list-group-item d-flex justify-content-between align-items-center'
-              data-bs-toggle='modal'
-              data-bs-target='#biblia'>
-              PLANES DEVOCIONALES
+            <li className='list-group-item d-flex justify-content-between align-items-center'>
+                <a href="https://my.bible.com/es/bible/150/GEN.1.RVR95" target="_blank" rel="noreferrer" className="list-group-item-action" style={{textDecoration: 'none'}}>
+                 BÍBLIA Y DEVOCIONALES
+                </a>
             </li>
             <li
               className='list-group-item d-flex justify-content-between align-items-center'
@@ -750,7 +749,7 @@ const HymnalList = () => {
           </div>
         </div>
       </div>     
-      <div className="modal fade" style={{overflowY: 'hidden'}} id="biblia" role="dialog" aria-labelledby="bibliaLabel" aria-hidden="true">
+      { /* <div className="modal fade" style={{overflowY: 'hidden'}} id="biblia" role="dialog" aria-labelledby="bibliaLabel" aria-hidden="true">
         <div className="modal-header bg-dark" style={{color: 'white'}}>
           <h3 className="modal-title">Biblia y Devocionales</h3>
           <button type="button" className="btn-close bg-light" data-bs-dismiss="modal" aria-label="Close"></button>
@@ -759,12 +758,12 @@ const HymnalList = () => {
           <div className="modal-content" style={{height:'100%',overflowY: 'hidden'}}>      
             <div className="modal-body">
               <div className="ratio ratio-16x9" style={{height:'100%', position: 'relative',overflow: 'hidden', width: '100%'}}>
-                <iframe className="embed-responsive-item" title="Leamos la biblia" src="https://my.bible.com/es/reading-plans" id="video"  allowscriptaccess="always" ></iframe>
+                <iframe className="embed-responsive-item" title="Leamos la biblia" src="https://my.bible.com/es/reading-plans" id="video"  ></iframe>
               </div> 
             </div>
           </div>
         </div>
-      </div> 
+                </div> */ }
     </>
   );
 };
