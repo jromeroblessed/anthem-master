@@ -489,7 +489,7 @@ const HymnalList = () => {
               className='list-group-item d-flex justify-content-between align-items-center'
               data-bs-toggle='modal'
               data-bs-target='#biblia'>
-              BÍBLIA
+              PLANES DEVOCIONALES
             </li>
             <li
               className='list-group-item d-flex justify-content-between align-items-center'
@@ -759,7 +759,7 @@ const HymnalList = () => {
           <div className="modal-content" style={{height:'100%',overflowY: 'hidden'}}>      
             <div className="modal-body">
               <div className="ratio ratio-21x9" style={{height:'100%'}}>
-                <iframe className="embed-responsive-item" title="Leamos la biblia" src="https://www.bible.com/es-ES/bible/150/GEN.1.RVR95" id="video"  allowscriptaccess="always" ></iframe>
+                <iframe className="embed-responsive-item" title="Leamos la biblia" src="https://www.bible.com/es-ES/reading-plans" id="video"  allowscriptaccess="always" ></iframe>
               </div> 
             </div>
           </div>
