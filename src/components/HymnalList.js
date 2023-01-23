@@ -759,7 +759,7 @@ const HymnalList = () => {
           <div className="modal-content" style={{height:'100%',overflowY: 'hidden'}}>      
             <div className="modal-body">
               <div className="ratio ratio-16x9" style={{height:'100%'}}>
-                <iframe className="embed-responsive-item" title="Leamos la biblia" src="https://www.bible.com/es-ES/reading-plans" id="video"  allowscriptaccess="always" ></iframe>
+                <iframe className="embed-responsive-item" title="Leamos la biblia" src="https://my.bible.com/es/reading-plans" id="video"  allowscriptaccess="always" ></iframe>
               </div> 
             </div>
           </div>
