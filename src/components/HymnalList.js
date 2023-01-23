@@ -483,7 +483,7 @@ const HymnalList = () => {
                 setPageNumber(pages[dayOfYear().toString()]);
                 setDocument(mesa);
               }}>
-              DEVOCIONAL
+              DEVOCIONAL 2022
             </li>
             <li
               className='list-group-item d-flex justify-content-between align-items-center'
