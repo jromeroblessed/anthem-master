@@ -1481,6 +1481,20 @@ export const pages = {
   export const oldT = 
   `
   `
+  export const esfuerzo = 
+`
+NUESTRO ESFUERZO
+
+Ser Cristiano es, ser semejante a Cristo. Confiando en Cristo, como un discípulo de Cristo. Tener la fe de Jesucristo. Tener el Espíritu de Cristo: el Espíritu Santo, y fuego.
+
+Llevar los frutos del Espíritu de Cristo. Amar a Cristo, mediante la obediencia a las palabras de Jesús el Cristo.
+
+Hacer las obras de Cristo como un creyente en Cristo. Vivir en Cristo, vivir los mandamientos de Jesús el Cristo.
+
+Predicar a Cristo: la doctrina de Cristo. Vivir por fe en Cristo como fiel discípulo de Cristo. Vencer al mundo, a fin de permanecer en Cristo. Santificado para la obra de Cristo, lleno de la naturaleza divina de Cristo. Santo, libre de pecado, sellado y salvado para la gloria de Cristo. Que el esfuerzo supremo sea ganar almas, discípulos para Cristo, dejando el resultado del futuro a Cristo.
+
+Cristo Jesús: nuestro todo en todo.
+`
 
 
 

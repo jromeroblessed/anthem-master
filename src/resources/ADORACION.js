@@ -1,3 +1,6 @@
+export const adoracion = [
+{id:1,title:"1.- A CRISTO CORONAD", anthem:
+`
 1.- A CRISTO CORONAD
 
 A Cristo coronad, divino salvador,
@@ -14,8 +17,9 @@ A Cristo coronad, Señor de vida y luz,
 Con alabanzas proclamad sus triunfos en la cruz,
 A Él hoy adorad, Señor de salvación,
 ///Loor eterno tributad///, de todo corazón.
-
-
+`,track:"",demo:""},
+{id:2,title:"2.- CANTARÉ DE TU AMOR POR SIEMPRE", anthem:
+`
 2.- CANTARÉ DE TU AMOR POR SIEMPRE
 
 Sobre los montes, sobre el mar, el río de tu amor vendrá
@@ -28,8 +32,9 @@ Y de tu amor, tu gran amor, quiero cantar.
 Hoy mi corazón levanto,
 Tú eres bueno, Padre Santo
 A Ti, Salvador, yo canto de tu gran amor.
-
-
+`,track:"",demo:""},
+{id:3,title:"3.- ALABAD AL GRAN REY", anthem:
+`
 3.- ALABAD AL GRAN REY
 
 Solemne resuenen las voces de amor,
@@ -57,9 +62,9 @@ Velad fieles todos, velad con fervor,
 Que viene muy pronto  Jesús el Señor,
 Con notas alegres vendrá a reinar,
 A su eterna gloria nos ha de llevar.
-
-
-
+`,track:"",demo:""},
+{id:4,title:"4.- MÁS COMO CRISTO MEDLEY", anthem:
+`
 4.- MÁS COMO CRISTO MEDLEY
 
 Más santidad dame, más odio al mal;
@@ -92,9 +97,9 @@ Más pureza dame, más fuerza en Jesús;
 Más de su dominio, más paz en la cruz;
 Más rica esperanza, más obras aquí;
 //Más ansias del cielo, más gozo allí//.
-
-
-
+`,track:"",demo:""},
+{id:5,title:"5.- BRILLA MEDLEY", anthem:
+`
 5.- BRILLA MEDLEY
 
 Nunca esperes el momento, de una grande acción,
@@ -127,8 +132,9 @@ Tu verdad revelada nos libra.
 Espíritu arde en nuestro ser,
 Fluyan doquier ríos de gracia y misericordia;
 Manda poder y que venga la luz//.
-
-
+`,track:"",demo:""},
+{id:6,title:"6.- CRISTO BRILLA EN MÍ", anthem:
+`
 6.- CRISTO BRILLA EN MÍ
 
 Lirio de los valles, llena con tu aroma mi vivir,
@@ -146,7 +152,9 @@ Dios el mundo muere hoy, gracias al pecado y al dolor,
 Busco en las tinieblas, preso de mis años de pecar,
 Tu presencia, siento cerca, brilla en tus ojos compasión,
 Cristo brilla en mí que tu amor yo pueda reflejar.
-
+`,track:"",demo:""},
+{id:7,title:"7.- ENCIENDE UNA LUZ", anthem:
+`
 7.- ENCIENDE UNA LUZ
 
 Enciende una luz, déjala brillar,
@@ -164,7 +172,9 @@ Enciende una luz, déjala brillar,
 La luz de Jesús que brille en todo lugar.
 No la puedes esconder, no te puedes callar,
 Ante tal necesidad, enciende una luz en la obscuridad.
-
+`,track:"",demo:""},
+{id:8,title:"8.- VEN A ÉL-MEDLEY", anthem:
+`
 8.- VEN A ÉL-MEDLEY
 
 ¿Ves la Iglesia que ufana levanta, de la cruz el glorioso pendón?,
@@ -201,7 +211,9 @@ Jesús dice:
 “Ven, de estas aguas tú puedes beber, la sed de tu alma yo mitigaré,
 Te vi que llorabas en la oscuridad, //con amor te recuerdo,
 Por mi muerte en la cruz”//.
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 9.- CRISTO QUIERE LIMPIOS CORAZONES
 
 Cristo busca limpios corazones,
@@ -228,9 +240,9 @@ Vidas santas Cristo necesita,
 Que a los pecadores muestren su poder;
 Libres de ansiedades, en Jesús confiadas,
 Y que pueda de ellas siempre disponer.
-
-
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 10.- EL MUNDO SERÁ PARA CRISTO
 
 América será para Cristo, el único camino hacia Dios,
@@ -252,7 +264,9 @@ España y Portugal en Europa, Italia y Francia serán también.
 La China e Indonesia en Asia, La India, Rusia y también Japón.
 En África, Nigeria y el Congo, y Oceanía del Rey será
 //El mundo será para el cielo, el cielo que Jesús preparó//
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 11.- EL MUNDO ES DE MI DIOS
 
 El mundo es de mi Dios;  su eterna posesión,
@@ -266,8 +280,9 @@ Hará vencer, por su poder, con la obra de la cruz.
 -2-
 El mundo es de mi Dios;  y en todo mi redor,
 Las flores mil con voz sutil, declaran fiel su amor.
-
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 12.- SANTIDAD MEDLEY
 
 //Santidad a nuestro Dios, Santidad a nuestro gran Señor//
@@ -302,9 +317,9 @@ Dios en tres personas, bendita Trinidad.
 Vemos en tus obras, en cielo, tierra y mar,
 ¡Santo! ¡Santo! ¡Santo!, te adorará todo hombre
 //Dios en tres personas, ¡bendita Trinidad!//.
-
-
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 13.- LA SEGUNDA BENDICIÓN
 
 Para los regenerados
@@ -334,8 +349,9 @@ Llenará tu corazón;
 Él, os guardará por siempre
 Sin temor o reprensión
 En la hermosura de la santidad.
-
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 14.- LA SENDA DE SANTIDAD
 
 Hay una senda de santidad,
@@ -371,8 +387,9 @@ Gozo eterno habrá en sus almas,
 Remanente del Señor.
 Con gozo a Sión irán marchando,  dando su adoración.
 Con gozo a Sión hoy marchamos, //le damos adoración//.
-
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 15.- CUANDO PIENSO EN TU SANTIDAD
 
 Cuando pienso en tu santidad,
@@ -393,8 +410,9 @@ La razón de vivir es adorarte a Ti//
 //Te adoro a ti, Te adoro a ti,
 La razón de vivir es adorarte a Ti,//
 La razón de vivir es adorarte a Ti.
-
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 16.- UNIDOS, UNIDOS
 
 //Unidos, unidos, en su nombre unidos//
@@ -407,9 +425,9 @@ Al fin resplandecerá,
 Y el mundo llenará de amor y de paz.
 
 “Se repite todo una vez”
-
-
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 17.- JUNTOS EN ADORACIÓN
 
 //No ha podido la distancia apagar nuestro amor,
@@ -431,8 +449,9 @@ Y por su amor estamos juntos en adoración.
 PUENTE
 //Dame tu mano, te doy la mía y todo en el mundo será alegría//
 Dame tu mano, te doy la mía y juntos podremos cantar.
-
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 18.- TE ADORO A TI
 
 Te adoro a Ti, oh Gran Señor,
@@ -442,11 +461,9 @@ Eso es lo que quiero hacer.
 Te doy loor, pues Tú eres mi Señor
 Te adoro a Ti, oh Gran Señor.
 Nadie hay como Tú.
-
-
-
-
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 19.- YO SÉ QUE ESTÁS AQUÍ
 
 Sientes dolor si en angustia vamos
@@ -465,7 +482,9 @@ CORO
 //Yo sé que estás aquí, sanando y dando libertad,
 Yo sé que estás aquí, enjugando el llanto con tu paz//
 Enjuga nuestro llanto con tu paz.
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 20.- SOLO TÚ ERES DIGNO
 
 Dios de poder, Eterno Padre,  buen Salvador y Rey,
@@ -481,9 +500,9 @@ Tú eres digno, digno de honor.
 Cordero fiel, y Redentor, amor, Justicia y Paz.
 Llámanos hoy, somos tu templo, Como una ofrenda a ti.
 Nuestra alabanza damos hoy, Te damos nuestra adoración.
-
-
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 21.- ALABADO EL GRAN MANANTIAL
 
 ¡Alabado el gran manantial, que de sangre Dios nos mostró!,
@@ -505,8 +524,9 @@ Padre, de ti lejos vagué, extravióse mi corazón,
 Como grana mis culpas son, no con agua limpió seré.
 A tu fuente magna acudí, tu promesa creo, ¡Oh, Jesús!,
 La eficaz virtud de tu don, la nívea blancura me dé.
-
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 22.- ES EXALTADO
 
 Es exaltado, en lo alto, exaltado es el Rey, le alabaré,
@@ -515,12 +535,9 @@ Es exaltado, por siempre exaltado, y yo le alabare.
 Él es Señor, por siempre reinará,
 Su creación, en Él se gozará;
 Es exaltado, en lo alto exaltado, es el Rey.
-
-
-
-
-
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 23.- REFÍNAME
 
 //Purifícame como oro fino, o hermosa plata,
@@ -540,17 +557,18 @@ Reservado para ti Maestro, vivir para ti.
 Refíname, esa es mi oración, quiero ser santo,
 Aparto para ti Dios, yo quiero ser puro,
 Reservado para ti Maestro, ///y hacer yo tu voluntad///.
-
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 24.- DEJA QUE TU LUZ BRILLE
 
 //Deja que tu luz brille//,
 //deja, deja, déjala brillar//,
 //Brilla como un sol radiante//,
 //brilla, brilla, brilla como un sol//.
-
-
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 25.- HAY UN PRECIOSO MANANTIAL
 
 Hay un precioso manantial de sangre de Emanuel,
@@ -568,26 +586,27 @@ La gloria de su gran poder, me gozo en ensalzar.
 -4-
 Eterna fuente Carmesí, raudal de puro amor,
 Se lavará por siempre en ti, el pueblo del Señor.
-
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 26.- EN EL HOGAR
 
 ///En el hogar///, tú necesitas a Jesús,
 ///En el hogar///, tú necesitas a Jesús.
 //Mira que feliz se vive//, con Jesús en el hogar,
 //Mira que feliz se vive//, con Jesús en el hogar.
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 27.- CRISTO, NOMBRE GLORIOSO
 
 Cristo, nombre glorioso
 Precioso Salvador, bello Señor,
 Emmanuel, Dios con nosotros,
 Palabra viva, mi Redentor.
-
-
-
-
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 28.- EN CRISTO, YO VENCERÉ
 
 Cuando falta el valor y me ciega el dolor,
@@ -598,8 +617,9 @@ Cuando fallan mis fuerzas, Él la victoria me da. 
 CORO
 //En Cristo yo venceré//, mis fuerzas y mi fe,
 En el confiare, en Cristo yo venceré.
-
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 29.- SI HE OFENDIDO A ALGUIEN
 
 Si he ofendido a alguien hoy Señor,
@@ -621,10 +641,9 @@ Perdona lo que he confesado aquí,
 Y lo secreto que se hallará en mí,
 Mi ayuda y guía sé, confío en ti.
 Señor, Amén.
-
-
-
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 30.- CANTEN DEL AMOR DE CRISTO
 
 Canten del amor de Cristo, ensalzad al redentor,
@@ -642,7 +661,9 @@ De victoria en victoria, siempre firmes avanzad.
 -4-
 Adelante en la lucha, oh soldados de la fe,
 Nuestro triunfo oh escucha, los clamores ¡Viva el Rey!.
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 31.- GRACIAS SEÑOR
 
 Gracias Señor, por las luchas que el mundo da,
@@ -659,9 +680,9 @@ Gracias Señor, por todo lo que siento en mí ser,
 Pues sé que tu me ayudaras, a guardarme del mal.
 Gracias Señor, que cuando todo ya esté en su lugar,
 Tu rostro allí podré mirar, y allí estarás.
-
-
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 32.- CRISTO YA PAGÓ
 
 Escuche al Señor decir, hay poca fuerza en ti,
@@ -701,8 +722,9 @@ Mi Jesús por mi murió, y así repetiré,
 Cristo ya pagó, la deuda por mí,
 //En la cruz el derramó, su sangre carmesí//.
 Quien me puede dar perdón, solo de Jesús la sangre.
-
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 33.- OH MI CORAZÓN REBOSA
 
 Oh, mi corazón rebosa de gozo,
@@ -727,7 +749,9 @@ Hallo gran placer llevando pecadores,
 Pobres, ricos, de cualquiera condición;
 A aquél que en la cruz sufrió dolores,
 Para dar a todos plena salvación
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 34.- VEN, ESPIRITU VEN
 
 // Ven espíritu ven y lléname Señor 
@@ -737,9 +761,9 @@ Purifícame y lávame, renuévame,
 Restáurame Señor, con tu poder.
 Purifícame y lávame, renuévame,
 Restáurame Señor, te quiero conocer.
-
-
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 35.- PUEBLO DE DIOS
 
 Con los labios hoy te alabamos,
@@ -757,7 +781,9 @@ En las tinieblas escuchen,
 Sepan lo que somos hoy,
 Siervos de Cristo comprados,
 Con sangre //pura y sin par//.
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 36.- MI VIDA ESTÁ LLENA DE TI
 
 ///Mi vida está llena de Ti///, yo sé que estas aquí,
@@ -774,9 +800,9 @@ como agua fresca que inunda mi ser//
 ///Mi familia está llena de Ti///, yo sé que estas aquí.
 
 CORO 2 VECES
-
-
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 37.- PURIFÍCAME
 
 Enséñame tu camino Señor, y andaré en tu luz,
@@ -787,7 +813,9 @@ Purifícame, límpiame Señor,
 Y líbrame de lo que impida el fluir,
 Purifícame, límpiame Señor,
 Y líbrame de lo que impida el fluir de tu amor.
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 38.- CRISTO NOS ABRIÓ EL CAMINO
 
 Cristo el Salvador nos abrió camino al cielo,
@@ -811,9 +839,9 @@ Oye, pecador, con amor te llama Cristo,
 Si su ley tú guardas, Él te guiará;
 Vivirás con Él pasa siempre allá en los cielos,
 Si servirle quieres Él te salvará.
-
-
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 39.- QUIERO SER COMO TÚ
 
 //Yo quiero ser como tu//,
@@ -838,8 +866,9 @@ Te entrego mi voluntad a ti,
 Todo lo que soy Señor, todo cuanto tengo es tuyo,
 Yo quiero menguar para que crezcas tú//
 //Yo quiero menguar para que crezcas tú//
-
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 40.- TIENEN QUE SABER
 
 Cada día puedo ver, en sus ojos el sufrir,
@@ -864,9 +893,9 @@ En las pruebas y el temor, Él refugio da.
 Tienen que saber del amor de Dios, 
 ///Que en Él hay salvación///
 Tienen que saber.
-
-
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 41.- VICTORIA EN CRISTO
 
 Oí bendita historia, de Jesús quien de su gloria,
@@ -889,7 +918,9 @@ Oí que allá en la gloria, hay mansiones de victoria,
 Que su santa mano preparó, para los que Él salvó.
 Espero unir mi canto, al del grupo sacrosanto,
 Que victorioso rendirá, tributo al Redentor.
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 42.- FIRME FUNDAMENTO
 (Ofrenda)
 
@@ -904,7 +935,9 @@ Tu palabra es firme… Tu palabra es firme,
 Llena de poder… Llena de poder.
 Dios me libertará… Dios me libertará,
 Seguro estoy, seguro estoy.
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 43.- HOMBRES DE VALOR 
 
 Quien irá, abriendo caminos,
@@ -932,16 +965,9 @@ CORO 2 VECES
 
 Hombres entregados, fieles al llamado,
 Todo por la causa del Señor.
-
-
-
-
-
-
-
-
-
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 44.- PORQUE BUENO ES DIOS
 
 Entra con acción de gracias, por sus atrios alabad,
@@ -968,17 +994,9 @@ Para siempre es su misericordia.
 
 Porque bueno es Dios,
 Para siempre es su misericordia.
-
-
-
-
-
-
-
-
-
-
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 45.- CUÁN FIRME CIMIENTO
 
 ¡Cuán firme cimiento se ha dado a la fe,
@@ -1000,8 +1018,9 @@ Al alma que anhele la paz que hay en Mí,
 Jamás en sus luchas la habré de dejar;
 //Si todo el infierno la quiere perder,
 ¡Yo nunca, no, nunca, la puedo olvidar!//
-
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 46.- VIVE EN SANTIDAD
 
 //Vive en santidad sin la cual nadie verá
@@ -1012,10 +1031,9 @@ y no gustar la muerte eterna//
 -2-
 //Vive las palabras de
 Jesús, de Jesús, de Jesús//
-
-
-
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 47.- ¡SOY YO SOLDADO DE LA CRUZ!
 
 ¡Soy yo soldado de la cruz, y siervo del Señor!
@@ -1035,7 +1053,9 @@ Por mi señor yo pelearé, confiando en su poder.
 -3-
 Es menester que sea fiel, que nunca vuelva atrás,
 Que siga siempre en pos de Él, y me guiará en paz.
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 48.- ESTA IGLESIA
 
 Esta iglesia, donde tu presencia hemos sentido,
@@ -1051,8 +1071,9 @@ Preferimos un día morar aquí contigo,
 Que mil fuera con el enemigo, eres nuestra salvación.
 Tu palabra es mi roca, es mi fortaleza,
 Donde alejare toda tristeza; y tendré consolación.
-
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 49.- VALIOSOS EN CRISTO
 
 Cuando pienso en lo que hiciste mi Jesús,
@@ -1071,7 +1092,9 @@ Y nos llevarás al hogar celestial
 Cuando veo las señales por doquier
 Que me muestran que el final muy cerca está,
 Mi corazón rebosa de alegría al saber que pronto volverás.
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 50.- TE NECESITO DIOS
 
 CORO
@@ -1089,7 +1112,9 @@ Puente
 Aquí en tu presencia permaneceré,
 Mi roto corazón encuentra en ti un lugar,
 Y jamás solo estaré.
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 51.- JESÚS, AMADO DE MI ALMA
 
 Jesús, amado de mi alma,
@@ -1101,7 +1126,9 @@ Que Te amo, te necesito,
 Mi precioso Dios, jamás te dejaré,
 Mi salvador, mi mejor amigo,
 Yo te adoraré por la eternidad.
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 52.- ALGO ESTA CAYENDO AQUÍ
 
 //Algo está cayendo aquí
@@ -1116,17 +1143,9 @@ Levantando al caído
 Su gloria está aquí //
 
 Su gloria está aquí
-
-
-
-
-
-
-
-
-
-
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 53.- AL ESTAR ANTE TI
 
 Al estar ante ti, adorando frente al mar de cristal,
@@ -1144,7 +1163,9 @@ Y al que está en el trono sea el honor.
 Santo, Santo, Santo es el Señor,
 Reina por los siglos con poder,
 Todo lo que existe es por Él.
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 54.- AL ESTAR AQUÍ
 
 Al estar en la presencia de tu divinidad,
@@ -1163,7 +1184,9 @@ Postrado ante ti mi corazón te adora oh Dios,
 Y siempre quiero estar para adorar,
 Y contemplar tu Santidad,
 //Te adoro a ti Señor, te adoro a ti//.
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 55.- ANHELO CONOCERTE
 
 //Anhelo conocerte Espíritu Santo,
@@ -1176,7 +1199,9 @@ Como paloma con tu gracia hoy desciende,
 Como aceite derramado úngeme,
 Como fuente de agua viva sacia mi sed,
 Llama de fuego ven y purifícame.
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 56.- BENDICION DIVINA
 
 Que día tan glorioso, cuando Dios me perdonó,
@@ -1198,9 +1223,9 @@ Tengo en el alma, el amor de mi Jesús,
 En mi corazón habita, Santo Espíritu de Dios,
 No te apartes de mi lado, pues siempre te cuidare,
 Eres bendición del cielo que con lágrimas busqué.
-
-
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 57.- BUENO ES DIOS
 
 Bueno es Dios, siempre fiel,
@@ -1222,7 +1247,9 @@ Siempre me dará.
 Puente
 No puedo entender, sus planes para mí,
 Mi dueño eres Tú, y por la fe veo claramente que….
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 58.- CANTA AL SEÑOR
 
 Mi Cristo, mi Rey, nadie es como Tú.
@@ -1236,7 +1263,9 @@ Majestad sea a el rey, montes caerán y el mar rugirá
 Al sonar de su nombre.
 Canto con gozo al mirar tu poder, por siempre yo te amare y diré
 Incomparables promesas me das Señor.
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 59.- CANTEN DEL AMOR DE CRISTO
 
 Canten del amor de Cristo,
@@ -1264,7 +1293,9 @@ Adelante en la lucha,
 ¡Oh, soldados de la fe!
 Nuestro el triunfo, oh, escucha
 Los clamores: ¡Viva el Rey!
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 60.- CON GRATITUD
 
 Hoy quiero a todos contar,
@@ -1288,7 +1319,9 @@ El cada día me da alimento y protección,
 Me revela su palabra, me enseña con amor,
 Conmigo siempre Él está, me socorre en la aflicción,
 Y si tengo alegría me sonríe con tierno amor.
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 61.- CUANDO PIENSO EN TU SANTIDAD
 
 Cuando pienso en tu santidad,
@@ -1303,7 +1336,9 @@ Ante tu gran luz
 -3-
 //Te adoro a ti, Te adoro a ti
 La razón de vivir es adorarte a Ti//
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 62.- DAD GRACIAS
 
 //Dad gracias de corazón,
@@ -1314,7 +1349,9 @@ CORO
 //Y ahora diga el débil fuerte soy,
 Y el pobre rico soy,
 Por lo que Dios ha hecho hoy por mí//.
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 63.- DIA TAN GRANDE
 
 Día tan grande no puedo olvidar, día de gloria sin par.
@@ -1336,9 +1373,9 @@ Me ha preparado un bello rincón, en la mansión celestial.
 Siempre recuerdo con fe y gratitud,
 Al contemplarle en la cruz,
 Que sus heridas me dieron la vida; alabo al bendito Jesús.
-
-
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 64.- DIGNO ES EL SEÑOR
 
 Gracias por la cruz, Dios,
@@ -1360,7 +1397,9 @@ Alta majestad,
 Hijo del gran Dios;
 Tesoro del cielo en la cruz.
 Digno es el Señor.
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 65.- DIOS ESTA AQUÍ
 
 //Dios está aquí, tan cierto como el aire que respiro,
@@ -1374,7 +1413,9 @@ Jesús esta aquí si tú quieres le puedes sentir.
 
 //Santo, Santo, Santo mi corazón te adora,
 Mi corazón sabe decir ///Santo eres Tú///.
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 66.- DIOS HA SIDO BUENO
 
 /// Dios ha sido Bueno ///
@@ -1389,7 +1430,9 @@ Mis manos alzaré, mi vida entregaré
 Mi voz levantaré, bueno es Dios
 Y no me cansaré, de darle todo a Él.
 Yo quiero serle fiel, bueno es Dios.
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 67.- DIOS MANDA LLUVIA
 
 //Dios manda lluvia, derrama de tu Espíritu,
@@ -1401,17 +1444,9 @@ Manda la lluvia, el rocío de tu amor,
 Llenando las vidas de tu pueblo hoy Señor.
 Manda la lluvia, el rocío de tu amor,
 Visita hoy mi vida, cámbiame Señor.
-
-
-
-
-
-
-
-
-
-
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 68.- DULCE REFUGIO
 
 //Dulce refugio en la tormenta es Jesucristo el Salvador,
@@ -1422,7 +1457,9 @@ Vengo a reposar en Él, Él es mi amigo fiel,
 Una poderosa y fresca unción le dará a mi corazón.
 -2-
 Dulce refugio en la tormenta es Jesucristo el Salvador
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 69.- ÉL ES SANTO
 
 Santo, que toda lengua proclame,
@@ -1439,7 +1476,9 @@ CORO
 Grande y excelente  es su nombre,
 Merecedor de toda gloria,
 Santo es  el Señor  Jehová//.
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 70.- ¡ES EXALTADO!
 
 Es exaltado, en lo alto exaltado es el Rey, le alabaré,
@@ -1449,7 +1488,9 @@ CORO
 Él es Señor, por siempre reinará,
 Su creación en Él se gozará,
 Es exaltado, en lo alto exaltado es el Rey.
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 71.- HOSANNA
 
 Veo al Rey de Gloria,
@@ -1476,7 +1517,9 @@ Quiero amarte como tú me amas,
 Muéstrame tu corazón,
 Todo lo que soy, por tu reino Dios,
 Contigo quiero estar por la eternidad.
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 72.- UN HOLOCAUSTO DIGNO
 
 Levanto mis manos, te exalto mi Señor,
@@ -1488,7 +1531,9 @@ CORO
 Quiero ser un sacrificio para ti,
 Y ofrendar mi vida entera, solo a ti,
 Un holocausto digno, yo quiero ser Jesús.
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 73.- LUGAR  SANTISIMO
 
 Señor llévame a tus atrios, al lugar santo,
@@ -1501,7 +1546,9 @@ Llévame al lugar santísimo,
 Por la sangre del cordero redentor.
 Llévame al lugar santísimo,
 Tócame, límpiame, heme aquí.
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 74.- MAGNIFICO
 
 //Magnifico y Poderoso es nuestro Dios,
@@ -1510,7 +1557,9 @@ Su belleza es incomparable//.
 Y toda lengua y nación, sus rodillas doblaran,
 Y postrados reconocerán, solo Tú eres Dios,
 Solo Tú eres Dios.
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 75.- SENDAS DIOS HARÁ
 
 //Sendas Dios hará donde piensas que no hay,
@@ -1522,10 +1571,9 @@ Si camino en la soledad, me guiará,
 Agua en el desierto encontraré,
 La tierra pasará, su palabra eterna es.
 Él hará algo nuevo hoy.
-
-
-
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 76.- MUÉVETE EN MÍ, HAY UNA UNCION
 
 El Espíritu de Dios está en este lugar,
@@ -1545,7 +1593,9 @@ CORO
 //Mi espíritu y mi alma se están llenando,
 Con el poder de tu Espíritu Santo,
 Mi vida nunca más, será igual//.
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 77.- POR EL PODER DE TU AMOR
 
 Vengo a ti Señor, cámbiame, renuévame,
@@ -1564,7 +1614,9 @@ Yo te quiero ver cara a cara oh señor,
 Y conocer así más de Ti en mí,
 Prepárame Señor para hacer Tú voluntad.
 Viviendo cada día  por el poder de tu amor.
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 78.- PORQUE ÉL VIVE
 
 Dios nos envió a su hijo Cristo,
@@ -1587,7 +1639,9 @@ Yo sé que un día el río cruzaré,
 Con el dolor batallaré,
 Y al ver la orilla, triunfando invicta,
 Veré gloriosas nubes y veré al Rey.
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 79.- ¿QUE SERIA DE MÍ?
 
 Que sería de mí sí no me hubieras alcanzado.
@@ -1599,8 +1653,9 @@ Vagaría sin rumbo, sin dirección,
 Sería como un pájaro herido que se muere en el suelo,
 Sería como un siervo que brama por agua en un desierto,
 //Si no fuera por tu gracia y por tu amor//.
-
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 80.- QUIERO LEVANTAR MIS MANOS
 
 Quiero levantar mis manos,
@@ -1613,7 +1668,9 @@ Y me postro en Tu presencia en adoración.
 CORO
 //Hijo de Dios, recibe hoy,
 Toda la gloria la honra y honor//.
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 81.- SÁNANOS
 
 Somos tu pueblo y hoy venimos humillados ante ti,
@@ -1632,12 +1689,9 @@ Somos tus hijos, te pedimos hoy perdón.
 -3-
 Invocamos hoy tu nombre y buscamos tu favor,
 Que tu luz nos alumbre, adorarte a ti Señor.
-
-
-
-
-
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 82.- SANA NUESTRA TIERRA
 
 Vengo a Ti, guíame, santifícame en Ti,
@@ -1654,7 +1708,9 @@ Escucha y perdona mi rebelión.
 //Sana nuestra tierra// (con tu amor).
 Puente
 (Escucha hoy mi oración, a Ti levanto mi clamor).
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 83.- SIENTO LA UNCIÓN
 
 //Siento la unción en este lugar,
@@ -1667,14 +1723,9 @@ Señor estas aquí, sanando mi cuerpo, sé que estas aquí.
 Señor estas aquí, restaurándome,
 Señor estas aquí, prosperándome,
 Señor estas aquí, tocando mi ser, sé que estas aquí.
-
-
-
-
-
-
-
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 84.- SOMOS EL PUEBLO DE DIOS
 
 Somos el pueblo de Dios, somos un pueblo especial,
@@ -1689,7 +1740,9 @@ Y llevaremos Su gloria a cada pueblo y nación,
 Trayéndoles esperanza y nuevas de salvación,
 Y su amor nos impulsa, no nos podemos callar,
 Anunciaremos al mundo, de su amor y verdad.
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 85.- TAL COMO SOY
 
 Tal como soy Señor,
@@ -1704,13 +1757,9 @@ CORO
 //Acéptame como ofrenda de amor,
 Como un sacrificio agradable en tu honor,
 Grato perfume yo quiero ser, Señor//.
-
-
-
-
-
-
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 86.- TE VENGO A BENDECIR
 
 Es más que una canción, es más que palabras,
@@ -1725,7 +1774,9 @@ Sólo vengo a darte mi ofrenda de amor,
 Hoy quiero tocar tu fiel corazón,
 Y darte las gracias mi amado Señor,
 Hoy te vengo a bendecir //a Ti//.
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 87.- TODO SE LO DEBO A ÉL
 Mi despertar y mi atardecer,
 Todo se lo debo a Él,
@@ -1748,8 +1799,9 @@ Y es que todo se lo debo a Él.
 //Todo se lo debo a Él//,
 Mi casa y mi familia y todas mis canciones,
 Todo se lo debo a Él.
-
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 88.- TÓCAME SEÑOR JESÚS
 Cuando vine a Ti, era la arcilla,
 Que los alfareros despreciaron,
@@ -1767,7 +1819,9 @@ Solo era tropiezo en el camino,
 Hasta que tus manos me tocaron.
 
 //Y santifica mi corazón//.
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 89.- ÚNGEME
 
 //Úngeme, úngeme,
@@ -1777,11 +1831,9 @@ Mi corazón anhela Tu presencia,
 Y mi alma desea Tu altar,
 Yo solo quiero recibir un toque tuyo,
 Y que Tu unción me pueda  transformar.
-
-
-
-
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 90.- YO ME RINDO A ÉL
 
 Todo a Cristo yo me rindo,
@@ -1803,7 +1855,9 @@ Todo a Cristo he rendido,
 Siento el fuego de su amor,
 ¡Oh, qué gozo hay en mi alma!,
 Gloria, gloria a mi Señor.
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 91.- CUANDO ALZO MIS MANOS
 
 ///Cuando alzo mis manos Tú me das la victoria,
@@ -1811,13 +1865,9 @@ Cuando canto para Ti  hay libertad,
 Cuando pienso en Tu grandeza,
 Yo siento Tu presencia,
 Y al estar en Tu presencia yo encuentro paz ///.
-
-
-
-
-
-
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 92.- SI DIOS ESTÁ EN ESTE LUGAR
 
 Si Dios está en este lugar fluye un río que trae sanidad,
@@ -1830,10 +1880,9 @@ Yo sé que está en este lugar por eso levantaré mis manos, 
 yo sé que está en este lugar por eso le brindaré mi canto, 
 Yo sé que está en este lugar por eso le brindaré mi mejor ofrenda, 
 Lo puedo sentir tan cerca de mí, Él está en este lugar. 
-
-
-
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 93.- CUAN BELLO ES EL SEÑOR
 
 //Cuan bello es el Señor, Cuan hermoso es el Señor,
@@ -1842,7 +1891,9 @@ Cuan bello es el Señor, hoy le quiero adorar//.
 CORO
 La belleza de mi Señor nunca se agotará,
 La hermosura de mí Señor siempre resplandecerá.
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 94.- DEMOS GRACIAS
 
 //Demos gracias al Señor, demos gracias,
@@ -1852,7 +1903,9 @@ Por las mañanas las aves cantan,
 Sus alabanzas a Cristo el Salvador.
 Y tu mi hermano porque no cantas,
 Tus alabanzas a  Cristo el Salvador.
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 95.- EL GOZO DEL SEÑOR
 
 ///El gozo del Señor, mi fortaleza es///,
@@ -1862,12 +1915,9 @@ Si tienes ese gozo puedes tú cantar,
 Si tienes ese gozo puedes tú orar,
 Si tienes ese gozo puedes tú hablar,
 Y su gozo sin medida Él te da.
-
-
-
-
-
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 96.- HAY LIBERTAD
 Donde está el Espíritu de Dios,
 //Hay libertad//.
@@ -1878,7 +1928,9 @@ Allí siempre libertad.
 ////Libertad////
 Donde está el Espíritu de Dios,
 Allí siempre hay libertad
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 97.- HE DECIDIDO SEGUIR A CRISTO
 
 ///Yo he decidido seguir a Cristo///,
@@ -1891,7 +1943,9 @@ Allí siempre hay libertad
 
 ///Vida eterna Cristo me ha dado///,
 //No vuelvo atrás//.
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 98.- MI PENSAMIENTO ERES TÚ
 
 Mi pensamiento eres tú, Señor,
@@ -1903,7 +1957,9 @@ Mi pensamiento eres Tú.
 Porque tú me has dado el perdón,
 Porque tú me has dado el cariño,
 Me has dado amor//.
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 99.- QUIEN COMO JEHOVÁ
 
 //¿Quien, quién, quién como Jehová?,
@@ -1920,7 +1976,9 @@ Su pueblo le alabará, con panderos danzarán,
 Jinete y caballo hecho a la mar//.
 
 Hecho a la mar los carros del faraón…
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 100.- TOCA EN SIÓN, BUENOS ES, BENDECID AL SEÑOR
 
 //Toca en Sión la trompeta, suénala en los montes,
@@ -1941,15 +1999,18 @@ Y junto a Él me hace sentar.
 
 De compasión me cubre, me llena de su amor,
 De toda cosa buena me bendice el Señor.
-
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 101.- SACRIFICIO DE ALABANZA
 
 //Traemos sacrificio de alabanza a la casa del Señor//
 
 Ofrecemos ante Ti, sacrificio de gratitud
 Ofrecemos ante Ti, sacrificio de amor
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 102.- VIVE EN SANTIDAD
 
 //Vive en santidad sin la cual nadie verá
@@ -1961,35 +2022,13 @@ y no gustar la muerte eterna//
 -2-
 //Vive las palabras de
 Jesús, de Jesús, de Jesús//
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 103.- YO CELEBRARE
 //Yo celebrare cantare a El
 Cantare un nuevo canto//
 
 //Alabare a Jehová
 Porque Él ha vencido con poder//
-
-
-
-NUESTRO ESFUERZO
-
-Ser Cristiano es, ser semejante a Cristo. Confiando en Cristo, como un discípulo de Cristo. Tener la fe de Jesucristo. Tener el Espíritu de Cristo: el Espíritu Santo, y fuego.
-
-Llevar los frutos del Espíritu de Cristo. Amar a Cristo, mediante la obediencia a las palabras de Jesús el Cristo.
-
-Hacer las obras de Cristo como un creyente en Cristo. Vivir en Cristo, vivir los mandamientos de Jesús el Cristo.
-
-Predicar a Cristo: la doctrina de Cristo. Vivir por fe en Cristo como fiel discípulo de Cristo. Vencer al mundo, a fin de permanecer en Cristo. Santificado para la obra de Cristo, lleno de la naturaleza divina de Cristo. Santo, libre de pecado, sellado y salvado para la gloria de Cristo. Que el esfuerzo supremo sea ganar almas, discípulos para Cristo, dejando el resultado del futuro a Cristo.
-
-Cristo Jesús: nuestro todo en todo.
-
-
-
-
-
-
-
-
-
-
-
+`,track:"",demo:""}]

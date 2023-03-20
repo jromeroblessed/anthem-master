@@ -1,3 +1,6 @@
+export const coritos = [
+{id:1,title:"1  .- GEDEON Y SUS TRESCIENTOS ", anthem:
+`
 1.- ADORACIÓN
 
 Quiero levantar mis manos,
@@ -11,8 +14,9 @@ En adoración.
 CORO
 Hijo de Dios, recibe hoy,
 Toda la gloria, la honra y honor.
-
-
+`,track:"",demo:""},
+{id:2,title:"2.- ALABARE", anthem:
+`
 2.- ALABARE
 
 Alabad a Jehová, naciones todas,
@@ -38,7 +42,9 @@ Que me ama, que me ama,
 Que me ama con su tierno amor.
 Que me ama, que me ama,
 Su nombre es Jesús.
-
+`,track:"",demo:""},
+{id:3,title:"3.- CUANDO TE CONOCÍ", anthem:
+`
 3.- CUANDO TE CONOCÍ
 
 Cuando te conocí,
@@ -64,7 +70,9 @@ El no pidió sacrificio,
 Porque El mismo se entregó.
 Y se dio como holocausto,
 Para mi propiciación.
-
+`,track:"",demo:""},
+{id:4,title:"4.- CUAN BELLO", anthem:
+`
 4.- CUAN BELLO
 
 //: Cuán bello es el Señor,
@@ -77,7 +85,9 @@ CORO
 Nunca se agotará.
 La hermosura de mi Señor,
 Siempre resplandecerá ://
-
+`,track:"",demo:""},
+{id:5,title:"5.- DA UN PASO", anthem:
+`
 5.- DA UN PASO
 
 Si has sentido el toque de su mano,
@@ -95,7 +105,9 @@ Si eres preso de recuerdos malos,
 Mas tu corazón hoy se ha ablandado,
 Tu oportunidad de hacer un cambio
 Ha llegado,    Ven... da un paso.
-
+`,track:"",demo:""},
+{id:6,title:"6.- DAME LA MANO", anthem:
+`
 6.- DAME LA MANO
 
 No me importa a la iglesia que tú vayas,
@@ -106,7 +118,9 @@ Dame la mano y mi hermano serás.
 CORO
 //: Dame la mano, querido hermano.
 Dame la mano y mi hermano serás ://
-
+`,track:"",demo:""},
+{id:7,title:"7.- DÉJAME SEGUIRTE", anthem:
+`
 7.- DÉJAME SEGUIRTE
 
 Déjame seguirte, Cristo,
@@ -137,7 +151,9 @@ Para serle siempre fiel.
 
 Letra y Música
 Francisco Lozano
-
+`,track:"",demo:""},
+{id:8,title:"8.- DEMOS GRACIAS", anthem:
+`
 8.- DEMOS GRACIAS
 
 //: Demos gracias al señor, demos gracias,
@@ -147,8 +163,9 @@ Por la mañana, las aves cantan,
 Sus alabanzas a Cristo, el Salvador.
 Y tú, mi hermano, porqué no cantas
 Tus alabanzas a Cristo, el Salvador.
-
-
+`,track:"",demo:""},
+{id:9,title:"9.- DIOS NOS TRAJO", anthem:
+`
 9.- DIOS NOS TRAJO
 
 Dios no nos trajo hasta aquí,
@@ -161,8 +178,9 @@ Aunque el gigante se encuentre aquí,
 Yo nunca temeré.
 Nos trajo aquí, a poseer
 La tierra que El nos dio.
-
-
+`,track:"",demo:""},
+{id:10,title:"10.- EN EL HOGAR", anthem:
+`
 10.- EN EL HOGAR
 
 //: En el hogar, en el hogar,
@@ -171,7 +189,9 @@ En el hogar, tú necesitas a Jesús ://
 //: Mira qué feliz se vive,
 Mira qué feliz se vive,
 Con Jesús en el hogar ://
-
+`,track:"",demo:""},
+{id:11,title:"11.- EL GOZO DEL SEÑOR", anthem:
+`
 11.- EL GOZO DEL SEÑOR
 
 El gozo del Señor, mi fortaleza es,
@@ -183,8 +203,9 @@ Si tienes ese gozo puedes tú cantar,
 Si tienes ese gozo puedes tú orar,
 Si tienes ese gozo puedes tú hablar,
 Y su gozo sin medida El te da.
-
-
+`,track:"",demo:""},
+{id:12,title:"12.- ESTAMOS JUNTOS", anthem:
+`
 12.- ESTAMOS JUNTOS
 
 Estamos juntos otra vez,
@@ -201,7 +222,9 @@ Todo el tiempo le adoro,
 Porque su amor me rodea como el mar.
 Le cantaré a su nombre, adoraré a su nombre,
 Con alabanzas y amenes a nuestro Dios.
-
+`,track:"",demo:""},
+{id:13,title:"13.- HAZME MAS SANTO", anthem:
+`
 13.- HAZME MAS SANTO
 
 //: Toma mi vida, tómala hoy
@@ -215,7 +238,9 @@ Tu pueblo anhela tu santidad.
 
 //: Llena mi vida, llénala hoy
 Y santifica mi corazón ://
-
+`,track:"",demo:""},
+{id:14,title:"14.- LEMA 1939", anthem:
+`
 14.- LEMA 1939
 
 //: Sólo soy uno, pero soy uno.
@@ -224,7 +249,9 @@ Pero algo puedo hacer.
 Lo que puedo hacer, lo debo hacer,
 Y lo que debo hacer,
 Con la ayuda de Dios, lo haré ://
-
+`,track:"",demo:""},
+{id:15,title:"15.- LEMA DE 1940", anthem:
+`
 15.- LEMA DE 1940
 
 ¡Oh! Señor, ayúdame a ganar
@@ -235,7 +262,9 @@ CORO
 //: Para Jesús hoy, para Jesús hoy,
 A ganar un alma para Jesús hoy,
 A ganar un alma para Jesús hoy ://
-
+`,track:"",demo:""},
+{id:16,title:"16.- LEMA 1946", anthem:
+`
 16.- LEMA 1946
 
 //: Vive en santidad sin la cual
@@ -247,7 +276,9 @@ Gustar la muerte eterna ://
 
 //: Vive las palabras de Jesús,
 De Jesús, de Jesús ://
-
+`,track:"",demo:""},
+{id:17,title:"17.- LEMA 1987", anthem:
+`
 17.- LEMA 1987
 
 Estando perdido, me encontraste,
@@ -259,7 +290,9 @@ Y estando muerto, vida me diste.
 Y Dios para mí,
 Y nada, ni nadie me podrán apartar
 De Ti, de Ti ://
-
+`,track:"",demo:""},
+{id:18,title:"18.- LLÉNAME", anthem:
+`
 18.- LLÉNAME
 
 Como el siervo busca por las aguas,
@@ -272,7 +305,9 @@ Lléname, lléname Señor;
 Dame más, más de tu amor.
 Yo tengo sed, sólo de Ti.
 Lléname, Señor.
-
+`,track:"",demo:""},
+{id:19,title:"19.- ME GOZARE", anthem:
+`
 19.- ME GOZARE
 
 //: Me gozaré, me alegraré,
@@ -290,7 +325,9 @@ Me gozaré, me alegraré,
 Y cantaré al Señor,
 Porque han llegado las bodas
 Del cordero de Dios.
-
+`,track:"",demo:""},
+{id:20,title:"20.- MI OFRENDA DOY / SI TODOS TRABAJAMOS", anthem:
+`
 20.- MI OFRENDA DOY / SI TODOS TRABAJAMOS
 
 //: Mi ofrenda doy, mi ofrenda doy,
@@ -306,8 +343,9 @@ Si todos cooperamos unidos, unidos,
 Si todos cooperamos, qué gozo será.
 Tu obra es mi obra, la obra es de Dios,
 Si todos cooperamos, qué gozo será.
-
-
+`,track:"",demo:""},
+{id:21,title:"21.- MI PENSAMIENTO ERES TU", anthem:
+`
 21.- MI PENSAMIENTO ERES TU
 
 Mi pensamiento eres Tú, Señor,
@@ -320,7 +358,9 @@ CORO
 Porque Tú me has dado el perdón.
 Porque Tú me has dado el cariño,
 Me has dado amor. ://
-
+`,track:"",demo:""},
+{id:22,title:"22.- NO ES NECESARIO", anthem:
+`
 22.- NO ES NECESARIO
 
 //: No, no es necesario
@@ -343,7 +383,9 @@ Me basta con saber que estás aquí,
 Visible a los ojos del amor,
 Visible a los ojos del corazón,
 Sensible a la voz de mi clamor.
-
+`,track:"",demo:""},
+{id:23,title:"23.- ¡OH, JERUSALEM!", anthem:
+`
 23.- ¡OH, JERUSALEM!
 
 //: Oh, Jerusalén!, qué bonita eres
@@ -351,7 +393,9 @@ Calles de oro, mar de cristal ://
 
 //: Por esas calles, yo voy a caminar
 Calles de oro, mar de cristal ://
-
+`,track:"",demo:""},
+{id:24,title:"24.- QUE VIVA CRISTO", anthem:
+`
 24.- QUE VIVA CRISTO
 
 ///: Viva la fe, viva la esperanza,
@@ -363,8 +407,9 @@ Que viva el Rey!
 CORO
 //: ¡Que viva Cristo, que viva Cristo,
 Que viva Cristo, que viva el Rey! ://
-
-
+`,track:"",demo:""},
+{id:25,title:"25.- QUIERO SER COMO TU", anthem:
+`
 25.- QUIERO SER COMO TU
 
 De gloria en gloria te veo,
@@ -380,7 +425,9 @@ Quiero ser más como Tú,
 Ver la vida como Tú.
 Saturarme de tu Espíritu,
 Y reflejar al mundo tu amor.
-
+`,track:"",demo:""},
+{id:26,title:"26.- RENUÉVAME", anthem:
+`
 26.- RENUÉVAME
 
 Renuévame, Señor Jesús,
@@ -395,9 +442,9 @@ Necesita ser cambiado, Señor,
 Porque todo lo que hay
 Dentro de mi corazón,
 Necesita más de Ti.
-
-
-
+`,track:"",demo:""},
+{id:27,title:"27.- REPOSA", anthem:
+`
 27.- REPOSA
 
 //: Reposa, alma mía, en Jehová ://
@@ -418,7 +465,9 @@ Reposa, cuerpo mío, en Jehová.
 Reposa, alma mía, en Jehová.
 Reposa, mente mía, en Jehová.
 Reposa, cuerpo mío, en Jehová.
-
+`,track:"",demo:""},
+{id:28,title:"28.- SANTA UNCIÓN", anthem:
+`
 28.- SANTA UNCIÓN
 
 //: Úngeme con tu aceite santo,
@@ -430,8 +479,9 @@ Lávame cada día más ://
 Guárdame cada día más.
 Cúbreme con tus tiernos brazos,
 Guárdame cada día más ://
-
-
+`,track:"",demo:""},
+{id:29,title:"29.- TE ALABO", anthem:
+`
 29.- TE ALABO
 
 Con mis labios y mi vida,
@@ -446,9 +496,9 @@ Porque Tú has sido precioso para mí,
 Precioso para mí, precioso para mí,
 Porque Tú has sido precioso para mí,
 Por eso te alabo, Señor.
-
-
-
+`,track:"",demo:""},
+{id:30,title:"30.- TE EXALTAMOS", anthem:
+`
 30.- TE EXALTAMOS
 
 //: Porque Tú, Jehová, eres excelso
@@ -461,8 +511,9 @@ Te exaltamos, te exaltamos,
 Te exaltamos, ¡mi, Señor!
 Te adoramos, te adoramos,
 Te adoramos, ¡mi, Señor!
-
-
+`,track:"",demo:""},
+{id:31,title:"31.- TÓCAME SEÑOR", anthem:
+`
 31.- TÓCAME SEÑOR
 
 Cuando vine a Ti, era la arcilla
@@ -479,8 +530,9 @@ Cuando vine a Ti, era la piedra
 Que los escultores no miraron,
 Sólo era tropiezo en el camino,
 Hasta que tus manos me tocaron.
-
-
+`,track:"",demo:""},
+{id:32,title:"32.- TOMA MI CORAZÓN", anthem:
+`
 32.- TOMA MI CORAZÓN
 
 Toma mi corazón, hazlo fiel a Ti;
@@ -489,8 +541,9 @@ Toma mi corazón, que sea como Tú.
 CORO
 Tú el alfarero, yo el barro soy.
 Moldéame y hazme. Esa es mi oración.
-
-
+`,track:"",demo:""},
+{id:33,title:"33.- VEN", anthem:
+`
 33.- VEN
 
 Ven, contempla el cielo azul,
@@ -503,8 +556,9 @@ En nuestras vidas.
 Comenzar una etapa de amor...
 Tú también cantarás aleluya,
 Aleluya, gloria a Dios.
-
-
+`,track:"",demo:""},
+{id:34,title:"34.- VEN Y DELÉITATE", anthem:
+`
 34.- VEN Y DELÉITATE
 
 //: ¡Oh, ven!, ven y deléitate
@@ -518,8 +572,9 @@ Espera sólo en El, y El hará.
 //¡Oh, ven!, ven y deléitate
 En el Señor y El te concederá,
 Las peticiones de tu corazón//
-
-
+`,track:"",demo:""},
+{id:35,title:"35.- VENIMOS ANTE TI", anthem:
+`
 35.- VENIMOS ANTE TI
 
 //: Venimos ante Ti, Señor,
@@ -528,7 +583,9 @@ Llenos de alabanza y de adoración ://
 //: Porque Tú eres Rey de reyes,
 Y Señor de señores.
 Tú eres digno de que todos te adoren ://
-
+`,track:"",demo:""},
+{id:36,title:"36.- DAD A JEHOVÁ", anthem:
+`
 36.- DAD A JEHOVÁ
 
 //: Dad a Jehová cántico nuevo,
@@ -537,9 +594,9 @@ Porque ha hecho grandes maravillas ://
 CORO
 //: Exaltad a Dios y aplaudid,
 Porque ha hecho grandes maravillas ://
-
-
-
+`,track:"",demo:""},
+{id:37,title:"37.- DANOS UN POQUITO", anthem:
+`
 37.- DANOS UN POQUITO
 
 Indignos, somos indignos
@@ -563,8 +620,9 @@ Hoy venimos a entregarte
 Alma cuerpo y corazón,
 Y no nos cansaremos
 De clamarte, de pedirte un favor.
-
-
+`,track:"",demo:""},
+{id:38,title:"38.- MIL GRACIAS", anthem:
+`
 38.- MIL GRACIAS
 
 //: Mil gracias yo te doy, Señor,
@@ -577,8 +635,9 @@ CORO
 El pobre diga: «Rico soy».
 Por lo que Dios ha hecho
 En mí, y en ti, mil gracias. ://
-
-
+`,track:"",demo:""},
+{id:39,title:"39.- OFRENDAS DE AMOR", anthem:
+`
 39.- OFRENDAS DE AMOR
 
 Muchos son los bienes
@@ -599,7 +658,9 @@ Grandes son, grandes son.
 Grandes bendiciones
 El Señor me dio,
 Grandes, grandes son.
-
+`,track:"",demo:""},
+{id:40,title:"40.- AUN QUEDA UN REPOSO", anthem:
+`
 40.- AUN QUEDA UN REPOSO
 
 // : Pensando en mí lo hiciste,
@@ -610,7 +671,9 @@ Descanso celestial. : //
 Aún queda un reposo, gloria a Dios.
 Aún queda un reposo, para Dios.
 Símbolo de eterno descanso celestial.
-
+`,track:"",demo:""},
+{id:41,title:"41. - PURIFICAME", anthem:
+`
 41. - PURIFICAME
 
 Enséñame tu camino, Señor,
@@ -623,7 +686,9 @@ Y líbrame de lo que impida el fluir.
 Purifícame, límpiame, Señor,
 Y líbrame de lo que impida
 El fluir de tu amor.
-
+`,track:"",demo:""},
+{id:42,title:"42.- CANTARE AL SEÑOR", anthem:
+`
 42.- CANTARE AL SEÑOR
 
 //Cantaré al Señor por siempre
@@ -640,14 +705,18 @@ Mi Padre es Dios, y le exaltaré //
 
 Echó a la mar los carros de faraón.
 La.la.la...
-
+`,track:"",demo:""},
+{id:43,title:"43.- TU FIDELIDAD", anthem:
+`
 43.- TU FIDELIDAD
 
 //Tu fidelidad, es grande.
 Tu fidelidad incomparable es.
 Nadie como tú, bendito Dios.
 Grande es tu fidelidad //
-
+`,track:"",demo:""},
+{id:44,title:"44.- CRISTO EN FAMILIA", anthem:
+`
 44.- CRISTO EN FAMILIA
 
 //Cristo en familia
@@ -663,7 +732,9 @@ Lágrimas en pleno gozo
 El cambió,
 El lamento en danza,
 Jesús cambió.
-
+`,track:"",demo:""},
+{id:45,title:"45.- OH ADONAI", anthem:
+`
 45.- OH ADONAI
 
 ¡¡ Haz cambiado mi lamento en baile
@@ -677,7 +748,9 @@ Los cielos cuentan tu gloria
 tus hijos hoy te adoran
 Por todas tus maravillas,
 Adonai, oh Adonai
-
+`,track:"",demo:""},
+{id:46,title:"46.- CON MI DIOS", anthem:
+`
 46.- CON MI DIOS
 
 //Con mi Dios yo saltaré los muros.
@@ -688,8 +761,9 @@ Puedo tomar con mis manos el arco de bronce.
 El es escudo la roca mía,
 El es la fuerza de mi salvación,
 Mi alto refugio mi fortaleza, El es, mi libertador.
-
-
+`,track:"",demo:""},
+{id:47,title:"47.- HABITAR JUNTOS", anthem:
+`
 47.- HABITAR JUNTOS
 
 //Mirad cuan bueno es
@@ -698,15 +772,17 @@ Habitar juntos en unidad .//
 
 //Por que ahí Dios envía bendición
 Y vida eternal .//
-
-
+`,track:"",demo:""},
+{id:48,title:"48.- FE", anthem:
+`
 48.- FE
 
 Fe, fe, fe un poquito de fe //.
 No tiene necesidad de gran cantidad
 Fe, fe ,fe un poquito de fe .
-
-
+`,track:"",demo:""},
+{id:49,title:"49.- TU ERES EL GOZO", anthem:
+`
 49.- TU ERES EL GOZO
 
 Porque tu eres el gozo de mi corazón
@@ -718,8 +794,9 @@ Tú eres mi roca
 Mi torre fuerte
 Y en todo tiempo yo
 En ti me gozaré
-
-
+`,track:"",demo:""},
+{id:50,title:"50.- SOLO TU ERES SANTO", anthem:
+`
 50.- SOLO TU ERES SANTO
 
 Solo tú eres santo
@@ -730,8 +807,9 @@ Derrama tu espíritu
 Y que tu luz brille
 Que tu gloria llene
 Ahora mismo este lugar.
-
-
+`,track:"",demo:""},
+{id:51,title:"51.- UN ABOGADO", anthem:
+`
 51.- UN ABOGADO
 
 Yo tengo un abogado que me defiende
@@ -739,16 +817,18 @@ El nunca está ocupado siempre me atiende
 El nunca pierde un caso todos los gana
 Si alguno le interesa saber su nombre
 Cristo se llama
-
-
+`,track:"",demo:""},
+{id:52,title:"52.- HAY QUE NACER", anthem:
+`
 52.- HAY QUE NACER
 
 Oh, oh, oh hay que nacer de nuevo
 Oh, oh, oh hay que nacer del espíritu de Dios
 Oh, oh, oh  hay que nacer del agua y del espíritu
 hay que nacer de Dios
-
-
+`,track:"",demo:""},
+{id:53,title:"53.- TEMPLO", anthem:
+`
 53.- TEMPLO
 
 No sabes, no sabes que somos
@@ -758,20 +838,25 @@ Lleno de paz, lleno de amor
 Y de alabanza.
 Somos el templo del espíritu
 De Dios
-
-
+`,track:"",demo:""},
+{id:54,title:"54.- QUIERO SER COMO TÚ", anthem:
+`
 54.- QUIERO SER COMO TÚ
 
 //Yo quiero ser como Tú //
 Yo quiero ser un vaso de tu amor,
 Yo quiero ser como Tú.
+`,track:"",demo:""},
+{id:55,title:"55.- REY DE REYES", anthem:
+`
 55.- REY DE REYES
 
 ¡¡ Rey de reyes Señor de Señores Gloria aleluya, ¡¡
 
 ¡¡ Cristo Príncipe de Paz gloria aleluya ¡¡
-
-
+`,track:"",demo:""},
+{id:56,title:"56.- LIBERTAD", anthem:
+`
 56.- LIBERTAD
 
 Donde está el Espíritu de Dios
@@ -782,8 +867,9 @@ Allí siempre hay libertad
 Libertad, libertad, libertad, libertad
 Donde está el Espíritu de Dios
 allí siempre hay libertad
-
-
+`,track:"",demo:""},
+{id:57,title:"57.- HAY UNA FUENTE", anthem:
+`
 57.- HAY UNA FUENTE
 
 //Hay una fuente en mí,
@@ -793,7 +879,9 @@ dentro de mí //
 
 //Es un río de alabanza y de adoración
 Dirigido hacia ti Señor Jesús, recíbelo //
-
+`,track:"",demo:""},
+{id:58,title:"58.- SU MISERICORDIA", anthem:
+`
 58.- SU MISERICORDIA
 
 // Porque para siempre, Dios,
@@ -808,8 +896,9 @@ Más vasta que el ancho mar,
 Más alta que el cielo está,
 Porque para siempre, Dios,
 Tu misericordia es.
-
-
+`,track:"",demo:""},
+{id:59,title:"59.- YO ME RINDO A EL", anthem:
+`
 59.- YO ME RINDO A EL
 
 Todo a Cristo yo me entrego
@@ -822,15 +911,18 @@ Yo me rindo a El,
 Yo me rindo a El,
 Todo a Cristo yo me entrego
 Quiero serle fiel.
-
+`,track:"",demo:""},
+{id:60,title:"60.- QUIERO LLENAR", anthem:
+`
 60.- QUIERO LLENAR
 
 Quiero llenar tu trono de alabanza.
 Quiero llenar tu trono de Adoración.
 Quiero adorar, postrarme en tu prescencia
 y proclamarte Señor.
-
-
+`,track:"",demo:""},
+{id:61,title:"61.- MI REFUGIO", anthem:
+`
 61.- MI REFUGIO
 
 Propicio eres Señor para mí,
@@ -842,8 +934,9 @@ CORO
 //Eres mi refugio fuerte Dios,
 Con tu amor soy más que vencedor,
 Hoy mi vida está completa en ti.//
-
-
+`,track:"",demo:""},
+{id:62,title:"62.-  SUMERGEME", anthem:
+`
 62.-  SUMERGEME
 
 Cansado del camino, sediento de ti,
@@ -857,7 +950,9 @@ CORO
 Sumérgeme en el rio de tu Espíritu
 Necesito refrescar este seco corazón
 sediento de ti.
-
+`,track:"",demo:""},
+{id:63,title:"63.-  ME GOZARE EN TU PRESENCIA", anthem:
+`
 63.-  ME GOZARE EN TU PRESENCIA
 
 //Me gozaré en tu prescencia Jehová,
@@ -867,7 +962,9 @@ CORO
 Ante ti con gozo, cantaré,
 Con alergre danza celebraré
 Cantaré y me gozaré.
-
+`,track:"",demo:""},
+{id:64,title:"64.- TU ERES EL REY", anthem:
+`
 64.- TU ERES EL REY
 
 Tú eres el Rey, eterno es tu reino
@@ -882,7 +979,9 @@ Con tu poder y autoridad, venciste al enemigo,
 Hoy mi gloria en tu victoria está.
 Y con tu axcelsa autoridad, haz declarado tu verdad.
 Tu gran poder has hecho ver, Señor
-
+`,track:"",demo:""},
+{id:65,title:"65.- QUIEN ES COMO TÚ", anthem:
+`
 65.- QUIEN ES COMO TÚ
 
 //Quién es como tú, oh Dios eres sin igual.
@@ -897,8 +996,9 @@ Tu poder la victoria ganó.
 Dios es guerrero,
 Su nombre es El Señor.
 Y yo le adoraré por siempre.
-
-
+`,track:"",demo:""},
+{id:66,title:"66.- SANTO ES TU NOMBRE", anthem:
+`
 66.- SANTO ES TU NOMBRE
 
 Tú habitas en la alabanza de tu pueblo.
@@ -911,7 +1011,9 @@ Santo es tu nombre oh Dios,
 Santo ers tú.
 La creación declara tu gloria.
 Santo eres Tú
-
+`,track:"",demo:""},
+{id:67,title:"67.- TODA LA TIERRA", anthem:
+`
 67.- TODA LA TIERRA
 
 Toda la tierra adorará
@@ -926,8 +1028,9 @@ CORO
 Declaramos que tú eres Dios//
 
 //Tú eres Dios//
-
-
+`,track:"",demo:""},
+{id:68,title:"68.- EN LA TIERRA HABRÁ", anthem:
+`
 68.- EN LA TIERRA HABRÁ
 
 //En la tierra habrá,
@@ -939,8 +1042,9 @@ Ve, proclamalo entre las naciones.
 Y da a conocer de Su reino.
 Su pueblo sin temor, proclama al Señor
 Y la tierra de su gloria llenará.
-
-
+`,track:"",demo:""},
+{id:69,title:"69.- LOS MURON CAEN", anthem:
+`
 69.- LOS MURON CAEN
 
 Los muros caen, los muros caen
@@ -952,8 +1056,9 @@ Se derrumban fortalezas
 CORO
 El Señor entregó en mis manos Jericó,
 Grita, ¡hey! Toca la trompeta.
-
-
+`,track:"",demo:""},
+{id:70,title:"70.- DAME MAS DE TI", anthem:
+`
 70.- DAME MAS DE TI
 
 Vengo a Ti hoy Señor
@@ -969,7 +1074,9 @@ Dame, dame, dame más de Ti
 Bendito Señor
 Dame, dame, dame más de Ti
 Quiero más de Ti
-
+`,track:"",demo:""},
+{id:71,title:"71.- A CRISTO SOLO A CRISTO", anthem:
+`
 71.- A CRISTO SOLO A CRISTO
 
 A Cristo sólo a Cristo,
@@ -982,8 +1089,9 @@ Porque El me ha dado el poder
 Porque El me ha dado la victoria
 El es mi Rey.
 A Cristo he proclamado Rey
-
-
+`,track:"",demo:""},
+{id:72,title:"72.- LLEVAME AL LUGAR SANTISIMO", anthem:
+`
 72.- LLEVAME AL LUGAR SANTISIMO
 
 Señor llévame a tus atrios
@@ -1000,7 +1108,9 @@ Llévame al lugar Santísimo
 Por la sangre del Cordero Redentor
 Llévame al lugar Santísimo
 Tócame, límpiame, heme aquí
-
+`,track:"",demo:""},
+{id:73,title:"73.- TE EXALTAMOS, OH SEÑOR", anthem:
+`
 73.- TE EXALTAMOS, OH SEÑOR
 
 Te exaltamos sobre un trono de alabanza,
@@ -1016,8 +1126,9 @@ Majestuosamente reinas sin igual
 Tú eres poderoso Dios
 Te proclamaré, te exaltaré
 Tú eres el Rey sobre mi corazón
-
-
+`,track:"",demo:""},
+{id:74,title:"74.- GRANDE ES EL SEÑOR", anthem:
+`
 74.- GRANDE ES EL SEÑOR
 
 // Grande es el Señor, maravillosos sus prodigios
@@ -1029,7 +1140,9 @@ Para vencer //
 Pues ha cambiado mi lamento en baile
 Pues ha cambiado mi lamento en baile
 Grande es el Señor //
-
+`,track:"",demo:""},
+{id:75,title:"75.- .TU HABITAS", anthem:
+`
 75.- .TU HABITAS
 
 // Tú eres Dios, eres Rey
@@ -1046,8 +1159,9 @@ Tu Santidad //
 Hijo de Dios
 Tú eres Digno, Digno, Digno
 Altísimo Señor //
-
-
+`,track:"",demo:""},
+{id:76,title:"76.- EN TI", anthem:
+`
 76.- EN TI
 
 // En Ti, confía mi corazón
@@ -1059,6 +1173,9 @@ Puedo ser feliz //
 Tu perfecta Voluntad
 En mi vida estás obrando
 Tu perfecta Voluntad //
+`,track:"",demo:""},
+{id:77,title:"77.- CUAN GLORIOSA SERA LA MAÑANA", anthem:
+`
 77.- CUAN GLORIOSA SERA LA MAÑANA
 
 Cuán gloriosa será la mañana
@@ -1086,11 +1203,9 @@ El cristiano fiel y verdadero
 Y también el obrero de valor
 Y la Iglesia esposa del Cordero
 Estarán en los brazos del Señor
-
-
-
-
-
+`,track:"",demo:""},
+{id:78,title:"78.- ANGELES LLEGANDO", anthem:
+`
 78.- ANGELES LLEGANDO
 
 Si,  sentir un murmullo muy cerca de ti
@@ -1116,8 +1231,9 @@ siente la brisa del vuelo
 de tu ángel ahora, confía hermano
 pues ésta es tu hora
 la bendición llegó y te la vas a llevar
-
-
+`,track:"",demo:""},
+{id:79,title:"79.- TOMA MI CORAZON", anthem:
+`
 79.- TOMA MI CORAZON
 
 // Toma mi corazón
@@ -1131,8 +1247,9 @@ Tú el alfarero
 Yo el barro soy
 Moldea y hazme
 Esa es mi oración
-
-
+`,track:"",demo:""},
+{id:80,title:"80.- DIOS ESTA AQUI", anthem:
+`
 80.- DIOS ESTA AQUI
 
 Dios está aquí
@@ -1149,14 +1266,18 @@ Le puedes sentir a tu lado en este mismo instante
 Le puedes sentir muy adentro de tu corazón
 Le puedes sentir en ese problema que tienes
 Jesús está aquí, si tú quieres le puedes sentir
-
+`,track:"",demo:""},
+{id:81,title:"81.- YO QUIERO SER AMANTE", anthem:
+`
 81.- YOQUIERO SER AMANTE
 
 // Yo quiero ser, señor amante
 Como el barro en las manos del alfarero
 Toma mi vida y hazla de nuevo
 Yo quiero ser, yo quiero ser un vaso nuevo //
-
+`,track:"",demo:""},
+{id:82,title:"82.- YO VINE A ADORAR A DIOS", anthem:
+`
 82.- YO VINE A ADORAR A DIOS
 
 Qué viniste hacer aquí
@@ -1166,7 +1287,9 @@ Yo vine, yo vine, yo vine a adorar a Dios
 Qué viniste hacer aquí
 Yo vine a alabar a Dios
 Yo vine, yo vine, yo vine a adorar a Dios
-
+`,track:"",demo:""},
+{id:83,title:"83.- VENGO ANTE TI", anthem:
+`
 83.- VENGO ANTE TI
 
 Vengo ante tí Señor
@@ -1180,7 +1303,9 @@ Cristo mi rey, Cristo mi Señor
 Cristo a quién yo adoraré
 Eres mi paz, eres mi amor
 Por la eternidad te adoraré
-
+`,track:"",demo:""},
+{id:84,title:"84.- NADA ME SEPARARA", anthem:
+`
 84.- NADA ME SEPARARA
 
 Nada me separará de tí Señor
@@ -1194,7 +1319,9 @@ Jesús en tí siempre confiaré
 Jesús siempre contigo yo caminaré
 Mi enfermedad, ni comodidad, ni aún la misma muerte
 Nada me separará de tí
-
+`,track:"",demo:""},
+{id:85,title:"85.- ORANDO SIN CESAR", anthem:
+`
 85.- ORANDO SIN CESAR
 
 Orando sin cesár venceremos
@@ -1207,7 +1334,9 @@ Venceré, porque él está conmigo
 Vencerás porque él contigo está
 Venceré, venceré, vencerás, vencerás
 Venceremos en el nombre del señor
-
+`,track:"",demo:""},
+{id:86,title:"86.- TE AMO", anthem:
+`
 86.- TE AMO
 
 Ahora que estoy en tu presencia
@@ -1220,4 +1349,5 @@ Te amo, te amo, No quiero ser más yo
 Se todo tú Señor
 Te amo, te amo, solo en tí encontré
 perfecto amor.
+`,track:"",demo:""}];
 
