@@ -29,6 +29,7 @@ const SelectedHymn = ({ selectedHimnal }) => {
                 <pre>
                   <em style={{ fontSize: textSize }}>{selectedHimnal.anthem}</em>
                 </pre>
+                { selectedHimnal.track && (
                 <div className='row'>
                   <div className='form-group col-md-6'>
                     <label className='lbl'>Pista</label>
@@ -66,6 +67,7 @@ const SelectedHymn = ({ selectedHimnal }) => {
                     </div>
                   </div>
                 </div>
+                )}
               </div>
             ) : (
               <h2>No anthem selected</h2>
