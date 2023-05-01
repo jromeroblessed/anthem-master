@@ -53,6 +53,31 @@ pre {
    
 }
 
+.btn-scc {
+  color: #fff !important;
+  background: #011b41 !important;
+  border-color: #011b41 !important;
+}
+.btn-scc:hover {
+  background:#022861 !important;
+  border-color: #033580 !important;
+}
+
+.btn-scc2 {
+  color: #2F4858 !important;
+  background: #FFC824 !important;
+  border-color: #FFC824 !important;
+}
+.btn-scc2:hover {
+  background:#eec344 !important;
+  border-color: #f1c337 !important;
+}
+
+.bg-scc { 
+  color: #fff !important;
+  background-color: #011b41 !important; 
+}
+
 .navbar{
   background: url('./resources/fondo.jpg') no-repeat center center scroll;
 }

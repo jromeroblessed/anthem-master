@@ -79,7 +79,7 @@ export default function Header() {
                     </div>                    
                     <div className='position-fixed top-0 end-0 p-3' style={{ zIndex: 11 }}>
                       <div id='liveToast' className={info} role='alert' aria-live='assertive' aria-atomic='true'>
-                        <div className='toast-header bg-primary'>
+                        <div className='toast-header bg-scc'>
                           <strong className='me-auto' style={{color:'#fff'}}>IGLESIA SCC IPIS</strong>
                           <button type='button' className='btn-close bg-light' onClick={handleInfo} />
                         </div>

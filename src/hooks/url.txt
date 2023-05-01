@@ -1,0 +1,5 @@
+https://www.youtube.com/watch?v=7u2Rv4HfCYQ este
+https://www.youtube.com/watch?v=yjRv73QZ7tw 2da parte
+https://www.youtube.com/watch?v=dD0MdMRVHoo OTRO
+https://heroicons.com/ ICONOS
+https://www.npmjs.com/package/react-syntax-highlighter DOCUMENTACION DE LIBRERÍA DE CODIGO DUCUMENTAR

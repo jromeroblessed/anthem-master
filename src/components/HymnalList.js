@@ -1,5 +1,5 @@
-import React, { useEffect, useContext, useState } from 'react';
-import HymnalContext from '../context/Hymnal/HymnalContext';
+import React, { useEffect, useState } from 'react';
+import useLocalStorage from '../hooks/useLocalStorage';
 import { Document, Page } from 'react-pdf/dist/esm/entry.webpack';
 import { hymnal, motto, DOCTRINA_FUNDAMENTAL, HISTORIA, pages, newT } from '../resources/himn';
 import manual from '../resources/ManualProvicional.pdf';
@@ -12,15 +12,26 @@ import sermon from '../resources/sermon.pdf';
 import vence from '../resources/vence.pdf';
 import mesa from '../resources/Mesa_de_Fe.pdf';
 //import regla from '../resources/ReglamentoOperativo.pdf';
-import Profile from './Profile';
+import SelectedHymn from './SelectedHymn';
 import Canvas from './Canvas';
 import Lists from './Lists';
+import { adoracion } from '../resources/ADORACION';
+import { coritos } from '../resources/CORITOS';
+import { especiales } from '../resources/ESPECIALES';
+import Submenu from './Submenu';
+import Search from './Search';
 
 const HymnalList = () => {
-  const { getAnthem } = useContext(HymnalContext);
+  const [normalHymnal] = useLocalStorage('normal', hymnal);
+  const [chorusHymnal] = useLocalStorage('coritos', coritos);
+  const [worshipHymnal] = useLocalStorage('adoracion', adoracion);
+  const [specialHymnal] = useLocalStorage('especial', especiales);
+  const [Himnal, setHimnal] = useState([]);
+  const [viewCateg, setViewCateg] = useState(true);
+  
   const [textSize, setTextSize] = useState(18);
-  const [Himnal, setHimnal] = useState(hymnal);
-  const [search, setsearch] = useState('');
+  const [selectedHimnal, setSelectedHimnal] = useState({});  
+  const [search, setSearch] = useState('');
   const [reading, setReadin] = useState('');
   const [numPages, setNumPages] = useState(null);
   const [pageNumber, setPageNumber] = useState(1);
@@ -30,6 +41,17 @@ const HymnalList = () => {
     let date = new Date();
     return Math.floor((date - new Date(date.getFullYear(), 0, 0)) / (1000 * 60 * 60 * 24));
   };
+  
+  const setTypeHimnal = (e) => {
+    const { id } = e.target;
+    setSearch(''); 
+    setHimnal(id === 'special' ? specialHymnal : 
+              id === 'worship' ? worshipHymnal : 
+              id === 'chorus' ? chorusHymnal : 
+              normalHymnal);
+    setViewCateg(id === 'normal')
+  }  
+
   function onDocumentLoadSuccess({ numPages }) {
     setNumPages(numPages);
     setPageNumber(1);
@@ -63,31 +85,15 @@ const HymnalList = () => {
   }, [search]);
 
   const fill = (arr) => {
-    setsearch('');
+    setSearch('');
     setHimnal(hymnal.filter((coin) => arr.some((x) => x === coin.id)));
   };
 
   return (
-    <>
-      <div className='btn-group btn-group-lg' role='group' aria-label='Basic example'>
-        <button
-          className='btn btn-primary'
-          type='button'
-          data-bs-toggle='offcanvas'
-          data-bs-target='#offcanvasExample'
-          aria-controls='offcanvasExample'>
-          Ver Categorías
-        </button>
-        <button
-          className='btn btn-dark'
-          type='button'
-          data-bs-toggle='offcanvas'
-          data-bs-target='#offcanvasReading'
-          aria-controls='offcanvasReading'>
-          Ver Lemas y Otros
-        </button>
-      </div>
-      <Lists/>
+    <>     
+      <Submenu setTypeHimnal={setTypeHimnal}/>      
+      <Search setSearch={setSearch} viewCateg={viewCateg} />
+      <Lists Himnal={Himnal} setSelectedHimnal={setSelectedHimnal}/>
       <Canvas fill={fill} setHimnal={setHimnal}/>
       <div
         className='offcanvas offcanvas-start'
@@ -116,12 +122,7 @@ const HymnalList = () => {
                 setDocument(mesa);
               }}>
               DEVOCIONAL 2022
-            </li>
-            <li className='list-group-item d-flex justify-content-between align-items-center'>
-                <a href="https://my.bible.com/es/bible/150/GEN.1.RVR95" target="_blank" rel="noreferrer" className="list-group-item-action" style={{textDecoration: 'none'}}>
-                 BÍBLIA Y DEVOCIONALES
-                </a>
-            </li>
+            </li>            
             <li
               className='list-group-item d-flex justify-content-between align-items-center'
               data-bs-toggle='modal'
@@ -277,27 +278,7 @@ const HymnalList = () => {
           </ul>
         </div>
       </div>
-      <div
-        className='modal fade'
-        id='staticBackdrop'
-        data-bs-backdrop='static'
-        data-bs-keyboard='false'
-        tabIndex='-1'
-        aria-labelledby='staticBackdropLabel'
-        aria-hidden='true'>
-        <div className='modal-dialog modal-fullscreen-xxl-down'>
-          <div className='modal-content'>
-            <div className='modal-body'>
-              <Profile />
-            </div>
-            <div className='modal-footer'>
-              <button type='button' className='btn btn-secondary' data-bs-dismiss='modal'>
-                Close
-              </button>
-            </div>
-          </div>
-        </div>
-      </div>
+      <SelectedHymn selectedHimnal={selectedHimnal}/>            
       <div
         className='modal fade '
         id='staticPDF'
@@ -306,7 +287,7 @@ const HymnalList = () => {
         tabIndex='-1'
         aria-labelledby='staticPDFLabel'
         aria-hidden='true'>
-        <div className='modal-dialog modal-fullscreen-xxl-down'>
+        <div className='modal-dialog modal-fullscreen'>
           <div className='modal-content'>
             <div className='modal-body p-0 m-0'>
               <center>
@@ -357,7 +338,7 @@ const HymnalList = () => {
         tabIndex='-1'
         aria-labelledby='staticReadingLabel'
         aria-hidden='true'>
-        <div className='modal-dialog modal-fullscreen-xxl-down'>
+        <div className='modal-dialog modal-fullscreen'>
           <div className='modal-content'>
             <div className='modal-body'>
               <input
@@ -373,11 +354,11 @@ const HymnalList = () => {
                 <em style={{ fontSize: textSize }}>{reading}</em>
               </pre>
             </div>
-            <div className='modal-footer'>
-              <button type='button' className='btn btn-secondary' data-bs-dismiss='modal'>
-                Close
-              </button>
-            </div>
+            <div className='w-100 position-fixed bottom-0'>          
+            <button type='button' className='btn float-end btn-secondary m-2 mx-4' data-bs-dismiss='modal'>            
+            <i className="bi bi-x-lg"></i>
+            </button>
+          </div>
           </div>
         </div>
       </div>     

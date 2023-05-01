@@ -1,5 +1,5 @@
 export const coritos = [
-{id:1,title:"1  .- GEDEON Y SUS TRESCIENTOS ", anthem:
+{id:1,title:"1.- ADORACIÓN", anthem:
 `
 1.- ADORACIÓN
 

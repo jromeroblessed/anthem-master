@@ -1,4 +1,6 @@
-
+export const especiales = [
+{id:1,title:"1.-  A LA CASA DE JAIRO", anthem:
+`
 1.-  A LA CASA DE JAIRO
 
 A la casa de Jairo iba Jesús,
@@ -20,7 +22,9 @@ De aquella multitud que le seguía,
 Una parte creía en el Señor;
 Mas, la otra, enemiga y curiosa,
 Hoy la vemos vivir aún peor.
-
+`,track:"",demo:""},
+{id:2,title:"2.-  A LOS CAMPOS, A SEGAR", anthem:
+`
 2.-  A LOS CAMPOS, A SEGAR
 
 A los campos a segar,
@@ -49,7 +53,9 @@ El amor del Salvador
 Pronto llegará el fin,
 Sonará el gran clarín;
 Él nos dará vida sin fin.
-
+`,track:"",demo:""},
+{id:3,title:"3.-  A JESUCRISTO VEN SIN TARDAR", anthem:
+`
 3.-  A JESUCRISTO VEN SIN TARDAR
 
 A Jesucristo ven sin tardar,
@@ -71,8 +77,9 @@ Su voz escucha sin demorar,
 Y grato acepta lo que hoy te da,
 Tal vez mañana no habrá lugar,
 No te detengas, ven.
-
-
+`,track:"",demo:""},
+{id:4,title:"4.-  A SOLAS", anthem:
+`
 4.-  A SOLAS
 
 A solas y en silencio medito,
@@ -98,7 +105,9 @@ Y hacer de mi cuerpo un altar,
 //:Que sienta que en mi alma tu vives,
 Y tu gloria divina
 Conmigo ha de morar://
-
+`,track:"",demo:""},
+{id:5,title:"5.-   ABRE MIS OJOS A LA LUZ", anthem:
+`
 5.-   ABRE MIS OJOS A LA LUZ
 
 Abre mis ojos a la luz,
@@ -140,7 +149,9 @@ Por toda la eternidad;
 Y cuando en tu presencia esté,
 Tu santo nombre alabaré.
 Mora en mí, Espíritu Consolador.
-
+`,track:"",demo:""},
+{id:6,title:"6.-  AL DESPERTAR LA PURPURINA AURORA", anthem:
+`
 6.-  AL DESPERTAR LA PURPURINA AURORA
 
 Al despertar la purpurina aurora,
@@ -170,7 +181,9 @@ Oh qué será cuando en la excelsa gloria,
 El alba rompa en perennal fulgor.
 Aun más sublime que los altos cielos,
 Será mirar el rostro del Señor.
-
+`,track:"",demo:""},
+{id:7,title:"7.-   ALCANCÉ SALVACIÓN", anthem:
+`
 7.-   ALCANCÉ SALVACIÓN
 
 De paz inundada mi senda ya esté,
@@ -195,8 +208,9 @@ La fe tornaráse en gran realidad,
 Al irse la niebla veloz,
 Desciende Jesús con su gran majestad,
 ¡Aleluya! estoy bien con mi Dios.
-
-
+`,track:"",demo:""},
+{id:8,title:"8.-  ALLÁ EN LOS OLIVOS", anthem:
+`
 8.-  ALLÁ EN LOS OLIVOS
 
 Allá, en los olivos, se oyó una plegaria,
@@ -215,8 +229,9 @@ Así fue llevada la cruz al calvario,
 Así el pecado de la humanidad,
 A cambio de vida le dieron la muerte,
 Por sus beneficios vinagre a tomar.
-
-
+`,track:"",demo:""},
+{id:9,title:"9.-  ALLÁ FUE DIOS", anthem:
+`
 9.-  ALLÁ FUE DIOS
 
 Allá, donde las noches son más tristes,
@@ -248,7 +263,9 @@ No alumbra nunca;
 Allá, donde se ignoran las estrellas,
 Allá, me fue mi Dios a rescatar.
 Remigio Correoso
-
+`,track:"",demo:""},
+{id:10,title:"10.-  AMANECIÓ", anthem:
+`
 10.-  AMANECIÓ
 
 Amaneció, salió el sol, pero ya se ocultó,
@@ -281,7 +298,9 @@ Es nuestro sueño y esperanza,
 Que Dios nos henchirá
 Allá en su reino, de amor que perdurará.
 Rachel Caraza
-
+`,track:"",demo:""},
+{id:11,title:"11.-   AMÉRICA SERÁ PARA CRISTO", anthem:
+`
 11.-   AMÉRICA SERÁ PARA CRISTO
 
 América será para Cristo,
@@ -319,7 +338,9 @@ Y Dios bendecirá a Costa Rica,
 Y Dios bendecirá al Salvador,
 Naciones que aunque sean muy chicas,
 Serán grandes en la faz del Señor.
-
+`,track:"",demo:""},
+{id:12,title:"12.-  ÁNGELES BELLOS", anthem:
+`
 12.-  ÁNGELES BELLOS
 
 Si yo tuviera de la mañana
@@ -341,7 +362,9 @@ Vestido blanco, palma y corona,
 Visten aquellos que están allí;
 Y los de ahora, si son fieles,
 Vestidos blancos tendrán también.
-
+`,track:"",demo:""},
+{id:13,title:"13.-   AÑOS MI ALMA EN VANIDAD VIVIÓ", anthem:
+`
 13.-   AÑOS MI ALMA EN VANIDAD VIVIÓ
 
 Años mi alma en vanidad vivió, 
@@ -367,8 +390,9 @@ Toda mi alma a Cristo ya entregué,
 Hoy le quiero y sirvo como a rey,
 Por los siglos siempre cantaré,
 Al Salvador.
-
-
+`,track:"",demo:""},
+{id:14,title:"14.-   AUMÉNTAME LA FE", anthem:
+`
 14.-   AUMÉNTAME LA FE
 
 Mientras viva en este mundo,
@@ -397,7 +421,9 @@ Enemigos poderosos,
 Nuestra ruina procuran sin cesar;
 El Señor dice: “No temas,
 Yo contigo, por siempre, voy a estar”.
-
+`,track:"",demo:""},
+{id:15,title:"15.-  AUNQUE ANOCHEZCA", anthem:
+`
 15.-  AUNQUE ANOCHEZCA
 
 Aunque anochezca, vendrá la aurora
@@ -420,8 +446,9 @@ Cuando amanezca nos juntaremos,
 Con redimidos de toda edad;
 No habrá más llanto ni adiós diremos,
 En el eterno feliz hogar.
-
-
+`,track:"",demo:""},
+{id:16,title:"16.- AUNQUE RUDA LA TORMENTA", anthem:
+`
 16.- AUNQUE RUDA LA TORMENTA
 
 Aunque ruda la tormenta,
@@ -449,8 +476,9 @@ Al amparo de la roca salvo estoy;
 Él, mis penas dulcifica,
 Soy objeto de su amor;
 Al amparo de la roca salvo estoy.
-
-
+`,track:"",demo:""},
+{id:17,title:"17.-  AYÚDAME A ENTENDER", anthem:
+`
 17.-  AYÚDAME A ENTENDER
 
 Ayúdame a entender, que de los cielos
@@ -473,8 +501,9 @@ Cuando brindas lo inmenso de tu ser,
 Cúbreme con la flor de tu consuelo;
 Para tu cruz muy firme levantar.
 Remigio Correoso
-
-
+`,track:"",demo:""},
+{id:18,title:"18.-  BAJO DEL OLIVAR", anthem:
+`
 18.-  BAJO DEL OLIVAR
 
 Bajo de las estrellas, Donde andaba mi Jesús,
@@ -496,7 +525,9 @@ No puedo comprender, El amor que sintió
 Mi Jesús, cuando oró en el jardín.
 Gloria sea dada a Él, que mis culpas borró,
 Cuando oró bajo del olivar.
-
+`,track:"",demo:""},
+{id:19,title:"19.-  BELLA SIÓN", anthem:
+`
 19.-  BELLA SIÓN
 
 Sión, dulce hogar, bella Sión.
@@ -518,7 +549,9 @@ En la eternidad;
 Ya pasarán esta tierra,
 Este cielo y el mar,
 Y un mundo nuevo habrá en Sión.
-
+`,track:"",demo:""},
+{id:20,title:"20.-  BIBLIA PARA MÍ", anthem:
+`
 20.-  BIBLIA PARA MÍ
 
 Hay un libro anunciándole al mundo,
@@ -541,8 +574,9 @@ De la hermosa senda que trazó el Señor;
 El que cambia penas y tristezas
 Dando gozo del Consolador.
 Javier Sosa
-
-
+`,track:"",demo:""},
+{id:21,title:"21.-   BLANCOS VESTIDOS", anthem:
+`
 21.-   BLANCOS VESTIDOS
 
 Blancos vestidos bañados de luz,
@@ -578,8 +612,9 @@ Bello país donde no hay que sufrir,
 Dulce refugio de Santo calor,
 Bello lugar donde no hay que morir,
 Casa de amor.
-
-
+`,track:"",demo:""},
+{id:22,title:"22.-  CÁNTICO CELESTE", anthem:
+`
 22.-  CÁNTICO CELESTE
 
 En tu ser, un dulce canto gozarás,
@@ -601,7 +636,9 @@ Ya la noche pasará con su pavor,
 De tus penas, ya no temas;
 Hoy, trabaja, ora y sirve a tu Señor,
 Pronto el sol alumbrará tu corazón.
-
+`,track:"",demo:""},
+{id:23,title:"23.-  CANTO FELIZ", anthem:
+`
 23.-  CANTO FELIZ
 
 Canto feliz de Cristo Jesús,
@@ -618,8 +655,9 @@ Mi Salvador es Cristo el Rey,
 Salvo soy, salvo soy,
 En plena gloria con Él estaré,
 Cristo me, Cristo me salvó.
-
-
+`,track:"",demo:""},
+{id:24,title:"24.-  CASTILLO FUERTE", anthem:
+`
 24.-  CASTILLO FUERTE
 
 Castillo fuerte es nuestro Dios
@@ -659,7 +697,9 @@ Nos pueden despojar de bienes,
 Nombre, hogar, el cuerpo destruir,
 Mas siempre ha de existir;
 De Dios el reino eterno, Amén.
-
+`,track:"",demo:""},
+{id:25,title:"25.-  COMO ROSA FRAGANTE", anthem:
+`
 25.-  COMO ROSA FRAGANTE
 
 Como rosa fragante,
@@ -680,8 +720,9 @@ Es la paz que Jesús me ha dado.
 Como fiel alegría,
 En la lucha del día,
 Es la paz que Jesús me ha dado.
-
-
+`,track:"",demo:""},
+{id:26,title:"26.-  ¿CÓMO PODRÉ ESTAR", anthem:
+`
 26.-  ¿CÓMO PODRÉ ESTAR
 
 TRISTE?
@@ -716,7 +757,9 @@ Si en mí, la fe desmaya,
 Y caigo en la ansiedad,
 // : Tan sólo Él me levanta,
 Me da seguridad : //
-
+`,track:"",demo:""},
+{id:27,title:"27.-  COMPRADO POR CRISTO", anthem:
+`
 27.-  COMPRADO POR CRISTO
 
 Comprado con sangre por Cristo,
@@ -748,7 +791,9 @@ Yo sé que me espera corona,
 La cual a los fieles dará;
 Jesús Salvador, en el cielo,
 Mi alma con Él estará.
-
+`,track:"",demo:""},
+{id:28,title:"28.-  CONFÍO EN DIOS", anthem:
+`
 28.-  CONFÍO EN DIOS
 
 Confío en Dios, muy cerca siempre está,
@@ -765,12 +810,9 @@ Confío en Dios en horas de aflicción,
 Me hará triunfar en ruda tentación,
 Y en mi dolor con tierno amor,
 Mi Padre amante cuidará de mí.
-
-
-
-
-
-
+`,track:"",demo:""},
+{id:29,title:"29.-  CORDERO", anthem:
+`
 29.-  CORDERO
 
 Cordero, que bajaste del cielo,
@@ -804,8 +846,9 @@ Tú eres el que diste a mi vida,
 Esa paz, sin igual,
 Que no pude encontrar
 En el mundo falaz.
-
-
+`,track:"",demo:""},
+{id:30,title:"30.-  CREO EN TI", anthem:
+`
 30.-  CREO EN TI
 
 Creo en Ti, como creo en el sol
@@ -844,8 +887,9 @@ Con tu amor sin igual,
 Creo en Ti, aunque otros te nieguen,
 Y un iluso me juzguen
 Oh Jesús, creo en Ti.
-
-
+`,track:"",demo:""},
+{id:31,title:"31.-  CRISTO ES LA PEÑA", anthem:
+`
 31.-  CRISTO ES LA PEÑA
 
 Cristo es la peña de Horeb
@@ -870,8 +914,9 @@ Oh pecador, Que vas por el desierto,
 Por las candentes arenas del pecar;
 Oye la voz que te dice ven y bebe,
 Es Jesucristo que te quiere perdonar.
-
-
+`,track:"",demo:""},
+{id:32,title:"32.-  CRISTO GUARDA SIEMPRE", anthem:
+`
 32.-  CRISTO GUARDA SIEMPRE
 
 Cristo guarda siempre,
@@ -911,7 +956,9 @@ Puedo en Él confiar;
 Pues cual la roca
 Eterna de los siglos
 Firme estaré.
-
+`,track:"",demo:""},
+{id:33,title:"33.-   CRISTO JAMÁS CAMBIARÁ", anthem:
+`
 33.-   CRISTO JAMÁS CAMBIARÁ
 
 Los tiempos y épocas cambian,
@@ -939,8 +986,9 @@ El sol de la vida se oculta,
 Las sombras y penas vendrán,
 Mas Él por los siglos perdura,
 Pues Cristo jamás cambiará.
-
-
+`,track:"",demo:""},
+{id:34,title:"34.-  CRISTO  ME AYUDA POR  ÉL A VIVIR", anthem:
+`
 34.-  CRISTO  ME AYUDA POR  ÉL A VIVIR
 
 Cristo me ayuda por Él a vivir,
@@ -966,9 +1014,9 @@ Cada momento se acuerda de mí.
 ¿Tengo flaquezas o débil estoy?
 Cristo me dice: “Tu amparo yo soy”;
 Cada momento en tinieblas o en luz, Siempre conmigo está mi Jesús.
-
-
-
+`,track:"",demo:""},
+{id:35,title:"35.-  CRISTO PROMETE", anthem:
+`
 35.-  CRISTO PROMETE
 
 Cristo promete que un día,
@@ -995,7 +1043,9 @@ Cuánto padezco en el mundo,
 Muchos se burlan de mí;
 Ya viene el día en que terminen,
 Todas mis luchas aquí.
-
+`,track:"",demo:""},
+{id:36,title:"36.-  CRISTO VIVE", anthem:
+`
 36.-  CRISTO VIVE
 
 Despertaron alegres las flores,
@@ -1011,11 +1061,9 @@ Con acentos de triunfo y poder.
 ¡Oh! Maestro, la muerte no pudo, Absoluta victoria alcanzar,
 Aunque el golpe con ella fue rudo,
 De su triunfo no pudo gozar.
-
-
-
-
-
+`,track:"",demo:""},
+{id:37,title:"37.-  CUAL NOCTURNO", anthem:
+`
 37.-  CUAL NOCTURNO
 
 Cual nocturno y dulce son
@@ -1049,8 +1097,9 @@ Pero cerca está Jesús,
 El Pastor amante,
 Que con fiel solicitud
 Ven, te dice, a mí.
-
-
+`,track:"",demo:""},
+{id:38,title:"38.-  CUÁN FELICES FUIMOS", anthem:
+`
 38.-  CUÁN FELICES FUIMOS
 
 Cuán felices fuimos,
@@ -1097,7 +1146,9 @@ Que ya le ha dejado,
 De un mundo soez,
 Exclamó angustiado:
 “Consumado es”://
-
+`,track:"",demo:""},
+{id:39,title:"39.-  CUÁN GRANDE ES ÉL", anthem:
+`
 39.-  CUÁN GRANDE ES ÉL
 
 Señor, mi Dios, al contemplar los cielos,
@@ -1124,7 +1175,9 @@ Cuando el Señor me llame a su presencia,
 Al dulce hogar, al cielo de esplendor,
 Le adoraré cantando la grandeza,
 De su poder y su infinito amor.
-
+`,track:"",demo:""},
+{id:40,title:"40.-  CUANDO ANDABA EN CAMINOS DEL MUNDO", anthem:
+`
 40.-  CUANDO ANDABA EN CAMINOS DEL MUNDO
 
 Cuando andaba en caminos del mundo,
@@ -1146,7 +1199,9 @@ Las estrellas caerán de los cielos
 En una nube mi Jesús viene ya,
 //: A juzgar a los vivos y muertos ://
 En el día del juicio final.
-
+`,track:"",demo:""},
+{id:41,title:"41.-  CUANDO YA DE ESTA VIDA", anthem:
+`
 41.-  CUANDO YA DE ESTA VIDA
 
 Cuando ya de esta vida
@@ -1175,8 +1230,9 @@ Cuando allá de los arroyos
 El murmullo acabará,
 Y el azul del infinito,
 Su encanto perderá.
-
-
+`,track:"",demo:""},
+{id:42,title:"42.-  CUÁNTO TIEMPO HACE YA", anthem:
+`
 42.-  CUÁNTO TIEMPO HACE YA
 
 ¿Cuánto tiempo hace ya
@@ -1200,10 +1256,9 @@ Que no escuchas su voz,
 Ni sientes su Santa presencia?
 Sin hacer oración, sin cantar su canción,
 Cuánto tiempo sin su bendición.
-
-
-
-
+`,track:"",demo:""},
+{id:43,title:"43.-   DAME SERENIDAD", anthem:
+`
 43.-   DAME SERENIDAD
 
 Señor, si entre las sombras va mi vida,
@@ -1235,7 +1290,9 @@ Cuando sienta en mi ser felicidad,
 Cuando salte mi pecho de alegría,
 Y que todo sea ya una sinfonía,
 Dame serenidad.
-
+`,track:"",demo:""},
+{id:44,title:"44.-  DE TAL MANERA ME AMÓ", anthem:
+`
 44.-  DE TAL MANERA ME AMÓ
 
 Crucificado por mí, fue Jesús.
@@ -1256,11 +1313,9 @@ En mi lugar padeció aflicción;
 De tal manera me amó.
 Que con su sangre me dio redención,
 De tal manera me amó.
-
-
-
-
-
+`,track:"",demo:""},
+{id:45,title:"45.-  DEJA EL MUNDO", anthem:
+`
 45.-  DEJA EL MUNDO
 
 Cuando triste abatido,
@@ -1281,8 +1336,9 @@ Noche triste no habrá,
 Ya no habrá oscuridad,
 Pues Cristo la lumbre será.
 Lidia Thomas
-
-
+`,track:"",demo:""},
+{id:46,title:"46.-   DÉJAME LLEGAR", anthem:
+`
 46.-   DÉJAME LLEGAR
 
 En tu camino Jesús de amor,
@@ -1304,12 +1360,9 @@ Aunque la escala que hay por subir,
 Es muy extensa Jesús de amor,
 Dame la dicha de terminar,
 Sin haber vuelto la vista atrás.
-
-
-
-
-
-
+`,track:"",demo:""},
+{id:47,title:"47.-  DÍA TAN GRANDE", anthem:
+`
 47.-  DÍA TAN GRANDE
 
 Día tan grande no puedo olvidar,
@@ -1344,7 +1397,9 @@ Siempre recuerdo con fe y gratitud,
 Al contemplarle en la cruz,
 Que sus heridas me dieron la vida;
 Alabo al bendito Jesús.
-
+`,track:"",demo:""},
+{id:48,title:"48.-   DILO A CRISTO", anthem:
+`
 48.-   DILO A CRISTO
 
 Cuando estés cansado y abatido,
@@ -1374,8 +1429,9 @@ Fía en Cristo, fía en Cristo,
 Te dará en el cielo franca entrada,
 Fía en Cristo el Señor.
 Coro: Fía en Cristo, fía en Cristo...
-
-
+`,track:"",demo:""},
+{id:49,title:"49.-   DIRÍGEME, SEÑOR", anthem:
+`
 49.-   DIRÍGEME, SEÑOR
 
 Mi vida es como un barco
@@ -1404,7 +1460,9 @@ Si tu barquilla tienes
 Allá en alta mar,
 No temas que es mi Cristo
 Que viene sobre el mar.
-
+`,track:"",demo:""},
+{id:50,title:"50.-  DIVINO COMPAÑERO", anthem:
+`
 50.-  DIVINO COMPAÑERO
 
 Divino compañero del camino,
@@ -1421,10 +1479,9 @@ La sombra de la noche se aproxima,
 Y en ella el tentador acechará;
 No me dejes solo en el camino,
 Ayúdame, ayúdame hasta llegar.
-
-
-
-
+`,track:"",demo:""},
+{id:51,title:"51.-  DULCES MELODÍAS", anthem:
+`
 51.-  DULCES MELODÍAS
 
 Dulces melodías cantaré
@@ -1446,7 +1503,9 @@ Yo viví en sombras y en dolor;
 Triste, herido, pobre y vil.
 Mas la tierna mano del Señor,
 Me llevó a su redil.
-
+`,track:"",demo:""},
+{id:52,title:"52.-   EL ARPA DE DAVID", anthem:
+`
 52.-   EL ARPA DE DAVID
 
 Dice una hermosa historia  del pasado,
@@ -1469,8 +1528,9 @@ Mostrábale el Señor al niño rey.
 Para ungirlo Samuel tomó su cuerno,
 Poniéndolo el primero en Israel.
 Remigio Correoso
-
-
+`,track:"",demo:""},
+{id:53,title:"53.-  EL CRISTO DE NAZARET", anthem:
+`
 53.-  EL CRISTO DE NAZARET
 
 Soñé que en las playas de un mar me vi,
@@ -1514,9 +1574,9 @@ Me ordena decirte el mensaje fiel,
 Que de paz llenará tu ser;
 Si sólo permites que more en ti,
 El Cristo de Nazaret.
-
-
-
+`,track:"",demo:""},
+{id:54,title:"54.-  EL FIN DEL MUNDO", anthem:
+`
 54.-  EL FIN DEL MUNDO
 
 En fin del mundo se acerca ya,
@@ -1543,7 +1603,9 @@ Al cielo vuelen todos los santos,
 Los que creyeron, solamente en Él.
 Al cielo vuelen todos mis cantos,
 Los que dedico, solamente a Él.
-
+`,track:"",demo:""},
+{id:55,title:"55.-  EL HIJO PRÓDIGO", anthem:
+`
 55.-  EL HIJO PRÓDIGO
 
 Había un padre que tenía dos hijos,
@@ -1571,7 +1633,9 @@ Pero un día el padre, vio al hijo;
 Y al camino le vino a encontrar.
 Hizo fiestas, porque ya su hijo,
 Nuevamente retornó al hogar.
-
+`,track:"",demo:""},
+{id:56,title:"56.-  EL JARDINERO", anthem:
+`
 56.-  EL JARDINERO
 
 Un jardinero vino al huerto,
@@ -1598,7 +1662,9 @@ Pero, algún día, los segadores,
 En sus alfolíes echarán las flores,
 Y la cizaña será atada,
 Y al fuego será lanzada.
-
+`,track:"",demo:""},
+{id:57,title:"57.-  EL PRÍNCIPE JUDÍO", anthem:
+`
 57.-  EL PRÍNCIPE JUDÍO
 
 Un príncipe Judío
@@ -1645,7 +1711,9 @@ Yo que no creía,
 Le di mi corazón.
 Y ahora, cuando el venga,
 Me dará la salvación.
-
+`,track:"",demo:""},
+{id:58,title:"58.-   EL QUE HABITA AL ABRIGO DE DIOS", anthem:
+`
 58.-   EL QUE HABITA AL ABRIGO DE DIOS
 
 El que habita al abrigo de Dios,
@@ -1670,7 +1738,9 @@ El que habita al abrigo de Dios,
 Para siempre seguro estará.
 Caerán mil y diez mil por doquier,
 Mas a él no vendrá mortandad.
-
+`,track:"",demo:""},
+{id:59,title:"59.-    EN EL VALLE FLORECE LA ROSA", anthem:
+`
 59.-    EN EL VALLE FLORECE LA ROSA
 
 En  el valle florece la rosa,
@@ -1687,9 +1757,9 @@ Es Jesús la promesa divina,
 Es la rosa más bella que el sol;
 Es la rosa de toda la Iglesia,
 Que le sirve con el corazón.
-
-
-
+`,track:"",demo:""},
+{id:60,title:"60.-  EN MAR DE PRUEBAS", anthem:
+`
 60.-  EN MAR DE PRUEBAS
 
 En mar de pruebas voy navegando;
@@ -1711,8 +1781,9 @@ Señor, te pido que no me dejes,
 Porque soy débil y al fin puedo caer.
 En Ti confiando viviré eternamente,
 Y con tu ayuda todo lo podré vencer.
-
-
+`,track:"",demo:""},
+{id:61,title:"61.-  EN MI SER HABITA", anthem:
+`
 61.-  EN MI SER HABITA
 
 En mi ser tengo paz, una célica paz;
@@ -1734,10 +1805,9 @@ Esa paz sin igual, que me libra del mal,
 Sublime, sin par, eternal.
 No la quiero dejar, pues me ha de llevar,
 A mi eterna mansión celestial.
-
-
-
-
+`,track:"",demo:""},
+{id:62,title:"62.-  ERAN CIEN OVEJAS", anthem:
+`
 62.-  ERAN CIEN OVEJAS
 
 Eran cien ovejas
@@ -1777,7 +1847,9 @@ Que vino a salvarte;
 Acepta su gracia,
 Ríndete en sus brazos,
 Es tu buen pastor.
-
+`,track:"",demo:""},
+{id:63,title:"63.-  ¡FELIZ CUMPLEAÑOS!", anthem:
+`
 63.-  ¡FELIZ CUMPLEAÑOS!
 
 Feliz, feliz cumpleaños
@@ -1799,7 +1871,9 @@ Oremos, pues, unidos,
 Que te bendiga más,
 Te colme en el futuro,
 De paz, prosperidad.
-
+`,track:"",demo:""},
+{id:64,title:"64.-  GETSEMANÍ, HONDO RECUERDO", anthem:
+`
 64.-  GETSEMANÍ, HONDO RECUERDO
 
 Orando al Padre está Jesús,
@@ -1826,7 +1900,9 @@ Ya lo clavaron en la cruz,
 ¡Vedle sangrando, pecador!
 Por tus maldades  ha sufrido,
 Cruel ignominia y gran dolor.
-
+`,track:"",demo:""},
+{id:65,title:"65.-  GRACIAS, SEÑOR", anthem:
+`
 65.-  GRACIAS, SEÑOR
 
 //: Gracias, Señor,
@@ -1845,11 +1921,9 @@ Más cuando en gloria vengas tú,
 Contigo llévame Señor.
 Y así por la eternidad,
 Tu nombre alabaré.
-
-
-
-
-
+`,track:"",demo:""},
+{id:66,title:"66.-  GRANDE ESPERANZA", anthem:
+`
 66.-  GRANDE ESPERANZA
 
 Grande esperanza si no te tuviera,
@@ -1887,8 +1961,9 @@ Tú fuiste dueña siempre de mí.
 Vivió muy triste, vivió muy solo,
 ¡Lejos de Dios!
 Rachel Coraza
-
-
+`,track:"",demo:""},
+{id:67,title:"67.-   ¿HAS TRATADO DE LLEVAR TU CARGA?", anthem:
+`
 67.-   ¿HAS TRATADO DE LLEVAR TU CARGA?
 
 ¿Has tratado de llevar tu carga
@@ -1911,7 +1986,9 @@ Sólo en Cristo protección y vida
 Hallarás, Hallarás
 Trae a Él  tus cargas siempre todas
 Que a ninguno rechazó jamás.
-
+`,track:"",demo:""},
+{id:68,title:"68.-  HAY UNA SENDA", anthem:
+`
 68.-  HAY UNA SENDA
 
 Hay una senda,
@@ -1940,11 +2017,9 @@ Que el mundo me trazó.
 En aquel feliz momento,
 Cuando mi Cristo
 A mí me rescató ://
-
-
-
-
-
+`,track:"",demo:""},
+{id:69,title:"69.-  HERMOSA MISIÓN", anthem:
+`
 69.-  HERMOSA MISIÓN
 
 Misionero,  que vas
@@ -1976,8 +2051,9 @@ Que te guarde el Señor,
 Que te dé de su gracia,
 Que te dé fortaleza
 Y te revista de valor.
-
-
+`,track:"",demo:""},
+{id:70,title:"70.-  INDESCRIPTIBLE AMOR", anthem:
+`
 70.-  INDESCRIPTIBLE AMOR
 
 Si alguien intentara
@@ -2026,7 +2102,9 @@ Que alcanzaré el cielo
 Y terminará el dolor.
 Indescriptible amor.
 Rachel Caraza
-
+`,track:"",demo:""},
+{id:71,title:"71.-  INFINITA ESPERANZA", anthem:
+`
 71.-  INFINITA ESPERANZA
 
 La noche tiende su oscuro manto,
@@ -2048,9 +2126,9 @@ Dijo el apóstol a los Corintios,
 Que en esperanza vivía él;
 Que, cuando en gloria, viniera Cristo,
 Seguro estaba que iría con Él.
-
-
-
+`,track:"",demo:""},
+{id:72,title:"72.-  JESÚS, ES LA ROCA", anthem:
+`
 72.-  JESÚS, ES LA ROCA
 
 Jesús, es la roca de la salvación,
@@ -2078,8 +2156,9 @@ Jesús, es la fuente de la bendición,
 Él, cura las llagas de mi corazón.
 Él, sana leprosos, a ciegos, da luz,
 //:Por eso, confío tan sólo en Jesús://
-
-
+`,track:"",demo:""},
+{id:73,title:"73.-  JESÚS ES MI REY SOBERANO", anthem:
+`
 73.-  JESÚS ES MI REY SOBERANO
 
 Jesús es mi rey soberano.
@@ -2105,7 +2184,9 @@ En todo entregarme yo a Ti.
 Entonces acepta mi vida,
 Que a Ti, toda queda rendida.
 Pues yo soy feliz, pues yo soy feliz, por Ti.
-
+`,track:"",demo:""},
+{id:74,title:"74.-  JESÚS, NAZARENO", anthem:
+`
 74.-  JESÚS, NAZARENO
 
 Jesús, Nazareno, clavado en la cruz,
@@ -2127,9 +2208,9 @@ Y crucificado, el divino Maestro,
 Vinagre con hiel, diéronle a beber;
 Soldados que parten, el Santo Vestuario,
 Y sobre la capa la suerte se echó.
-
-
-
+`,track:"",demo:""},
+{id:75,title:"75.-  LA BIBLIA ES LA BANDERA", anthem:
+`
 75.-  LA BIBLIA ES LA BANDERA
 
 La Biblia es la bandera
@@ -2159,7 +2240,9 @@ Sus tribus representan,
 Y el asta en que ella flota,
 Al Cordero pascual.
 Javier Sosa
-
+`,track:"",demo:""},
+{id:76,title:"76.-   LA ISLA", anthem:
+`
 76.-   LA ISLA
 
 Hay una isla llena de encanto
@@ -2193,8 +2276,9 @@ Dicen que un ángel
 Muy presuroso y con mucho afán
 Prepara el libro
 Donde el Maestro ha de llamar.
-
-
+`,track:"",demo:""},
+{id:77,title:"77.-   LA MAÑANA", anthem:
+`
 77.-   LA MAÑANA
 
 Ya la noche con su sombra se alejó;
@@ -2217,8 +2301,9 @@ Una vida esplendorosa viviré,
 La mañana vino ya.
 Porque en Cristo, mi Señor apoyaré,
 La mañana vino ya.
-
-
+`,track:"",demo:""},
+{id:78,title:"78.-   LA MAÑANA GLORIOSA", anthem:
+`
 78.-   LA MAÑANA GLORIOSA
 
 Cuán gloriosa será la mañana,
@@ -2246,7 +2331,9 @@ El cristiano fiel y verdadero,
 Y también el obrero de valor,
 Y  la Iglesia, esposa del Cordero;
 Estarán en los brazos del Señor.
-
+`,track:"",demo:""},
+{id:79,title:"79.-  LAS CREACIONES", anthem:
+`
 79.-  LAS CREACIONES
 
 Las creaciones de Dios son grandes,
@@ -2273,9 +2360,9 @@ Cuán dulce el alma se siente unida,
 Con el supremo y gran Hacedor;
 Con esas fuerzas espirituales,
 Nada imposible suelo encontrar.
-
-
-
+`,track:"",demo:""},
+{id:80,title:"80.-  LAS DOS SENDAS", anthem:
+`
 80.-  LAS DOS SENDAS
 
 Amigo, ¿cuál es tu destino?
@@ -2303,8 +2390,9 @@ La senda de Cristo es angosta,
 No hay sitio para el hospital,
 //:Ni  tampoco para el presidio;
 Y al fin del camino la vida eternal://
-
-
+`,track:"",demo:""},
+{id:81,title:"81.-  LAS NUBES", anthem:
+`
 81.-  LAS NUBES
 
 Pienso en las nubes
@@ -2348,8 +2436,9 @@ Como Él prometió
 Juan el profeta lo vio,
 Por eso yo amo a esas nubes.
 Selvin Hall
-
-
+`,track:"",demo:""},
+{id:82,title:"82.- LA PETICIÓN DE MI ALMA", anthem:
+`
 82.- LA PETICIÓN DE MI ALMA
 
 Señor Jesús, escucha el ruego
@@ -2387,9 +2476,9 @@ El cielo esplendoroso,
 Donde estarán los fieles,
 La petición de mi alma,
 Concédeme, Señor.
-
-
-
+`,track:"",demo:""},
+{id:83,title:"83.-  LA VENIDA DE CRISTO", anthem:
+`
 83.-  LA VENIDA DE CRISTO
 
 La venida de Cristo se acerca,
@@ -2416,8 +2505,9 @@ Perdonando, Jesús nos perdona,
 Y nos lleva con Él a reinar;
 Ganaremos también la corona,
 ¡Vigilad, Trabajad, Perdonad!
-
-
+`,track:"",demo:""},
+{id:84,title:"84.-  ¡LLÁMAME, SEÑOR!", anthem:
+`
 84.-  ¡LLÁMAME, SEÑOR!
 
 Llámame, Señor,  si estoy durmiendo,
@@ -2439,7 +2529,9 @@ Llámame del cielo, y que despierte,
 Que yo como Samuel, responderé,
 Si útil puedo serte hasta la muerte,
 ¡Ordena lo que quieras, yo lo haré!
-
+`,track:"",demo:""},
+{id:85,title:"85.-  LLEVAR LA CRUZ DE CRISTO", anthem:
+`
 85.-  LLEVAR LA CRUZ DE CRISTO
 
 Llevar la cruz de Cristo
@@ -2464,8 +2556,9 @@ La ley de su palabra
 No es de variación,
 Mas viene la jornada
 Hacia la salvación.
-
-
+`,track:"",demo:""},
+{id:86,title:"86.-   MAESTRO, SE ENCRESPAN LAS AGUAS", anthem:
+`
 86.-   MAESTRO, SE ENCRESPAN LAS AGUAS
 
 Maestro, se encrespan las aguas
@@ -2505,7 +2598,9 @@ Maestro, prolonga esta calma,
 No me abandones más;
 Cruzaré los abismos contigo,
 Al puerto de eterna paz 
-
+`,track:"",demo:""},
+{id:87,title:"87.-  MANTO REAL", anthem:
+`
 87.-  MANTO REAL
 
 Hermoso manto real,
@@ -2539,8 +2634,9 @@ Sin penas ni temor,
 Mucho gozaré yo,
 Déjame oh Dios llegar,
 Al dulce hogar.
-
-
+`,track:"",demo:""},
+{id:88,title:"88.-  MÁS ALLÁ DEL SOL", anthem:
+`
 88.-  MÁS ALLÁ DEL SOL
 
 Aunque en esta vida no tengo riquezas,
@@ -2564,9 +2660,9 @@ De pruebas rodeado
 Y de tentación;
 Pero Jesucristo que me ama tanto,
 Me llevará a salvo hasta su mansión.
-
-
-
+`,track:"",demo:""},
+{id:89,title:"89.- MÁS DE JESÚS", anthem:
+`
 89.- MÁS DE JESÚS
 
 Más de Jesús deseo saber,
@@ -2588,9 +2684,9 @@ Más de Jesús, más oración,
 Más cerca estar en comunión,
 Más su palabra meditar,
 Más sus promesas alcanzar.
-
-
-
+`,track:"",demo:""},
+{id:90,title:"90.-  MI ALMA NECESITA DE TI", anthem:
+`
 90.-  MI ALMA NECESITA DE TI
 
 Siento que mi alma necesita,
@@ -2611,11 +2707,9 @@ Qué grande bendición,
 Siento que en mi alma
 Se derraman lluvias,
 Lluvias de gracia que vienen de Ti.
-
-
-
-
-
+`,track:"",demo:""},
+{id:91,title:"91.-  MI BARCA", anthem:
+`
 91.-  MI BARCA
 
 Cruzando va mi barca,
@@ -2660,8 +2754,9 @@ En nave semejante,
 Anduvo Ángel María,
 //: Y allí le dijo Cristo,
 Apóstol tú serás  ://
-
-
+`,track:"",demo:""},
+{id:92,title:"92.-  MI CARGA", anthem:
+`
 92.-  MI CARGA
 
 Mi carga, Señor, más se aumenta;
@@ -2683,8 +2778,9 @@ La ley me condena a que muera,
 Que no vaya a la gloria jamás;
 Pero Cristo, el bendito, me dice:
 Ven conmigo y no peques más.
-
-
+`,track:"",demo:""},
+{id:93,title:"93.-  MI DIOS SÓLO ES AMOR", anthem:
+`
 93.-  MI DIOS SÓLO ES AMOR
 
 Mi Dios sólo es amor,
@@ -2708,11 +2804,9 @@ Mi vida le entregué
 Siempre le seguiré,
 Y siempre cantaré,
 De su gracia y amor.
-
-
-
-
-
+`,track:"",demo:""},
+{id:94,title:"94.-  MI DIOS Y YO", anthem:
+`
 94.-  MI DIOS Y YO
 
 Mi Dios y yo, andamos siempre juntos,
@@ -2729,8 +2823,9 @@ Mi Dios y yo, andamos por la senda,
 Cada momento hasta el día final.
 //: Cuando esta tierra y todo aquí fenezca,
 Aún con Dios seré en la eternidad ://
-
-
+`,track:"",demo:""},
+{id:95,title:"95.-  MI PADRE ES UN REY", anthem:
+`
 95.-  MI PADRE ES UN REY
 
 Mi padre es un rey muy rico y sin par,
@@ -2752,8 +2847,9 @@ No importa que yo no tenga un hogar,
 Yo tengo un palacio del sol más allá,
 Y mientras que llego puedo cantar,
 Soy un hijo del rey, aleluya a Jehová.
-
-
+`,track:"",demo:""},
+{id:96,title:"96.-  MISIONERO", anthem:
+`
 96.-  MISIONERO
 
 Hace tiempo vino un hombre
@@ -2790,10 +2886,9 @@ Me consuelo en saber,
 Que un día ante el trono
 Del Señor, nos reuniremos
 Y te volveré a ver.
-
-
-
-
+`,track:"",demo:""},
+{id:97,title:"97.-  NADA SÉ SOBRE EL FUTURO", anthem:
+`
 97.-  NADA SÉ SOBRE EL FUTURO
 
 Nada sé sobre el futuro,
@@ -2827,7 +2922,9 @@ Y al andar por el camino,
 En la prueba o tempestad,
 Sé que Cristo irá conmigo,
 Y me guarda con bondad.
-
+`,track:"",demo:""},
+{id:98,title:"98.-   NADIE PUDO AMARME COMO CRISTO", anthem:
+`
 98.-   NADIE PUDO AMARME COMO CRISTO
 
 Yo quisiera hablarte del amor de Cristo,
@@ -2849,8 +2946,9 @@ Cada día viene a darme nuevo aliento,
 A mi corazón infunde dulce paz;
 No comprenderé por qué vino a salvarme,
 Hasta que en el cielo pueda ver su faz.
-
-
+`,track:"",demo:""},
+{id:99,title:"99.-  NIÑO, VEN", anthem:
+`
 99.-  NIÑO, VEN
 
 Niño, ven, quiero contarte
@@ -2876,8 +2974,9 @@ Las heridas que en la cruz sufrió,
 Fue tan sólo por salvarte,
 Que su vida Él ofreció;
 ¿No podrías la tuya darle hoy?
-
-
+`,track:"",demo:""},
+{id:100,title:"100.-  NO ME DEJES", anthem:
+`
 100.-  NO ME DEJES
 
 //: Como un relámpago ://
@@ -2901,8 +3000,9 @@ Que en el cielo gozarán
 En las bodas del Cordero lucirán,
 Cuando Tú vengas
 Por tu Iglesia muy pronto a levantar.
-
-
+`,track:"",demo:""},
+{id:101,title:"101.-  NO SÉ POR QUÉ", anthem:
+`
 101.-  NO SÉ POR QUÉ
 
 No sé por qué, Señor,
@@ -2927,8 +3027,9 @@ No sé por qué, Señor,
 Será tu voluntad,
 Que todo plan fracase
 En medio del dolor.
-
-
+`,track:"",demo:""},
+{id:102,title:"102.-  OFRENDA", anthem:
+`
 102.-  OFRENDA
 
 Señor, en los umbrales
@@ -2975,7 +3076,9 @@ Proclamen ante el mundo
 Que tengo nueva vida,
 Para ofrendarla toda
 Ante tus pies, Señor. 
-
+`,track:"",demo:""},
+{id:103,title:"103.-  ¡OH, JERUSALEM!", anthem:
+`
 103.-  ¡OH, JERUSALEM!
 
 ¡Oh, Jerusalem, la hermosa,
@@ -3004,7 +3107,9 @@ Aunque tú le has despreciado,
 Dios aún promete,
 Un día volverte
 Tu majestad.
-
+`,track:"",demo:""},
+{id:104,title:"104.-  OH, SILENCIOSA ESPERANZA", anthem:
+`
 104.-  OH, SILENCIOSA ESPERANZA
 
 Oh, silenciosa esperanza,
@@ -3042,8 +3147,9 @@ Dulce canción de victoria
 Junto con Él cantaré;
 Cuando en las nubes de gloria,
 Vuelva a reinar otra vez.
-
-
+`,track:"",demo:""},
+{id:105,title:"105.-  ORAD POR MÍ", anthem:
+`
 105.-  ORAD POR MÍ
 
 Orad por mí los que me amáis;
@@ -3065,9 +3171,9 @@ Orad por mí los que me amáis,
 Así mi fe no flaqueará.
 Seré más fuerte, si es que oráis,
 Y al cielo mi alma llegará.
-
-
-
+`,track:"",demo:""},
+{id:106,title:"106.-  PADRE NUESTRO", anthem:
+`
 106.-  PADRE NUESTRO
 
 Padre nuestro que estás en los cielos,
@@ -3093,7 +3199,9 @@ Las naciones conozcan tu Iglesia,
 Y las almas sientan tu poder.
 Y tus hijos proclamen tu nombre,
 Respaldados por tu gran poder.
-
+`,track:"",demo:""},
+{id:107,title:"107.-  PALOMA MÍA", anthem:
+`
 107.-  PALOMA MÍA
 
 Pasó el invierno, pasó el invierno,
@@ -3127,8 +3235,9 @@ La misma rosa de los jardines
 De Salomón,
 También dijeron, esta es la perla
 Bella de Sión.
-
-
+`,track:"",demo:""},
+{id:108,title:"108.-  PASIÓN Y MUERTE", anthem:
+`
 108.-  PASIÓN Y MUERTE
 
 Cuando contemplaba tu santuario,
@@ -3158,9 +3267,9 @@ Los que allí te pudieron mirar,
 Escucharon por labios del ángel.
 Así mismo pronto volverá.
 Juan Barrera
-
-
-
+`,track:"",demo:""},
+{id:109,title:"109.-  PAZ Y CONSUELO", anthem:
+`
 109.-  PAZ Y CONSUELO
 
 Si está tu corazón, en aflicción
@@ -3204,9 +3313,9 @@ Y hallarás al final de tu pesar
 Y de tus penas,
 La paz del Salvador,
 Lleno de amor, que te consuela.
-
-
-
+`,track:"",demo:""},
+{id:110,title:"110.-  PERDIDO PRÓDIGO, VEN", anthem:
+`
 110.-  PERDIDO PRÓDIGO, VEN
 
 Ven, oh pródigo, ven,
@@ -3230,8 +3339,9 @@ Abundancia hay de pan,
 Ya la mesa está lista
 La bienvenida dan,
 Escucha su voz de amor.
-
-
+`,track:"",demo:""},
+{id:111,title:"111.-  PEREGRINAJE DE JÚBILO", anthem:
+`
 111.-  PEREGRINAJE DE JÚBILO
 
 Oye Jehová de mi alma este cantar,
@@ -3254,8 +3364,9 @@ Oye Señor a Ti daré loor;
 Canción de amor a Ti quiero elevar;
 Y contemplar tu trono celestial,
 Y así cantar alegre un cántico triunfal.
-
-
+`,track:"",demo:""},
+{id:112,title:"112.-  PERSEVERAD", anthem:
+`
 112.-  PERSEVERAD
 
 Perseverad en el camino,
@@ -3284,7 +3395,9 @@ Tras la noche rompe el alba.
 Tras el dolor vendrá una canción;
 Mejor morir hasta aquel día,
 Perseverad hasta el final.
-
+`,track:"",demo:""},
+{id:113,title:"113.-  PERTENEZCO A CRISTO", anthem:
+`
 113.-  PERTENEZCO A CRISTO
 
 Cristo tan sólo pudo amarme,
@@ -3306,10 +3419,9 @@ Mi ser rebosa de pleno gozo,
 Dios me liberta, me da reposo,
 Pues con su sangre Él me compró;
 Ahora soy de Él.
-
-
-
-
+`,track:"",demo:""},
+{id:114,title:"114.-  PIES DIVINOS", anthem:
+`
 114.-  PIES DIVINOS
 
 Pies divinos, pies divinos, pies divinos,
@@ -3331,12 +3443,9 @@ Cuán hermosos y cuán santos, cuán benditos,
 De Jesús, el Nazareno, son los pies;
 //:Oh, yo quiero, muy fielmente,
 Aquellos pies imitar://
-
-
-
-
-
-
+`,track:"",demo:""},
+{id:115,title:"115.-  PON TU MANO, SEÑOR", anthem:
+`
 115.-  PON TU MANO, SEÑOR
 
 Cuando en pruebas
@@ -3357,11 +3466,9 @@ Por sentir tu llamado en mí,
 No es posible
 Seguirte ocultando,
 No es posible tu voz resistir.
-
-
-
-
-
+`,track:"",demo:""},
+{id:116,title:"116.-  PON TUS OJOS EN CRISTO", anthem:
+`
 116.-  PON TUS OJOS EN CRISTO
 
 ¡Oh! alma cansada y turbada,
@@ -3383,10 +3490,9 @@ Jamás faltará su promesa,
 He aquí yo contigo estoy,
 Al mundo perdido aprisa,
 Anuncia la salvación hoy.
-
-
-
-
+`,track:"",demo:""},
+{id:117,title:"117.-  POR UNA SENDA ESTRECHA", anthem:
+`
 117.-  POR UNA SENDA ESTRECHA
 
 Por una senda estrecha andaba yo,
@@ -3408,11 +3514,9 @@ Tu cruz permíteme cargar, hablé,
 Y otra cruz me señaló;
 La misma que con miedo deseché,
 Cuando, antes, Él me la ofreció.
-
-
-
-
-
+`,track:"",demo:""},
+{id:118,title:"118.-  PREDICADOR", anthem:
+`
 118.-  PREDICADOR
 
 Predicador de Dios elegido,
@@ -3434,9 +3538,9 @@ Predicador nuestro Jesucristo,
 Murió en la cruz por el pecador;
 //:  Pero su sangre será en tus manos
 Si no predicas predicador  ://
-
-
-
+`,track:"",demo:""},
+{id:119,title:"119.-  PRIMAVERA DE GLORIA", anthem:
+`
 119.-  PRIMAVERA DE GLORIA
 
 Oigo las notas gloriosas,
@@ -3466,9 +3570,9 @@ Que en mis soledades, pronto brotarán,
 Porque tú has llegado,
 Y me has consolado con felicidad.
 Noemí Caraza
-
-
-
+`,track:"",demo:""},
+{id:120,title:"120.-  QUÉ BELLA HISTORIA", anthem:
+`
 120.-  QUÉ BELLA HISTORIA
 
 Qué bella historia de excelsa gloria,
@@ -3491,8 +3595,9 @@ Don inefable tan incomparable,
 De grande salvación y eterna redención,
 El sol divino, brilla en mi camino,
 Su luz alumbra a mi corazón.
-
-
+`,track:"",demo:""},
+{id:121,title:"121.-  QUÉ DÍA TAN GLORIOSO", anthem:
+`
 121.-  QUÉ DÍA TAN GLORIOSO
 
 Qué día tan glorioso,
@@ -3530,8 +3635,9 @@ Pues siempre te cuidaré,
 Eres bendición del cielo,
 Que con lágrimas busqué.
 Rachel Coraza
-
-
+`,track:"",demo:""},
+{id:122,title:"122.-  QUÉ LE DARÉ", anthem:
+`
 122.-  QUÉ LE DARÉ
 
 Muchas cuentas tengo con mi Señor,
@@ -3551,13 +3657,9 @@ Y David su siervo que fue un gran rey,
 Y que mil tesoros llegó a tener,
 Con sus labios dijo todo es de Dios,
 Y lo mismo suyo le ofrezco yo.
-
-
-
-
-
-
-
+`,track:"",demo:""},
+{id:123,title:"123.-  ¡QUIERO AMARTE, SEÑOR!", anthem:
+`
 123.-  ¡QUIERO AMARTE, SEÑOR!
 
 Si amarte significa entregarse a Ti,
@@ -3581,8 +3683,9 @@ Pues escuché tu voz,
 Sentí tu amor y tu perdón.
 
 ¡Amarte sólo a Ti, vale la pena!
-
-
+`,track:"",demo:""},
+{id:124,title:"124.-  QUIERO HABLARTE DE MI BUEN SEÑOR", anthem:
+`
 124.-  QUIERO HABLARTE DE MI BUEN SEÑOR
 
 Quiero hablarte de mi buen Señor,
@@ -3607,7 +3710,9 @@ Ahora canto: ¡Aleluya!
 Canto siempre: ¡Aleluya!
 Ahora canto  ¡Aleluya!
 A mi Salvador.
-
+`,track:"",demo:""},
+{id:125,title:"125.-  QUIERO VIVIR SIN MANCHAS", anthem:
+`
 125.-  QUIERO VIVIR SIN MANCHAS
 
 Quiero vivir sin manchas, ese es mi afán,
@@ -3630,7 +3735,9 @@ Y aunque todo se nuble en Ti esté mi fe
 Y aunque los hombres juntos te nieguen;
 En esas tinieblas te confesaré.
 Apóstol Arturo Rangel
-
+`,track:"",demo:""},
+{id:126,title:"126.-  RECORDAR ES VIVIR", anthem:
+`
 126.-  RECORDAR ES VIVIR
 
 Recordar es vivir
@@ -3659,7 +3766,9 @@ De este pueblo de Dios
 Eso sí es recordar.
 Recuerda y vive.
 Juan Barrera
-
+`,track:"",demo:""},
+{id:127,title:"127.-  RECUERDO BENDITO", anthem:
+`
 127.-  RECUERDO BENDITO
 
 Recuerdo siempre, Jesús glorioso,
@@ -3689,9 +3798,9 @@ Me bautizaste, en otras lenguas Angelicales, yo te adoré,
 Para servirte con tu poder Cristo,
 Me dotaste, con las señales
 De aquel glorioso pentecostés.
-
-
-
+`,track:"",demo:""},
+{id:128,title:"128.-  RESPUESTA A UN LLAMADO", anthem:
+`
 128.-  RESPUESTA A UN LLAMADO
 
 En calvario Cristo derramó,
@@ -3711,8 +3820,9 @@ Andaré por valles y collados,
 Llevaré tu cruz hasta el final.
 Mi deseo es estar a tu lado,
 En la bella aurora celestial.
-
-
+`,track:"",demo:""},
+{id:129,title:"129.-  ¿SABER QUIÉRES?", anthem:
+`
 129.-  ¿SABER QUIÉRES?
 
 ¿Saber quiéres por qué canto tan gozoso?
@@ -3735,10 +3845,9 @@ Su presencia me da paz, seguridad.
 Aunque pruebas inunden mi corazón,
 He creído en un Dios, vivo y poderoso,
 Que a su Hijo envió por mi perdón.
-
-
-
-
+`,track:"",demo:""},
+{id:130,title:"130.-  SI CRUZAS ESTE VALLE", anthem:
+`
 130.-  SI CRUZAS ESTE VALLE
 
 Si cruzas este valle tenebroso,
@@ -3760,7 +3869,9 @@ Escucha el amoroso llamamiento,
 De Cristo, inocentísimo Cordero.
 Que vino a redimirnos con su sangre,
 Muriendo escarnecido en un  madero.
-
+`,track:"",demo:""},
+{id:131,title:"131.-  SI ES TU VIDA", anthem:
+`
 131.-  SI ES TU VIDA
 
 Si es tu vida en Jesús,
@@ -3798,10 +3909,9 @@ Algún día le veré,
 Como dice la historia,
 Y por eso en Jesús
 Nunca es triste el vivir.
-
-
-
-
+`,track:"",demo:""},
+{id:132,title:"132.-  SI NO ES ESO AMOR", anthem:
+`
 132.-  SI NO ES ESO AMOR
 
 Dejó su trono de gloria,
@@ -3822,8 +3932,9 @@ Aun en su inmortal suplicio,
 Mostró su compasión,
 Al ladrón que clamó arrepentido,
 El paraíso Jesús prometió.
-
-
+`,track:"",demo:""},
+{id:133,title:"133.-  SÓLO CRISTO TE OFRECE", anthem:
+`
 133.-  SÓLO CRISTO TE OFRECE
 
 Sólo Cristo te ofrece
@@ -3852,8 +3963,9 @@ Sin embargo, en Jesús
 Todo es dicha sin fin,
 Todos somos felices
 Adorándole a Él.
-
-
+`,track:"",demo:""},
+{id:134,title:"134.-  SÓLO UN POCO MÁS", anthem:
+`
 134.-  SÓLO UN POCO MÁS
 
 Sólo un poco más de la vida aquí,
@@ -3880,8 +3992,9 @@ Oh qué gozo siento en mi corazón.
 Estoy cerca de la gloria,
 Oh qué dulce paz, cuánta bendición,
 Estar en su presencia.
-
-
+`,track:"",demo:""},
+{id:135,title:"135.-  SOY AQUEL HIJO PRÓDIGO", anthem:
+`
 135.-  SOY AQUEL HIJO PRÓDIGO
 
 Soy aquel Hijo Pródigo
@@ -3919,8 +4032,9 @@ Hoy me uniré a la orquesta.
 Y entonaré los himnos
 Por siempre y por los siglos,
 Y no saldré jamás.
-
-
+`,track:"",demo:""},
+{id:136,title:"136.-  SOY BAUTIZADO", anthem:
+`
 136.-  SOY BAUTIZADO
 
 Soy bautizado como manda el Salvador,
@@ -3937,11 +4051,9 @@ Amigo, no demores, ven al Salvador,
 Por qué dar otro paso a la perdición.
 Tal vez mañana será tarde, pecador.
 Ven sin tardar, dale hoy tu corazón.
-
-
-
-
-
+`,track:"",demo:""},
+{id:137,title:"137.-  SOY LA TRISTE OVEJA", anthem:
+`
 137.-  SOY LA TRISTE OVEJA
 
 Soy la triste oveja que dejó al pastor.
@@ -3966,8 +4078,9 @@ Ven que entre mis brazos te puedo llevar.
 Ven mi triste oveja vamos al redil,
 Que muy tierno pasto tengo para ti
 Conmigo por siempre tú vas a vivir.
-
-
+`,track:"",demo:""},
+{id:138,title:"138.-  SOY PEREGRINO AQUÍ", anthem:
+`
 138.-  SOY PEREGRINO AQUÍ
 
 Soy peregrino aquí,
@@ -3998,7 +4111,9 @@ Reina por siempre en él,
 Y allí Jesús dará
 Eterna habitación,
 Es el mensaje de mi rey.
-
+`,track:"",demo:""},
+{id:139,title:"139.-   TAL COMO EL SIERVO BRAMA", anthem:
+`
 139.-   TAL COMO EL SIERVO BRAMA
 
 Tal como el siervo brama,
@@ -4020,8 +4135,9 @@ Se abate mucho mi alma,
 Te busca con vehemencia,
 ¡Oh, Dios, de mi clemencia,
 Escucha mi oración!
-
-
+`,track:"",demo:""},
+{id:140,title:"140.-  TE VENGO QUE DECIR", anthem:
+`
 140.-  TE VENGO QUE DECIR
 
 //:Te vengo a decir://
@@ -4041,10 +4157,9 @@ De felicidad.
 Toda la verdad,
 Yo te amo, Señor,
 Te quiero Señor, con el corazón.
-
-
-
-
+`,track:"",demo:""},
+{id:141,title:"141.-  TIERRA DE LA PALESTINA", anthem:
+`
 141.-  TIERRA DE LA PALESTINA
 
 Tierra bendita y divina,
@@ -4072,7 +4187,9 @@ De la Jerusalem.
 Viejas paredes destruidas
 Que si tuvieran vida,
 Nos hablarían también.
-
+`,track:"",demo:""},
+{id:142,title:"142.-   TODO A CRISTO YO ME RINDO", anthem:
+`
 142.-   TODO A CRISTO YO ME RINDO
 
 Todo a Cristo yo me rindo,
@@ -4099,7 +4216,9 @@ Todo a Cristo he rendido,
 Siento el fuego de su amor;
 ¡Oh! qué gozo hay en mi alma,
 Gloria, gloria a mi Señor!
-
+`,track:"",demo:""},
+{id:143,title:"143.-  TODO CANTA", anthem:
+`
 143.-  TODO CANTA
 
 Las estrellas cantan su amor,
@@ -4127,7 +4246,9 @@ Por los campos lindas se ven,
 Tan alegres las mariposas
 Que en un coro sobre una flor,
 Hosanna cantan al Salvador.
-
+`,track:"",demo:""},
+{id:144,title:"144.-  TOMA, POR FAVOR", anthem:
+`
 144.-  TOMA, POR FAVOR
 
 Toma, por favor, mis manos, Señor;
@@ -4156,7 +4277,9 @@ Dame tu perdón, cual diste a Simón,
 Si te he negado así;
 Toma, por favor, mis manos, Señor,
 Contigo quiero ir.
-
+`,track:"",demo:""},
+{id:145,title:"145.-  TOMA TIEMPO PARA ORAR", anthem:
+`
 145.-  TOMA TIEMPO PARA ORAR
 
 Al amanecer de una hermosa mañana,
@@ -4176,8 +4299,9 @@ Si me buscas yo enjugaré tu llanto,
 Cuando muchos no te quieran ayudar,
 Borraré tu tristeza y tu quebranto,
 Si das tiempo para orar.
-
-
+`,track:"",demo:""},
+{id:146,title:"146.-  TOMA TUS REDES", anthem:
+`
 146.-  TOMA TUS REDES
 
 Estaba soñando que estaba pescando,
@@ -4199,10 +4323,9 @@ Estaba soñando que estaba pescando,
 Y que los pescados decían así:
 Pescador, yo quiero entrar en tus redes,
 Porque en este mundo no vivo feliz.
-
-
-
-
+`,track:"",demo:""},
+{id:147,title:"147.-  TRIGO SOY", anthem:
+`
 147.-  TRIGO SOY
 
 Ya se acerca en el cielo la cosecha,
@@ -4229,8 +4352,9 @@ Alabando al Señor, al Señor,
 De los que trabajaron
 Y nunca se avergonzaron
 En los campos del Señor.
-
-
+`,track:"",demo:""},
+{id:148,title:"148.-  UN GRANO DE ARENA", anthem:
+`
 148.-  UN GRANO DE ARENA
 
 Un grano de arena en ancho desierto,
@@ -4253,8 +4377,9 @@ Columnas fieles y apoyo de esta verdad.
 Siempre en nuestra boca
 Se halle un dulce canto,
 Con el cual podamos a Cristo alabar.
-
-
+`,track:"",demo:""},
+{id:149,title:"149.-   UNA VOZ ME DICE DESDE EL CIELO", anthem:
+`
 149.-   UNA VOZ ME DICE DESDE EL CIELO
 
 Una voz me dice desde el cielo,
@@ -4286,7 +4411,9 @@ Hoy la salvación es para ti,
 Luego tú estarás aquí en el cielo.
 Do yo tengo una morada,
 Preparada para ti.
-
+`,track:"",demo:""},
+{id:150,title:"150.-  VEN, TRAE TU CRUZ", anthem:
+`
 150.-  VEN, TRAE TU CRUZ
 
 Por una senda estrecha andaba yo,
@@ -4313,9 +4440,9 @@ La senda sigo que su fin tendrá,
 En gloria eterna paz y amor;
 Do por la cruz corona me dará,
 Mi guía fiel, mi buen Señor.
-
-
-
+`,track:"",demo:""},
+{id:151,title:"151.-  VENDRÁ EL SEÑOR", anthem:
+`
 151.-  VENDRÁ EL SEÑOR
 
 Vendrá el Señor
@@ -4362,7 +4489,9 @@ Y roto de la tumba
 Los espantos,
 Vino el Señor,
 Entonarán los santos.
-
+`,track:"",demo:""},
+{id:152,title:"152.-  YA SALE EL SOL", anthem:
+`
 152.-  YA SALE EL SOL
 
 Ya sale el sol, ya sale el sol,
@@ -4390,8 +4519,9 @@ Con tintes de grana,
 Qué bello sol, qué bello sol,
 En esta mañana gloriosa de amor.
 Cristo es el sol, Cristo es el sol de amor.
-
-
+`,track:"",demo:""},
+{id:153,title:"153.-  YO SÉ A DÓNDE VOY", anthem:
+`
 153.-  YO SÉ A DÓNDE VOY
 
 Un día muy triste,
@@ -4430,7 +4560,9 @@ Ven, viaja conmigo,
 A la eternidad,
 Gozaremos juntos
 La felicidad.
-
+`,track:"",demo:""},
+{id:154,title:"154.-  YO SÓLO ESPERO ESE DÍA", anthem:
+`
 154.-  YO SÓLO ESPERO ESE DÍA
 
 \\:Yo sólo espero ese día,
@@ -4457,3 +4589,5 @@ Allí no habrá más tristezas,
 Ni más llanto para mí,
 //: Con los redimidos
 Al Cordero alabaré ://
+`,track:"",demo:""}
+]
