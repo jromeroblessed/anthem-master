@@ -1,14 +1,13 @@
 {
   "files": {
-    "main.css": "/anthem-master/static/css/main.ef1baeec.css",
-    "main.js": "/anthem-master/static/js/main.ba5539df.js",
+    "main.css": "/anthem-master/static/css/main.c7bf12cf.css",
+    "main.js": "/anthem-master/static/js/main.17161499.js",
     "static/js/787.63908c7c.chunk.js": "/anthem-master/static/js/787.63908c7c.chunk.js",
     "static/media/Mesa_de_Fe.pdf": "/anthem-master/static/media/Mesa_de_Fe.0c5432f00d7666de97cb.pdf",
     "static/media/familia.pdf": "/anthem-master/static/media/familia.7a3cad44ad4b53a9f3ae.pdf",
     "static/media/liderazgo.pdf": "/anthem-master/static/media/liderazgo.ada2c236316f25a9e2a5.pdf",
     "pdf.worker.js": "/anthem-master/e7e915313973ba1d49f9bb2a1998626e.js",
     "static/media/sermon.pdf": "/anthem-master/static/media/sermon.f9b733b984ba28d9eb2f.pdf",
-    "static/media/fondo.jpg": "/anthem-master/static/media/fondo.69f7b1de6552668323f5.jpg",
     "static/media/fe.pdf": "/anthem-master/static/media/fe.52ba5586d6517ef7f49d.pdf",
     "static/media/ManualProvicional.pdf": "/anthem-master/static/media/ManualProvicional.5d8cd6c5963a1a36859c.pdf",
     "static/media/biografia.pdf": "/anthem-master/static/media/biografia.b1bd2d53465ec5a1ef75.pdf",
@@ -18,12 +17,12 @@
     "static/media/sccc.png": "/anthem-master/static/media/sccc.914d6032eff7f65d0427.png",
     "static/media/bootstrap-icons.woff2?": "/anthem-master/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
     "index.html": "/anthem-master/index.html",
-    "main.ef1baeec.css.map": "/anthem-master/static/css/main.ef1baeec.css.map",
-    "main.ba5539df.js.map": "/anthem-master/static/js/main.ba5539df.js.map",
+    "main.c7bf12cf.css.map": "/anthem-master/static/css/main.c7bf12cf.css.map",
+    "main.17161499.js.map": "/anthem-master/static/js/main.17161499.js.map",
     "787.63908c7c.chunk.js.map": "/anthem-master/static/js/787.63908c7c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef1baeec.css",
-    "static/js/main.ba5539df.js"
+    "static/css/main.c7bf12cf.css",
+    "static/js/main.17161499.js"
   ]
 }
