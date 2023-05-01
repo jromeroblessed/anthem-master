@@ -79,7 +79,8 @@ pre {
 }
 
 .navbar{
-  background: url('./resources/fondo.jpg') no-repeat center center scroll;
+  background-image: linear-gradient(to top, #ffc824, #fa784a, #bf4168, #652e67, #011b41);
+ 
 }
 
 .pdf-container {
