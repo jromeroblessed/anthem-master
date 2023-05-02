@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import ReactPlayer from 'react-player';
 
-const SelectedHymn = ({ selectedHimnal }) => {
+const SelectedHymn = ({ selectedHymn }) => {
   const [textSize, setTextSize] = useState(18);
   return (
     <div
@@ -15,7 +15,7 @@ const SelectedHymn = ({ selectedHimnal }) => {
       <div className='modal-dialog modal-fullscreen'>
         <div className='modal-content'>
           <div className='modal-body'>
-            {selectedHimnal ? (
+            {selectedHymn ? (
               <div className='text-center'>
                 <input
                   type='range'
@@ -27,16 +27,16 @@ const SelectedHymn = ({ selectedHimnal }) => {
                   value={textSize}
                 />
                 <pre>
-                  <em style={{ fontSize: textSize }}>{selectedHimnal.anthem}</em>
+                  <em style={{ fontSize: textSize }}>{selectedHymn.anthem}</em>
                 </pre>
-                { selectedHimnal.track && (
+                { selectedHymn.track && (
                 <div className='row'>
                   <div className='form-group col-md-6'>
                     <label className='lbl'>Pista</label>
                     <div className='player-wrapper'>
                       <ReactPlayer
                         className='react-player'
-                        url={`https://drive.google.com/uc?alt=media&id=${selectedHimnal.track}`}
+                        url={`https://drive.google.com/uc?alt=media&id=${selectedHymn.track}`}
                         controls
                         light
                         style={{ maxHeight: '60px' }}
@@ -52,7 +52,7 @@ const SelectedHymn = ({ selectedHimnal }) => {
                         className='react-player'
                         url={[
                           {
-                            src: `https://drive.google.com/uc?alt=media&id=${selectedHimnal.demo}`,
+                            src: `https://drive.google.com/uc?alt=media&id=${selectedHymn.demo}`,
                             type: 'audio/mp3',
                             default: true,
                           },
