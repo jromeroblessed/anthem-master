@@ -1,31 +1,31 @@
 import React, { useState } from 'react';
 
-function Lists({Himnal, setSelectedHimnal}) { 
+function Lists({Himnal, setSelectedHymn}) { 
   
   const [textSize, setTextSize] = useState(18); 
 
   return (
     <>      
       <div className='list-group h-100'>
-        {Himnal.map((hymnal) => (
-          <div className='accordion' id={'accordion' + hymnal.id} key={hymnal.id}>
+        {Himnal.map((anthem) => (
+          <div className='accordion' id={'accordion' + anthem.id} key={anthem.id}>
             <div className='accordion-item'>
-              <h2 className='accordion-header' id={'heading' + hymnal.id}>
+              <h2 className='accordion-header' id={'heading' + anthem.id}>
                 <button
                   className='accordion-button collapsed'
                   type='button'
                   data-bs-toggle='collapse'
-                  data-bs-target={'#collapse' + hymnal.id}
+                  data-bs-target={'#collapse' + anthem.id}
                   aria-expanded='false'
-                  aria-controls={'collapse' + hymnal.id}>
-                  <h3 width='70'>{hymnal.title}</h3>
+                  aria-controls={'collapse' + anthem.id}>
+                  <h3 width='70'>{anthem.title}</h3>
                 </button>
               </h2>
               <div
-                id={'collapse' + hymnal.id}
+                id={'collapse' + anthem.id}
                 className='accordion-collapse collapse'
-                aria-labelledby={'heading' + hymnal.id}
-                data-bs-parent={'accordion' + hymnal.id}>
+                aria-labelledby={'heading' + anthem.id}
+                data-bs-parent={'accordion' + anthem.id}>
                 <div className='accordion-body  p-0 m-0'>
                   <label className='form-label'>(Pista) Dar click a la Letra</label>
                   <input
@@ -41,10 +41,10 @@ function Lists({Himnal, setSelectedHimnal}) {
                     className='list-group-item list-group-item-action text-center'
                     data-bs-toggle='modal'
                     data-bs-target='#staticBackdrop'
-                    onClick={() => setSelectedHimnal(hymnal) }
+                    onClick={() => setSelectedHymn(anthem) }
                     href='#!'>
                     <pre className='h5'>
-                      <em style={{ fontSize: textSize }}>{hymnal.anthem}</em>
+                      <em style={{ fontSize: textSize }}>{anthem.anthem}</em>
                     </pre>
                   </a>
                 </div>

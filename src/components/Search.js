@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Search({ setSearch, viewCateg }) {
+function Search({ setSearch, viewCateg, search }) {
   return (
     <>
     <div className="input-group mb-3">
@@ -8,7 +8,8 @@ function Search({ setSearch, viewCateg }) {
         <input
           className='form-control'
           id='myInput'
-          type='text'          
+          type='text'
+          value={search}
           onChange={(text) => setSearch(text.target.value)}
           placeholder='Search..'
         />

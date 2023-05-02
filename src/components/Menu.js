@@ -7,7 +7,7 @@ function Menu() {
           className="btn btn-scc2 rounded-0 fw-bold" 
           target="_blank" 
           rel="noreferrer">
-          <i class="bi bi-book-half"></i> BÍBLIA
+          <i className="bi bi-book-half"></i> BÍBLIA
         </a>
         <button
           className='btn btn-scc2 rounded-0 fw-bold'
@@ -15,7 +15,7 @@ function Menu() {
           data-bs-toggle='offcanvas'
           data-bs-target='#offcanvasReading'
           aria-controls='offcanvasReading'>
-          <i class="bi bi-pen-fill"></i> LEMAS
+          <i className="bi bi-pen-fill"></i> LEMAS
         </button>       
       </div>
   )

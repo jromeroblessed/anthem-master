@@ -25,12 +25,12 @@ const HymnalList = () => {
   const [normalHymnal] = useLocalStorage('normal', hymnal);
   const [chorusHymnal] = useLocalStorage('coritos', coritos);
   const [worshipHymnal] = useLocalStorage('adoracion', adoracion);
-  const [specialHymnal] = useLocalStorage('especial', especiales);
-  const [Himnal, setHimnal] = useState([]);
-  const [viewCateg, setViewCateg] = useState(true);
-  
+  const [specialHymnal] = useLocalStorage('especial', especiales); 
+  const [selectedHymnal, setSelectedHymnal] = useState(normalHymnal);
+  const [Himnal, setHimnal] = useState(normalHymnal);
+  const [viewCateg, setViewCateg] = useState(true);  
   const [textSize, setTextSize] = useState(18);
-  const [selectedHimnal, setSelectedHimnal] = useState({});  
+  const [selectedHymn, setSelectedHymn] = useState({});  
   const [search, setSearch] = useState('');
   const [reading, setReadin] = useState('');
   const [numPages, setNumPages] = useState(null);
@@ -45,10 +45,12 @@ const HymnalList = () => {
   const setTypeHimnal = (e) => {
     const { id } = e.target;
     setSearch(''); 
-    setHimnal(id === 'special' ? specialHymnal : 
+    let tempHimn = id === 'special' ? specialHymnal : 
               id === 'worship' ? worshipHymnal : 
               id === 'chorus' ? chorusHymnal : 
-              normalHymnal);
+              normalHymnal;
+    setHimnal(tempHimn)
+    setSelectedHymnal(tempHimn)
     setViewCateg(id === 'normal')
   }  
 
@@ -72,7 +74,7 @@ const HymnalList = () => {
   useEffect(() => {
     if (!!search) {
       setHimnal(
-        hymnal.filter(
+        selectedHymnal.filter(
           (coin) =>
             coin.title.includes(search.toUpperCase()) ||
             coin.id.toString().includes(search) ||
@@ -80,20 +82,20 @@ const HymnalList = () => {
         ),
       );
     } else {
-      setHimnal(hymnal);
+      setHimnal(selectedHymnal);
     }
   }, [search]);
 
   const fill = (arr) => {
     setSearch('');
-    setHimnal(hymnal.filter((coin) => arr.some((x) => x === coin.id)));
+    setHimnal(normalHymnal.filter((coin) => arr.some((x) => x === coin.id)));
   };
 
   return (
     <>     
       <Submenu setTypeHimnal={setTypeHimnal}/>      
-      <Search setSearch={setSearch} viewCateg={viewCateg} />
-      <Lists Himnal={Himnal} setSelectedHimnal={setSelectedHimnal}/>
+      <Search setSearch={setSearch} viewCateg={viewCateg} search={search}/>
+      <Lists Himnal={Himnal} setSelectedHymn={setSelectedHymn}/>
       <Canvas fill={fill} setHimnal={setHimnal}/>
       <div
         className='offcanvas offcanvas-start'
@@ -278,7 +280,7 @@ const HymnalList = () => {
           </ul>
         </div>
       </div>
-      <SelectedHymn selectedHimnal={selectedHimnal}/>            
+      <SelectedHymn selectedHymn={selectedHymn}/>
       <div
         className='modal fade '
         id='staticPDF'
