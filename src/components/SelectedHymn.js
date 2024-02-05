@@ -2,7 +2,16 @@ import React, { useState } from 'react';
 import ReactPlayer from 'react-player';
 
 const SelectedHymn = ({ selectedHymn }) => {
+  const isVideo = [6,196,256].includes(selectedHymn.id);
+  const fileExtension = isVideo ? '.mp4' : '.mp3';
+
   const [textSize, setTextSize] = useState(18);
+  // Asegurar que selectedHymn.track sea un string
+  const trackNumber = String(selectedHymn.id);
+
+  // Añadir ceros al principio según la longitud actual
+  const paddedTrack = trackNumber.padStart(3, '0');
+  console.log(paddedTrack + ' --- '+ fileExtension)
   return (
     <div
       className='modal fade'
@@ -36,7 +45,7 @@ const SelectedHymn = ({ selectedHymn }) => {
                     <div className='player-wrapper'>
                       <ReactPlayer
                         className='react-player'
-                        url={`https://drive.google.com/uc?alt=media&id=${selectedHymn.track}`}
+                        url={`https://github.com/jromeroblessed/anthem-master/raw/master/src/resources/himnos/${paddedTrack}P${fileExtension}`}
                         controls
                         light
                         style={{ maxHeight: '60px' }}
@@ -52,7 +61,7 @@ const SelectedHymn = ({ selectedHymn }) => {
                         className='react-player'
                         url={[
                           {
-                            src: `https://drive.google.com/uc?alt=media&id=${selectedHymn.demo}`,
+                            src: `https://github.com/jromeroblessed/anthem-master/raw/master/src/resources/himnos/${paddedTrack}C${fileExtension}`,
                             type: 'audio/mp3',
                             default: true,
                           },
